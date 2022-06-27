@@ -1,0 +1,3 @@
+[submodule "theme/book"]
+	path = themes/book
+	url = https://github.com/sauricat/hugo-theme-book.git
