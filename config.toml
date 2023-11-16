@@ -29,15 +29,15 @@ enableGitInfo = true
 
 [menu]
 # [[menu.before]]
-[[menu.after]]
-  name = "Trans in Academia! Broadcast"
-  url = "https://oau.edu.kg"
-  weight = 10
+# [[menu.after]]
+#   name = "Trans in Academia! Broadcast"
+#   url = "https://oau.edu.kg"
+#   weight = 10
 
-[[menu.after]]
-  name = "TransUniGuide"
-  url = "https://uniguide.transacademic.org/"
-  weight = 20
+# [[menu.after]]
+#   name = "TransUniGuide"
+#   url = "https://uniguide.transacademic.org/"
+#   weight = 20
 
 [params]
   # (Optional, default light) Sets color theme: light, dark or auto.
