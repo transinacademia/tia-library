@@ -46,7 +46,7 @@ Stryker, Susan. “My Words to Victor Frankenstein Above the Village of Chamouni
 
 
 
-##批评
+## 批评
 
 彼得·布鲁克斯在回答他最近在论文《什么是怪物？（根据〈弗兰肯斯坦〉）》标题中提出的问题时提出，不管怪物可能是什么，它「都有可能是那些逃避性别定义的东西」（229）。布鲁克斯阅读了玛丽·雪莱（Mary Shelley）笔下关于一个过于有野心的科学家及其麻烦创造物的故事，将其视为对19世纪现实主义文学传统的早期异议（dissent），而该传统当时在叙事形式上还尚未取得主导地位。他认为，《弗兰肯斯坦》在文本上通过一种叙述策略展开，该策略来自于视觉导向的认识论（a visually oriented epistemology）与一种重视语言的、认知身体真理的方法（approach to knowing the truth of bodies that privileges verbal linguisticality）之间的紧张关系（199-200）。在布鲁克斯运用的批评框架中，通过看而产生知识（knowing by seeing），和通过言说/听产生知识（knowing by speaking/hearing），是分别作为男性和女性而性别化的。在这个背景下，雪莱的文本受到了启蒙科学越来越引人注目的真理主张所带来的，对知识当代重新排序的影响，并从女性的角度对其进行了批判。**怪物通过自己在视觉领域中作为可行主体（viable subject）的失败，问题化了（problematizes）性别；尽管被称为「他」，但它提供了一种女性化（feminine）且潜在女权主义（potentially feminist）的，对抗被阳具化的窥阴癖（phallicized scopophilia）定义的方式。** 通过掌握语言，它主张了自己作为言说主体的位置，展现（enact）了自己在视觉领域中被否定的主体性，从而达成了这种反抗。[5]
 
