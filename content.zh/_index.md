@@ -3,7 +3,7 @@ title: 首页
 type: docs
 ---
 
-# Trans in Academia! 文章资料库
+# 文章资料库
 
 这里收录了我们写作和翻译的文章。
 
