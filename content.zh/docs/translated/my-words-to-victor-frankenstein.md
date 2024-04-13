@@ -10,7 +10,7 @@ Stryker, Susan. “My Words to Victor Frankenstein Above the Village of Chamouni
 
 作者：苏珊·史崔克（Susan Stryker）
 
-译者：Nova（she/they）
+译者：amber（she/they）
 
 
 
