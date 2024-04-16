@@ -1,6 +1,6 @@
 ---
 date: 2023-11-06T08:17:00-05:00
-title: 论爱女（Andrea Long Chu）
+title: 论爱女 - Andrea Long Chu
 type: docs
 comment: false
 ---
