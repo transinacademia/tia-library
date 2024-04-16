@@ -11,10 +11,8 @@ comment: false
 
 ***
 
-作者：朱华敏（Andrea Long Chu）和 埃⽶特·哈⾟·德尔格（Emmett Harsin Drager）
-
-译者：許顓頊（they/them/祂/佢/TA）
-
+作者：朱华敏（Andrea Long Chu）和 埃⽶特·哈⾟·德尔格（Emmett Harsin Drager）<br />
+译者：許顓頊（they/them/祂/佢/TA）<br />
 编辑：Nova（she/they）
 
 ***
