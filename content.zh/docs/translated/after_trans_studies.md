@@ -186,12 +186,16 @@ comment: false
 
 ## 参考文献
 
-```
-Barad, Karen. 2012. “On Touching: The Inhuman That Therefore I Am.” *differences* 25, no. 5: 206–23.<br />
-Barad, Karen. 2015. “Transmaterialities: Trans*/Matter/Realities and Queer Political Imaginings.” *GLQ* 21, nos. 2–3: 387–422.<br />
-Beemyn, Brett Genny. 2006. “Autobiography, Transsexual.” [*Glbtq.com*](http://glbtq.com/) (blog), [www.glbtqarchive.com/literature/autobio_transsexual_L.pdf](http://www.glbtqarchive.com/literature/autobio_transsexual_L.pdf) (accessed October 1, 2018).<br />
-Berlant, Lauren. 2011. *Cruel Optimism*. Durham, NC: Duke University Press.<br />
-Bey, Marquis. 2017. “The Trans*-ness of Blackness, the Blackness of Trans*-ness.” *TSQ* 4, no. 2: 275–95.<br />
+Barad, Karen. 2012. “On Touching: The Inhuman That Therefore I Am.” *differences* 25, no. 5: 206–23.
+
+Barad, Karen. 2015. “Transmaterialities: Trans*/Matter/Realities and Queer Political Imaginings.” *GLQ* 21, nos. 2–3: 387–422.
+
+Beemyn, Brett Genny. 2006. “Autobiography, Transsexual.” [*Glbtq.com*](http://glbtq.com/) (blog), [www.glbtqarchive.com/literature/autobio_transsexual_L.pdf](http://www.glbtqarchive.com/literature/autobio_transsexual_L.pdf) (accessed October 1, 2018).
+
+Berlant, Lauren. 2011. *Cruel Optimism*. Durham, NC: Duke University Press.
+
+Bey, Marquis. 2017. “The Trans*-ness of Blackness, the Blackness of Trans*-ness.” *TSQ* 4, no. 2: 275–95.
+
 Brostoff, Marissa. 2017. “Notes on Caitlyn, or Genre Trouble: On the Continued Usefulness of Camp as Queer Method.” *differences* 28, no. 3: 1–18.
 
 Butler, Judith. (1990) 1999. *Gender Trouble: Feminism and the Subversion of Identity*. New York: Routledge.
@@ -257,4 +261,3 @@ Wiegman, Robyn. 2012. *Object Lessons*. Durham, NC: Duke University Press.
 Wiegman, Robyn, and Wilson, Elizabeth A., eds. 2015. “Queer Theory without Antinormativity.” Special issue, *differences* 26, no. 1.
 
 Wilderson, Frank B.III. 2010. *Red, White, and Black: Cinema and the Structure of U.S. Antagonisms*. Durham, NC: Duke University Press.
-```
