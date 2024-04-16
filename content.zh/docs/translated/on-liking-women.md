@@ -8,8 +8,7 @@ comment: false
 
 **Chu, Andrea Long. “On Liking Women.” *N+1*, no. 30, Winter 2018, https://www.nplusonemag.com/issue-30/essays/on-liking-women/.**
 
-作者：朱华敏（Andrea Long Chu）
-
+作者：朱华敏（Andrea Long Chu）<br />
 译者：amber（she/they）
 
 > **译者注：** 本文题目 “On Liking Women” 本应直译为「论喜欢女人」或「论喜欢女性」。不过，考虑到「爱女」一词在国内激女社群中的丰富内涵，该词蕴含的对即便女性之间「性缘关系」的复杂态度，国内激女社群对跨性别者（尤其是跨性别女性）的敌意，以及作者对瓦莱理·索拉纳斯《人渣宣言》感到的吸引，借用「爱女」一此的内在含混性来翻译朱华敏的这篇名作，是再合适不过的了。另外，考虑到原文的写作风格，本篇译文保留了一些流行文化中经常出现但缺乏合适中文翻译的英文单词（如 “crush”），并采用了一些如「媎妹」之类流行于当代简中互联网的女权相关词汇进行翻译。
