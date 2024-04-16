@@ -186,7 +186,7 @@ comment: false
 
 ------
 
-##参考文献
+## 参考文献
 
 Barad, Karen. 2012. “On Touching: The Inhuman That Therefore I Am.” *differences* 25, no. 5: 206–23.
 
