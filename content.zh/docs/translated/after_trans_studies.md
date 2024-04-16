@@ -10,7 +10,9 @@ comment: false
 **Chu, Andrea Long, and Emmett Harsin Drager. “After Trans Studies.” *TSQ: Transgender Studies Quarterly*, vol. 6, no. 1, Feb. 2019, pp. 103–16. *Silverchair*, https://doi.org/10.1215/23289252-7253524.**
 
 作者：朱华敏（Andrea Long Chu）和 埃⽶特·哈⾟·德尔格（Emmett Harsin Drager）
+
 译者：許顓頊（they/them/祂/佢/TA）
+
 编辑：Nova（she/they）
 
 译者注（部分直接复制⾃译者之前译⽂内的声明）：
