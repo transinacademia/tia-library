@@ -1,6 +1,6 @@
 ---
 date: 2023-11-15T23:18:00-05:00
-title: 性别加速主义者宣言（Vikky Storm, Eme Flores）
+title: 性别加速主义者宣言 - Vikky Storm, Eme Flores
 type: docs
 comment: false
 ---
