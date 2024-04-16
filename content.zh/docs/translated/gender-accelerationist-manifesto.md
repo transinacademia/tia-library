@@ -7,11 +7,10 @@ comment: false
 
 # 性别加速主义者宣言(Gender Accelerationist Manifesto)
 
-原文：Gender Accelerationist Manifesto
-
 作者：Vikky Storm, Eme Flores
 
 译者：云清
+***
 
 ## 翻译说明
 
