@@ -9,9 +9,11 @@ comment: false
 
 **Ciara Cremin. (ed.) *Deleuze, Guattari and the Schizoanalysis of Trans Studies.* Bloomsbury Publishing, London, 2022.**
 
+***
 作者：Ciara Cremin
 
 译者：云清
+***
 
 ## 翻译说明
 
