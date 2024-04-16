@@ -9,8 +9,7 @@ comment: false
 **Claire Thurlow. “From TERF to Gender Critical: A Telling Genealogy?” *Sexualities*, 2022-09-30.**
 
 ***
-作者：Claire Thurlow
-
+作者：Claire Thurlow<br />
 译者：云清
 ***
 
