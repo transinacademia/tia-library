@@ -9,8 +9,7 @@ comment: false
 Stryker, Susan. “My Words to Victor Frankenstein Above the Village of Chamounix: Performing Transgender Rage.” *GLQ: A Journal of Lesbian and Gay Studies*, vol. 1, no. 3, June 1994, pp. 237–54. *Silverchair*, https://doi.org/10.1215/10642684-1-3-237.
 
 ***
-作者：苏珊·史崔克（Susan Stryker）
-
+作者：苏珊·史崔克（Susan Stryker）<br />
 译者：amber（she/they）
 ***
 
