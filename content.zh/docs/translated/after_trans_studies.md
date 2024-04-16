@@ -1,3 +1,10 @@
+---
+date: 2024-04-14T23:18:00-05:00
+title: 对话：跨⼉研究之后 - Andrea Long Chu, Emmett Harsin Drager
+type: docs
+comment: false
+---
+
 # 对话：跨⼉研究之后
 
 **Chu, Andrea Long, and Emmett Harsin Drager. “After Trans Studies.” *TSQ: Transgender Studies Quarterly*, vol. 6, no. 1, Feb. 2019, pp. 103–16. *Silverchair*, https://doi.org/10.1215/23289252-7253524.**
