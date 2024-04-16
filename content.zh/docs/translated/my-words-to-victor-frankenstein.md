@@ -1,5 +1,5 @@
 ---
-title: 我在香蒙尼镇上方对维克多·弗兰肯斯坦所说的话：演绎跨性别愤怒（Susan Stryker）
+title: 我在香蒙尼镇上方对维克多·弗兰肯斯坦所说的话：演绎跨性别愤怒 - Susan Stryker
 type: docs
 comment: false
 ---
