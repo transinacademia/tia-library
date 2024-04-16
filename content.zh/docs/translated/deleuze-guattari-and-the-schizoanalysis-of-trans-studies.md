@@ -1,6 +1,6 @@
 ---
 date: 2023-11-15T23:18:00-05:00
-title: 德勒兹、加塔利以及跨儿研究的精神分裂分析 - Ciara Cremin
+title: 德勒兹、加塔利以及跨儿研究的精神分裂分析（Ciara Cremin）
 type: docs
 comment: false
 ---
