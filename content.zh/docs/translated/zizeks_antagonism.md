@@ -1,8 +1,9 @@
-﻿原文：Coffman, C. (2017). Žižek’s Antagonism and the Futures of Trans-Affirmative Lacanian Psychoanalysis. *TSQ: Transgender Studies Quarterly*, 4(3-4), pp.472–496.
+**Coffman, C. (2017). Žižek’s Antagonism and the Futures of Trans-Affirmative Lacanian Psychoanalysis. *TSQ: Transgender Studies Quarterly*, 4(3-4), pp.472–496.**
 
-**作者：克里斯·科夫（Chris Coffman）**
-
-译者：許顓頊**（代词 they/them/祂/佢/TA）**
+***
+作者：克里斯·科夫（Chris Coffman）</br>
+译者：許顓頊（代词 they/them/祂/佢/TA）
+***
 
 对本文及译文的说明：拉康精神分析存在非常多的特地 jargons（行话），译者进行翻译仅仅想向读者揭示主流精神分析文本的顺性/别主义（cissexism）、顺性/别规范（cisnormativity）以及各种顽固不化。读者如觉得词汇玄幻可以跳过此文。本文除了将会遭遇**拉康派一如既往的冷眼、不屑、与自负外**，考虑到出版时间（2017年），**本文也没有很好的处理非二元者（non-binary people）的位置，**或者说，**没有深入**这方面的思考，**只是指出这方面思考的可能**。最关键的是，译者希望读者们可以去思考，**一个新的关于性别和性差异的知识论（a new epistemology of gender and sexual difference）**会如何影响整体的精神分析，以及精神分析**为了自身的继续存在**会如何（不）接受这一**新的知识论与词汇**？读者同样可以尝试去阅读 Bracha L. Ettinger、Félix Guattari、Jean Laplanche、Jean Oury 等人的精神分析作品；又或者是使用到精神分析框架的 trans-supportive 理论家如 Jay Prosser、Gayle Salamon、Patricia Elliot、Patricia Gherovici 、Oren Gozlan 等人。
 
