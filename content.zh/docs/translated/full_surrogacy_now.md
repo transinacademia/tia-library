@@ -43,7 +43,7 @@ Aliza Shvarts, _Posters_, 2008/2017. Performance documentation (score, still, an
 > 她是一名艺术家，有权通过行为艺术来表达自己。<br/>
 > 如果这些行动（acts）是真实的，它们就会违反基本道德标准，并引起严重的身心健康问题。
 
-**妊娠之解决（Gestational Fix）**
+## 妊娠之解决（Gestational Fix）
 
 对于那些生命真正“重要（matter）”的人来说，怀孕早已在很大程度上被技术性地解决了（substantially techno-fixed）。在资本主义与帝国主义下，更安全的（或至少有医疗支持的）妊娠通常是上层阶级的特权。而富人们在孕育（gestate）自己的幼仔时历来都能承担得起的高端照料，最近则增补了（supplemented）一种“技术（technology）”，这一技术从消费者的角度来看是一种能100%吸收伤害的“技术”：“妊娠代孕者（gestational surrogate）”这一人类劳动力（human labor）。就如新闻媒体仍旧报道的那样，代孕（surrogacy）于2011年开始在全球范围内增长（booming globally）。2016年前后，这个产业（industry）开始遭遇一系列阻碍（setbacks）：泰国和尼泊尔在可预见的未来完全禁止代孕，而其它主要中心（印度、柬埔寨和墨西哥）则立法禁止除了“利TA式（altruistic）”异性恋代孕安排（heterosexual surrogacy arrangements）以外的所有安排。尽管如此，各大洲仍有私人注册的、盈利的“不孕不育诊所（infertility clinics）”，列出着可雇佣的代孕者（surrogates）名单，并且据TA们说，这些代孕者与顾客在过程结束后带走的婴儿在基因上完全没有关系。因为，正如那些更为谨慎的评论家所预言的那样，代孕禁令（surrogacy bans）不但没有停止婴儿交易，反而在实际上助长了婴儿交易，使得妊娠工作者（gestational workers）比以前更加脆弱易受攻击（vulnerable）。11
 
@@ -59,9 +59,10 @@ Aliza Shvarts, _Posters_, 2008/2017. Performance documentation (score, still, an
 
 然而，这种令人沮丧的状态从来都不是故事的全部。从苏联对怀孕的同志（comrades）的大规模度假营，到德国创造性的（尽管注定要失败的）“黄昏睡眠（twilight sleep）”方法——旨在彻底抹去关于分娩痛苦（labor pain）的记忆——人类历史上包含了过多的野心勃勃的意识形态和技术实验，以实现分娩（childbirth）的普遍解放和集体化。这无可否认是一个矛盾的记录（ambivalent record）。艾琳·鲁斯蒂格（Irene Lusztig），2013年关于这一主题的一部精彩档案电影（archival film）的导演，对她所讨论的二十世纪初的各种休息营（rest-camps）和分娩学校（schools of childbirth）有着可理解的严厉言辞。但是，她认为，你必须承认TA们的优处——即使是一个世纪前写的最固执错误的教科书，至少也用不妥协的措辞说明了要解决的问题：“产伤（Birth injuries）是如此的普遍，以至于大自然（Nature【注意是大写的‘N’，译注】）必然意图让女人在生殖过程中被耗尽，就像鲑鱼产卵后死亡一样。”19 **好吧，如果这就是大自然的意图**，《母亲档案》（_The Motherhood Archives_）中介绍的早期乌托邦式的助产者和医疗改革者们回应道：**那么大自然就是个混蛋**。为什么要接受**大自然**（_Nature_）是自然的（natural）呢？20 如果**这**（_this_）就是分娩“自然”的样子——TA们在欧美的产房（maternity wards）里察看着它们推断道——那么其很明显需要被去自然/改变本性（denatured）和重塑。21 说起来容易做起来难。基于类似赛博格自决（cyborg self-determination）的生育力护理（fertility care）的先驱式规范（pioneering norms）已被证明是一个移动标靶（moving target）。妊娠的例外性（exceptionality）以及值得护理性（care-worthiness）仍是被强行**自然化**（_naturalized_）的东西，并与“大自然（Nature）”格格不入地拼接在一起（spliced in against the grain of a "Nature"），而自相矛盾地，“大自然”对死亡、伤害和痛苦的根本性中立（fundamental indifference）对我们大多数人来说并不自然（naturally）。 
 
-【艾琳·鲁斯蒂格（Irene Lusztig），《母亲档案》（_The Motherhood Archives_），2013年，91分钟，高清视频，16毫米，和档案菲林。
+![mother](https://images.e-flux-systems.com/newgeneration1WEB.jpg,1400)
 
-Irene Lusztig, _The Motherhood Archives_, 2013. 91 min, HD video, 16 mm, and archival film.】
+> 艾琳·鲁斯蒂格（Irene Lusztig），《母亲档案》（_The Motherhood Archives_），2013年，91分钟，高清视频，16毫米，和档案菲林。<br/>
+> Irene Lusztig, _The Motherhood Archives_, 2013. 91 min, HD video, 16 mm, and archival film.】
 
 此外，这些旨在将人类（humanity）从妊娠式“大自然”（gestational "Nature"）中解放出来的努力，很多也是以 “大自然（Nature）”的名义服务**TA们自己的**（_their_）动机（cause）。例如，转向所谓的“自然分娩（natural childbirth）”——它在1970年因其资产阶级性质（bourgeois）遭到了来自舒拉米斯·费尔斯通（Shulamith Firestone）的强烈蔑视——更准确地说，它代表了一种充满着谨慎风格化（carefully stylized）妊娠分娩小技巧和策略（gestational labor hacks and artifices）的生活规则（regimen），这是一套可能被标榜为是“直觉（intuitive）”的心理和身体调理方法（mental and physical conditioning），但其仍然需要时间和技巧来掌握。自然分娩从未完全过时，在不同的社会阶层中仍然非常流行。22虽然自然分娩的特定分支学说（particular subdoctrines）在其陷入神秘化之处继续受到合理正当的抨击，但更广泛的自由分娩运动（free-birthing movement）对——适时反应的资本主义产科学（just-in-time capitalist obstetrics）及其殖民父权制历史（colonial-patriarchal history）——助产者、女巫和TA们的本地知识（indigenous knowledge）被驱逐出妊娠工作场所（gestational workplace）——的基础批判（foundational critique）是无可指摘。23
 
@@ -71,7 +72,7 @@ Irene Lusztig, _The Motherhood Archives_, 2013. 91 min, HD video, 16 mm, and arc
 
 显然，如果我孕育着（gestating）一个胎儿（fetus），我可能会觉得我与我身体的那个（胎儿）部分有关系。假设彼此继续同居（cohabit），这种“关系”甚至可能为我与婴儿（infant）（如果它出生后（if and when it is born））所产生的社会性（sociality）奠定基础。但我也可能以一种完全不同的方式将这工作概念化——即，为一个另类的社会世界（an alternate social world）奠定基础（grounding）。我可能永远不会看到（或希望看到）我的活体产物（living product）；我不是仍通过那出生（birth）奠定着与这世界之联系（a bond with the world）的基础吗？就这一点而言，我周围的人可能会想象TA们与我隆起腹部内部的东西（the interior of my bump）存在着关系，TA们甚至会是“正确的”，因为身体的渗漏式污染（leaky contamination）与同步性（synchronization），在激素上（hormonally）和表观遗传学上（epigenetically【也译，后成论】），以许多（尚未充分理解的）方式发生着。如果不了解分娩（labor）本身的具体情况，我们根本就无法对“社会（the social）”进行概括。并且，不管妊娠关系（gestational relationship）提供了怎样的“基础（ground）”，**社会**（the _social_）之结构（fabric）是我们最终通过接续妊娠（gestation）所留下来的东西来编织而成的，我们总是彼此以陌生人的身份相遇，彼此之间肌肤相亲（skin-to-skin），形成爱的以及虐待性的依恋（loving and abusive attachments），并努力建立同志情谊（comradeship）。与此相反的说法就是自然化（to naturalize），具有讽刺意味的是，这因此就是贬低（to devalue）“母-胎关系（the mother-fetus bond）”这一意识形态式的陈旧观点（ideological shibboleth）。如果我们把怀孕（且不只是其规定性后果（prescribed aftermath））重新想象为是资本主义下的工作——也就是，作为一种需要与之斗争的东西，朝向一个从工作中解放（free of work）和从价值中解放（free of value）的乌托邦视野（utopian horizon）——这会怎么样呢？
 
-**聘用条款（Terms of Engagement）**
+## 聘用条款（Terms of Engagement）
 
 具体来说，什么是商业性妊娠代孕（commercial gestational surrogacy）？它是资本主义更有效地利用怀孕来谋取私利的一种手段，利用的是——没错——新开发的技术设备，但也包括陈腐的（well-worn）单向式情感和肉体服务的“技术”——守旧已被充分利用的（well-beaten）不平等贸易渠道。代孕是一种制造和销售的物流（logistics），商品是生物基因后代（biogenetic progeny），有着“科学”与法律契约的支持背书。这是一个蓬勃发展、不断变化的前沿地带，其每年的营业额不详，但肯定不可忽视：“一个20亿美元的产业”是在2017年被引述的标准估计。30仅仅是一位自由职业的国际掮客，鲁迪·鲁派克（Rudy Rupak）就成立了医疗旅游公司 PlanetHospital，在2014年因诈骗罪被判刑之前，他将自己描述为“全球大约750个孩子的叔叔”。可以肯定地说，每年都有几千名婴儿在快速变化的若干立法机构（legislatures）中诞生并迅速被移交，这些立法机构可能包括也可能不包括（截至本书出版时）加利福尼亚、乌克兰、俄罗斯、以色列、危地马拉、伊朗、墨西哥、柬埔寨、泰国、印度、老挝和肯尼亚。
 
@@ -91,7 +92,7 @@ Irene Lusztig, _The Motherhood Archives_, 2013. 91 min, HD video, 16 mm, and arc
 
 虽然我并没有呼吁减少44造婴（baby-making），但这本书试图打击资产阶级社会（bourgeois society）对私人的、合法婴儿——（正如芭芭拉·卡茨·罗斯曼（Barbara Katz Rothman）所具体指出的，“至少是要**健康的白人** \[婴儿\]”（at least, _healthy white_ \[ones\]），在这里，使用“健康”这个词想必是带有讽刺意味的——因为“健康”为了表示没有障碍 disability）45——的贪婪嗜好。准强制性的“母亲身份（motherhood）”体制（regime），虽然在关于“生命本身”的无差别传承（ undifferentiated passing-on）方面为自己辩护，但其却严重牵涉到在现今社会中以生命政治价值（biopolitical value）为标准对人类进行分层（stratify）的结构。如果说，正如劳拉·马莫（Laura Mamo）在她对技术科学（technoscience）时代酷儿社群内的怀孕情况的调查中发现的那样，新的格言（dictum）是“如果你能实现怀孕（achieve pregnancy），你就必须生育（procreate）”，46 那么，这格言就像许多“普世（universal）”的东西一样，规训着每一个人，可是实际上只适用于少数人（统治阶级）。而且，虽然 LGBTQ 斗争以及移居者（migrant）斗争的问题有时与阶级冲突（class conflict）相分离，但是如果没有论述说明——通过统一在“健康”家户（"healthy" household）内的一个合理正当家庭的形象（the image of a legitimate family）来规训管制（police）背离越轨者（deviations）——的顺性/别式性歧视（cissexist）【即对跨性/别者 trans people 的歧视与偏见等，译注】、反酷儿和仇外（xenophobic）的逻辑，任何对这种“经济”生殖阶层化制度（this system of "economic" reproductive stratification）的理解都是不完整的。47毒品使用者、寻求堕胎者、性积极（sexually active）的单身女人、黑人母亲、防卫自己不受男人攻击的芬曼（femmes）48、性工作者和无证移居者（undocumented migrants）是最常被监禁（incarcerated）的违反这类教养规范（ parenting norm）的人（violators）。TA们并没有因为——如今的**家庭**（Family，原文大写“F”）已经不一定是异性恋式的（heterosexual），且各州【指美国州份，译注】越来越多地通过同性恋婚姻（gay marriage）政策向“同性恋正统规范主义（homonormative）”家户（household）做出让步——这一事实而被保护（shield）。49
 
-**妊娠公社（Gestational Commune）**
+## 妊娠公社（Gestational Commune）
 
 “现在完全代孕”，“另一种代孕是可能的”：如果这些可互换性情绪（interchangeable sentiments）暗示着一种革命性计划（我希望是如此），我建议由以下邀请（invitation）来推动它。让我们为开源的、完全协作的妊娠（open-source, fully collaborative gestation）创造可能的条件。让我们预想（prefigure）一种非竞争性地制造彼此（manufacturing one another noncompetitively）的方法。让我们亲切款待彼此，破除遗传式亲子关系（hereditary parentage）的概念，并且增加真实的、充满爱的团结。让我们建立一个以同志情谊（comradeship）为基础的关怀公社（care commune），一个靠朋友和善意（kith and kind）而不是亲缘（kin）来维持的世界。在涉及怀孕的地方，让每一次怀孕都是为了每个人。总之，让我们推翻“家庭（family）”。50
 
