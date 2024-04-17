@@ -37,7 +37,7 @@ Aliza Shvarts, _Posters_, 2008/2017. Performance documentation (score, still, an
 > 右侧<br/>
 > 耶鲁大学发言人赫莱茵·S·拉斯基（Helaine S. Klasky）的声明<br/>
 > 康涅狄格州纽黑文市，2008年4月17日
-
+> 
 > 施瓦茨女士进行着行为艺术的创作。她的这个艺术项目包含着视觉表征呈现（visual representations）、一份新闻稿和其它叙事材料。她今天向耶鲁大学的三位高级官员，包括两位院长（deans）表示，她没有让自己怀孕，也没有诱导（induce）任何流产（miscarriages）。整个项目是一件艺术作品，是一部创意性虚构小说，旨在引起人们对围绕着女人身体形式和功能（form and function of a woman's body）的模糊性（ambiguity）的关注。<br/>
 > 她是一名艺术家，有权通过行为艺术来表达自己。<br/>
 > 如果这些行动（acts）是真实的，它们就会违反基本道德标准，并引起严重的身心健康问题。
