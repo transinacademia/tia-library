@@ -71,7 +71,7 @@
 
 ***
 
-**切·戈塞特（Che Gossett）是一位黑人跨儿芬曼作家（Black trans femme writer）和准学术理论皇后（para academic theory queen）3。TA是美国研究协会2014年葛洛利亚·E·安沙杜瓦奖（the 2014 Gloria E. Anzaldúa Award from the American Studies Association）和纽约市立大学基和蕾丝边研究中心2014年西尔维亚·里维拉跨性别研究奖（the 2014 Sylvia Rivera Award in Transgender Studies from the Center for Gay and Lesbian Studies at the City University of New York）的得主。TA在Verso出版社的博客上发表了关于黑人性（blackness）和动物性（animality）的作品，还为《酷儿死亡政治》（**_**Queer Necropolitics**_**）、《跨性别研究读本第二卷》（**_**The Trans Studies Reader Volume II**_**）、《被监禁的性别》（**_**Captive Genders**_**）、以及即将出版的选集供稿。TA的网站是：**[**chegossett.wordpress.com**](http://chegossett.wordpress.com) **。**
+切·戈塞特（Che Gossett）是一位黑人跨儿芬曼作家（Black trans femme writer）和准学术理论皇后（para academic theory queen）3。TA是美国研究协会2014年葛洛利亚·E·安沙杜瓦奖（the 2014 Gloria E. Anzaldúa Award from the American Studies Association）和纽约市立大学基和蕾丝边研究中心2014年西尔维亚·里维拉跨性别研究奖（the 2014 Sylvia Rivera Award in Transgender Studies from the Center for Gay and Lesbian Studies at the City University of New York）的得主。TA在Verso出版社的博客上发表了关于黑人性（blackness）和动物性（animality）的作品，还为《酷儿死亡政治》（**_**Queer Necropolitics**_**）、《跨性别研究读本第二卷》（**_**The Trans Studies Reader Volume II**_**）、《被监禁的性别》（**_**Captive Genders**_**）、以及即将出版的选集供稿。TA的网站是：[chegossett.wordpress.com](http://chegossett.wordpress.com) 。
 
 ***
 
