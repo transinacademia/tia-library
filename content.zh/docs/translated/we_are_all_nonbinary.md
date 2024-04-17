@@ -78,6 +78,8 @@
 
 污染是范畴化的同伴（the companion of categorization）。人们几乎不可能对某一社会身份范畴（a social identity category）感到完全不矛盾（unambivalent），也不可能完全被某一社会身份范畴所描述（entirely described by）；这从一开始就从不是跨性别政治或跨性政治的目标（the goal of transgender or transsexual politics）。那么问题来了，我们是否能对污染和对身份范畴的不可避免的不适（the inevitable misﬁt of identity categories）发展出一种宽容容错（tolerance），而不是不断地置之死地（kicking the bucket further down the road），产生更多的术语来追求一个不可能实现的梦想——也就是社会范畴能够匹配个人心理的独特性（the uniqueness of individual psyches）的梦想。为了实现这一切，我们必须首先放弃（relinquish）这样的幻想：性别是一种自我认识（self-knowledge）、自我表达（self-expression）、和本真性（authenticity）的手段（a means of），而不是一种共享的、因此不完美的社会图式（a shared, and therefore imperfect, social schema）。这意味着要发展一个强有力的**没有**性别身份的跨性/别政治和跨性/别话语（a robust trans politics and discourse _without_ gender identity）。
 
+***
+
 1. Jules Gleeson, ‘‘Judith Butler: ‘We Need to Rethink the Category of Woman,’’’ _Guardian_, September 7, 2021, https://www.theguardian.com/lifeandstyle/ 2021/sep/07/judith-butler-interview-gender.
 
 2. Judith Butler, _Gender Trouble: Feminism and the Subversion of Identity_ (New York, 1990).
