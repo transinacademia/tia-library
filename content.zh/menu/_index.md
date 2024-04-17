@@ -14,4 +14,4 @@ headless: false
   - [我们都是非二元性/别：关于意外的简史 - Kadji Amin](/docs/translated/we_are_all_nonbinary)
   - [现在完全代孕 - Sophie Lewis](/docs/translated/full_surrogacy_now)
 
-<! -- - [口述史](/docs/oral_history/) --> 
+<!--[口述史](/docs/oral_history/)--> 
