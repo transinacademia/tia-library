@@ -201,7 +201,7 @@ Aliza Shvarts, _Posters_, 2008/2017. Performance documentation (score, still, an
 
 41. Zsusza Berend, _The Online World of Surrogacy_ (Berghahn, 2018).
 
-42.  阿目瑞塔·潘德（Amrita Pande），《分娩劳动中的子宫：印度的跨国商业代孕》（_Wombs in Labor: Transnational Commercial Surrogacy in India_）（哥伦比亚大学出版社，2014年），第21页。
+42. 阿目瑞塔·潘德（Amrita Pande），《分娩劳动中的子宫：印度的跨国商业代孕》（_Wombs in Labor: Transnational Commercial Surrogacy in India_）（哥伦比亚大学出版社，2014年），第21页。
 
 43. 伊丽莎白·齐弗（Elizabeth Ziff），“ ‘妈咪部署’：美国的军人配偶和代孕”（The Mommy Deployment': Military Spouses and Surrogacy in the United States），载于《社会学论坛》（_Sociological Forum_），第32卷第2期（2017年）。
 
