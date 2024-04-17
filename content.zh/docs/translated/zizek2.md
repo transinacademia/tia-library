@@ -27,9 +27,9 @@
 
 甚至在20世纪70年代初西尔维亚·里维拉（Sylvia Rivera）和玛沙·P·约翰逊（Marsha P. Johnson）明确提出（articulated）一个毫不客气的反叛起义式跨儿政治之视野（ an unapologetically insurgent trans political horizon）之前，性别不遵从者和跨性/别者就已经开始组织起来反对这种暴力了。现在，在[关于跨儿废除主义知识、权力、和理论的集体工作（the collective work of trans abolitionist knowledge, power, and theory）](https://www.akpress.org/captivegenders2.html)中，向这个视野的扩展仍在继续。
 
-在他最近为《哲学沙龙》（_The Philosophical Salon_）撰写的文章《性即是政治》（“The Sexual Is Political”）（真是种顿悟呢！what an epiphany!）中，斯拉沃伊-齐泽克（Slavoj Žižek）认为他所称呼的“跨性别主义（transgenderism）”——在他病理化性质的政治语法中所说的（in his pathologizing political grammar）——是未来主义式“后性别主义”的一种产物（a product of a futuristic “postgenderism”）。他声称：
+在他最近为《哲学沙龙》（_The Philosophical Salon_）撰写的文章[《性即是政治》](https://mp.weixin.qq.com/s/zAYmmRUwcNbPgx9QtyopHw)（“The Sexual Is Political”）（真是种顿悟呢！what an epiphany!）中，斯拉沃伊-齐泽克（Slavoj Žižek）认为他所称呼的“跨性别主义（transgenderism）”——在他病理化性质的政治语法中所说的（in his pathologizing political grammar）——是未来主义式“后性别主义”的一种产物（a product of a futuristic “postgenderism”）。他声称：
 
-支撑着跨性别主义（transgenderism）的这社会关系之愿景（the vision of social relations）是所谓的后性别主义（postgenderism）：这是一场社会、政治、和文化运动（a social, political and cultural movement），其拥护者（adherents）主张一种对性别的自愿性废除（a voluntary abolition of gender），并通过生物技术和生殖技术（biotechnology and reproductive technologies）的最新科学进展使之成为可能。
+> 支撑着跨性别主义（transgenderism）的这社会关系之愿景（the vision of social relations）是所谓的后性别主义（postgenderism）：这是一场社会、政治、和文化运动（a social, political and cultural movement），其拥护者（adherents）主张一种对性别的自愿性废除（a voluntary abolition of gender），并通过生物技术和生殖技术（biotechnology and reproductive technologies）的最新科学进展使之成为可能。
 
 然而事实上，跨性/别和性别不遵从者（trans and gender nonconforming people）（就像我们所反对着的性别二元论之暴力 the violence of the gender binary 一样）处于（situated）历史的理论坐标和政治坐标（the theoretical and political coordinates of history）以及历史的现在时（history’s present tense）——也就是奴隶制和殖民主义的来世（the afterlife of slavery and colonialism）。
 
