@@ -3,7 +3,7 @@
 **Amin, K. (2022). We Are All Nonbinary: A Brief History of Accidents. _Representations_, 158(1), pp.106–119. doi:10.1525/rep.2022.158.11.106.**
 
 ***
-作者：卡吉·阿名（Kadji Amin）
+作者：卡吉·阿名（Kadji Amin）<br/>
 译者：許顓頊（they/them/祂/佢/TA）
 ***
 
