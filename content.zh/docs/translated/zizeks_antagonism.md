@@ -26,6 +26,7 @@
 
 **关键词**（***Keywords***）跨性别（transgender）、跨性（transsexuality）、精神分析、雅克·拉康（Jacques Lacan）、斯拉沃热·齐泽克（Slavoj Žižek）
 
+***
 
 斯拉沃热·齐泽克（Slavoj Žižek）从来都不是北美多元文化（North American multiculturalism）的朋友，他最近关于跨性/别者（transpeople）的豪言（pronouncements）也不例外。他在2016年发表的题为《性即是政治》（“The Sexual Is Political”）的文章理所当然地引起了来自媒体的不快反应。例如，《洛杉矶书评》（The *Los Angeles Review of Books*）最近发表了切·戈塞特（Che Gossett）的一篇反驳，质疑齐泽克怎么敢“以这种假定假装的权威（assumed authority）来写跨儿主体性（trans subjectivity），同时完全无视跨性/别理论家（学者和活动家）（trans theorists (academics and activists) ）的声音”（Gossett 2016）。值得注意的是，戈塞特所指出的对介入参与（engage）跨性/别者之视角的拒绝，是齐泽克的工作/作品中一种更大特点模式（a larger pattern）的一部分。齐泽克没有进行仔细调查并以知情的方式（in an informed fashion）回应他经常谈及的北美辩论，而是经常做出浅薄且哗众取宠式（superficially and sensationalistically）的反应。在《性即是政治》中，他避开了参与使用（engage）由如Shanna Carlson（沙那·卡尔森）、帕特丽夏·基洛维奇（Patricia Gherovici）、和盖尔·萨拉蒙（Gayle Salamon）等学术同行所进行的关于跨性别的拉康派学术研究（Lacanian scholarship on transgender）的艰巨任务，而是借鉴维基百科（*Wikipedia*）上的一篇文章来建构（construct）一个不准确的、浅薄的跨儿\*话语的系谱（genealogy of trans\* discourse），将跨性别（transgender）与所谓的后性别主义（postgenderism）相混淆。使用这种策略，他把跨性/别者的生活/生命（lives）看作纯粹是北美“政治正确（political correctness）”发狂盛行（run amok）的表现（manifestations），并错过了探索他对拉康精神分析的马克思主义重新阐释（Marxist rearticulation of Lacanian psychoanalysis）如何可以为跨儿\*理论之目标而服务，而不是否定其主张（claims）的机会。
 
@@ -123,19 +124,13 @@
 
 跨儿\*精神分析被理想地定位以参与介入（to  engage）一种对拉康的性分化论述（Lacan's account of sexuation）的变革性重新思考（transformative rethinking）：一个超越了“男人和女人是在精神/心理上被性分化的，而不是在生理上（men and women are sexuated psychically, not biologically）”这一说法中发挥着作用的有限词汇（the limited vocabulary at work）的重新思考（Ragland 2004: 179）。这样的精神分析应该把回归拉康文本的这一过程，不是作为一项命令，虔诚崇拜地用陈旧过时的词汇来背诵大师的咒语（a mandate worshipfully to recite the master's mantras in antiquated vocabularies），并且这些陈旧词汇对当代关注问题是迟钝毫无反应的（are unresponsive to contemporary concerns），而是作为一个机会，用21世纪的差异来调动他思想的重复重演（mobilize repetitions of his ideas with twenty-first-century differences）。如果我们把卡尔森的陈述“人类主体有一些跨性别化的东西，而这种跨性别主义超越了性别之概念（there is something transgendered about the human subject, and that this transgenderism transcends notions of gender）”移植到我在这篇文章中提供的语境背景中——在这个背景中，拉康式性差异（Lacanian sexual difference）是一个可供穿越的根本幻想，而且它不需要永远地作为唯一的二律背反/矛盾（antinomy），这种二律背反/矛盾构建着性别和欲望的可能性之领域（structures the field of possibilities for gender and desire）——那么她的观察评述和史崔克的“深刻改革（deep change）”概念都有了新的共鸣（Carlson 2010: 66）。我们与其坚持“**性**差异的敌对性质（the antagonistic nature of *sexual* difference）”——像忠实的拉康主义者比如齐泽克所认为的那样，认为“性差异”是不可还原的（irreducible）——不如我们需要开始谈论“差异的敌对性质（the antagonistic nature of . . . difference）”，谈论其作为驱动着（drives）欲望、阶级划分、和一系列各种其它的社会进程（social processes）的构成性对立（the constitutive antagonism）（Žižek 2016a, emphasis added 【加重部分为本文作者所加】）。正如鲁提所评述的，“拉康式分析的目的”是“松动（loosen）”紧缩约束性的（constrictive）“幻想，以便为另类生活规划和方向（alternative life plots and directions）创造空间，并以此来扩大主体的存在性选择的所有（the subject's repertoire of existential options）”（2008: 498）。穿越根本幻想和参与介入“深刻改革”指向着（point to），（异）性差异和拉康在《第二十次研讨会》中阐述的性分化公式，这两者的偶然性（Stryker 2016）。这些类型的转化（transformations）创造了无数“不做/消解（undoing）”（Butler 2004）和重做（redoing）的可能性，不仅是对于性别，还对于性分化和性差异：我们不仅可以理解“男人 men”和“女人 women” 作为欲望主体性的可行位置的方式，还可以理解许多其它的“精神上性分化”之存在的方式（many other ways of being “sexuated psychically”），作为欲望主体性的可行位置（as viable positionalities for desiring subjectivity） 的方式（Ragland 2004: 179）。
 
+***
 
 **克里斯·科夫曼（Chris Coffman）**是阿拉斯加大学费尔班克斯分校（University of Alaska Fairbanks）的英语系教授（professor of English）。她是《疯狂激情》（*Insane Passions*）（2006年）和《格特鲁德·斯坦的跨男性气质性》（*Gertrude Stein’s Transmasculinity*）（即将在2018年出版）、以及关于现代主义文学和酷儿理论的许多文章的作者。
 
+***
 
-
-
-
-
-
-
-
-
-**参考文献（References）**
+## 参考文献（References）
 
 Butler, Judith. 1993. *Bodies That Matter: On the Discursive Limits of “Sex.”* New York: Routledge.
 
