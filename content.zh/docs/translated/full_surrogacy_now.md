@@ -5,9 +5,8 @@
 ***
 作者：苏菲·路易斯（Sophie Lewis）<br/>
 译者：許顓頊（they/them）
-***
 
-本文节选自苏菲·路易斯（Sophie Lewis）著作《现在完全代孕：反对家庭的女性主义》（_Full Surrogacy Now: Feminism Against Family_）的**导言**。原书由 Verso 于2019年5月出版。
+> 本文节选自苏菲·路易斯（Sophie Lewis）著作《现在完全代孕：反对家庭的女性主义》（_Full Surrogacy Now: Feminism Against Family_）的**导言**。原书由 Verso 于2019年5月出版。
 
 ***
 
