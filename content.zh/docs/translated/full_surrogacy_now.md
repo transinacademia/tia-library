@@ -30,8 +30,7 @@
 
 Aliza Shvarts, _Posters_, 2008/2017. Performance documentation (score, still, and official university statement) from _Untitled \[Senior Thesis\]_ (2008), inkjet prints on paper, 18in x 24in. In response to the project being censored by Yale University, Shvarts did not show any visual documentation of _Untitled \[Senior Thesis\]_ for 10 years. It is visible now only through the lens of her other works. Courtesy of artist.】
 
-[art](https://images.e-flux-systems.com/Shvarts_1WEB.jpg,1400)
-【作品文本翻译·左边栏】：
+![art](https://images.e-flux-systems.com/Shvarts_1WEB.jpg,1400)
 
 | > 在一个学年里，我反复进行自我诱导的流产（self-induced miscarriages）。我从自愿者中创建了一组制造者（fabricators），TA们定期接受性传播感染筛查检测（STI screenings），并同意完全且永久匿名。从我月经周期的第9天到第15天，制造者会向我提供精子样本，我使用这些精子私自进行自我授精（self-inseminate）。我使用不需要的注射器（needless syringe），在采集精子后的30分钟内，将精子注射到子宫颈（cervix）附近，以确保受精（fertilization）的可能性。在周期的第28天，我将摄入一种草药堕胎剂（herbal abortifacient），之后我将经历痉挛和大量出血。为了保护自己和TA人，只有我知道参与这个项目的制造者的数量、我授精的频率和准确性，以及我所使用的具体堕胎药。由于这些隐私措施，作品只存在于它的讲述中。这种讲述可以采取文本、视觉、空间、时间和展演（performative）的形式呈现——没有原件的复制品的复制品。 | > 耶鲁大学发言人赫莱茵·S·拉斯基（Helaine S. Klasky）的声明
 
