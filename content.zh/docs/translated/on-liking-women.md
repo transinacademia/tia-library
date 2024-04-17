@@ -2,8 +2,10 @@
 
 **Chu, Andrea Long. “On Liking Women.” *N+1*, no. 30, Winter 2018, https://www.nplusonemag.com/issue-30/essays/on-liking-women/.**
 
+***
 作者：朱华敏（Andrea Long Chu）<br />
 译者：amber（she/they）
+***
 
 **译者注**
 
