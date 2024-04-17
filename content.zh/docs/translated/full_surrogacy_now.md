@@ -123,132 +123,104 @@ Irene Lusztig, _The Motherhood Archives_, 2013. 91 min, HD video, 16 mm, and arc
 5. 最后，译者再次为本译文中蓄意出现的拗口词汇组合、句式结构表示抱歉（如果造成困扰）。
 ***
 
-\*考虑到大部分人的阅读习惯只是看标题以及对全文的粗略扫读，以及公共舆论场对“代孕”之讨论潜藏的种种狭隘断言，**特别是这些讨论里所充斥着的顺性/别异性恋正统主义（cis-heteronormative）预设**（**忽略了跨性/别者和非二元者（trans and non-binary people）以及其它各性/别认同的人，还有各不同性意向（sexual dispositions）的人）**，再加上公众对这个词的反射性恐惧与排斥，因而本文在豆瓣的大标题不进行“surrogacy”的翻译。译者过度乐观地期待读者跟着 Sophie Lewis 的这篇短文重新思考作为工作的“妊娠/生育/生殖/怀孕/分娩劳动”，及其笔下具有乌托邦视野的真正完全的“代孕”（对当前狭义上的“代孕”完全不同的理解），进而对本文及更广泛的酷儿/跨儿包容的怀孕工作、生殖正义（权利）等议题展开更为激烈的批判性审视。
+1. 考虑到大部分人的阅读习惯只是看标题以及对全文的粗略扫读，以及公共舆论场对“代孕”之讨论潜藏的种种狭隘断言，**特别是这些讨论里所充斥着的顺性/别异性恋正统主义（cis-heteronormative）预设**（**忽略了跨性/别者和非二元者（trans and non-binary people）以及其它各性/别认同的人，还有各不同性意向（sexual dispositions）的人）**，再加上公众对这个词的反射性恐惧与排斥，因而本文在豆瓣的大标题不进行“surrogacy”的翻译。译者过度乐观地期待读者跟着 Sophie Lewis 的这篇短文重新思考作为工作的“妊娠/生育/生殖/怀孕/分娩劳动”，及其笔下具有乌托邦视野的真正完全的“代孕”（对当前狭义上的“代孕”完全不同的理解），进而对本文及更广泛的酷儿/跨儿包容的怀孕工作、生殖正义（权利）等议题展开更为激烈的批判性审视。
 
-2 部分顺性/别者（cis people）可以怀孕，如达到/拥有相关生物条件的顺性别女人（cis woman）；同理，部分跨性/别者（trans people）和部分非二元者（non-binary people）也可以怀孕。——译注
+2. 部分顺性/别者（cis people）可以怀孕，如达到/拥有相关生物条件的顺性别女人（cis woman）；同理，部分跨性/别者（trans people）和部分非二元者（non-binary people）也可以怀孕。——译注
 
-3 Elena Ferrante, _The Days of Abandonment_ (Penguin Press, 2005), 91.
+3. Elena Ferrante, _The Days of Abandonment_ (Penguin Press, 2005), 91.
 
-4 竹下千佳子，“从母/胎（Mother/Fetus）到合生功能体（Holobiont(s)）：关于怀孕身体的唯物女性主义本体论”，选自《催化剂：女性主义，理论，技术科学》 第三辑第一期（2017年）。
+4. 竹下千佳子，“从母/胎（Mother/Fetus）到合生功能体（Holobiont(s)）：关于怀孕身体的唯物女性主义本体论”，选自《催化剂：女性主义，理论，技术科学》 第三辑第一期（2017年）。(Chikako Takeshita, "From Mother/Fetus to Holobiont(s): A Material Feminist Ontology of the Pregnant Body," _Catalyst: Feminism, Theory, Technoscience_ 3, no. 1 (2017).)
 
-Chikako Takeshita, "From Mother/Fetus to Holobiont(s): A Material Feminist Ontology of the Pregnant Body," _Catalyst: Feminism, Theory, Technoscience_ 3, no. 1 (2017).
+5. 苏珊那·萨迪丁，“为什么怀孕是母亲和婴儿之间的生物战争”，《_Aeon_》，2014年8月4日。(Suzanne Sadedin, "Why Pregnancy is a Biological War Between Mother and Baby," _Aeon_, August 4, 2014 [https://aeon.co/essays/why-pregnancy-is-a-biological-war-between-mother-and-baby](https://aeon.co/essays/why-pregnancy-is-a-biological-war-between-mother-and-baby) .)
 
-5 苏珊那·萨迪丁，“为什么怀孕是母亲和婴儿之间的生物战争”，《_Aeon_》，2014年8月4日。
+6. BBC News, "Post-Natal PTSD: 'I relived childbirth over and over again,"' November 28, 2018 [https://www.bbc.com/news/ukengland-leeds-46347942](https://www.bbc.com/news/ukengland-leeds-46347942). On birth trauma in the US, see: Linda Villorosa, "Why America's Black Mothers and Babies Are in a Life-or-Death Crisis," _New York Times Magazine_, April 11, 2018 [https://www.nytimes.com/2018/04/11/magazine/black-mothers-babies-death-maternal-mortality.html](https://www.nytimes.com/2018/04/11/magazine/black-mothers-babies-death-maternal-mortality.html).
 
-Suzanne Sadedin, "Why Pregnancy is a Biological War Between Mother and Baby," _Aeon_, August 4, 2014 [https://aeon.co/essays/why-pregnancy-is-a-biological-war-between-mother-and-baby](https://aeon.co/essays/why-pregnancy-is-a-biological-war-between-mother-and-baby) .
+7. 苏珊·鲍德《无法承受之重：女性主义、西方文化与身体》（加州大学出版社，1993年）。(Susan Bordo, _Unbearable Weight: Feminism, Western Culture, and the Body_ (University  of California Press, 1993).)
 
-6 BBC News, "Post-Natal PTSD: 'I relived childbirth over and over again,"' November 28, 2018 [https://www.bbc.com/news/ukengland-leeds-46347942](https://www.bbc.com/news/ukengland-leeds-46347942). On birth trauma in the US, see: Linda Villorosa, "Why America's Black Mothers and Babies Are in a Life-or-Death Crisis," _New York Times Magazine_, April 11, 2018 [https://www.nytimes.com/2018/04/11/magazine/black-mothers-babies-death-maternal-mortality.html](https://www.nytimes.com/2018/04/11/magazine/black-mothers-babies-death-maternal-mortality.html).
+8. 安娜·格拉霍瓦茨，“阿利扎·施瓦茨的堕胎艺术：酷儿受孕以及对生殖未来主义的反抗”，《_MAMSIE_》第5辑第2期，第1到19页。(Ana Grahovac, "Aliza Shvarts's Art of Aborting: Queer Conceptions and Resistance to Reproductive Futurism," _MAMSIE_ 5, no. 2: 1-19.)
 
-7 苏珊·鲍德《无法承受之重：女性主义、西方文化与身体》（加州大学出版社，1993年）。
+9. “labor”一词除了有“劳动力”、“劳动”的意思外还有“分娩”的意思。——译注
 
-Susan Bordo, _Unbearable Weight: Feminism, Western Culture, and the Body_ (University  of California Press, 1993).
+10. 艾丽卡·米勒，《快乐堕胎：我们的身体在选择权的时代》（Zed Books 出版社，2017年），第四页。(Erica Millar, _Happy Abortions: Our Bodies in the Era of Choice_ (Zed Books, 2017), 4.)
 
-8 安娜·格拉霍瓦茨，“阿利扎·施瓦茨的堕胎艺术：酷儿受孕以及对生殖未来主义的反抗”，《_MAMSIE_》第5辑第2期，第1到19页。
+11. 卡罗琳·舒尔，“‘被贩卖’到一个更好的未来？代孕禁令两年后的墨西哥”，《HSG焦点杂志》，圣加仑大学，2018年1月。(Carolin Schurr, "'Trafficked' into a better future? Mexico two years after the surrogacy ban," _HSG Focus_ magazine, Universitat St. Gallen, January 2018.)
 
-Ana Grahovac, "Aliza Shvarts's Art of Aborting: Queer Conceptions and Resistance to Reproductive Futurism," _MAMSIE_ 5, no. 2: 1-19.
+12. Associated Press, "Pregnant Cambodian Women Charged with Surrogacy and Human Trafficking," July 6, 2018.
 
-9 “labor”一词除了有“劳动力”、“劳动”的意思外还有“分娩”的意思。——译注
+13. Sharmila Rudrappa, "How India's Surrogacy Ban Is Fuelling the Baby Trade in Other Countries," _Quartz_, October 24, 2017.
 
-10 艾丽卡·米勒，《快乐堕胎：我们的身体在选择权的时代》（Zed Books 出版社，2017年），第四页。
+14. “parent”（家长）并不只有“母亲”或“父亲”，也有性别身份认同为非二元（non-binary）的家长、不遵从性别规范者（gender nonconforming）家长；但同样，也有非二元者等性别非规范者会使用“父亲”或“母亲”等称谓。所以本文中的该词即相关词汇的翻译将以“亲代”、“亲本”、“家长”为主。——译注
 
-Erica Millar, _Happy Abortions: Our Bodies in the Era of Choice_ (Zed Books, 2017), 4.
+15. 例如参见米歇尔·墨菲（Michelle Murphy）对玛格丽特·桑格（Margaret Sanger）之轨迹的简洁概述，于米歇尔·墨菲《美国激进女性主义的身体政治中通过控制进行的解放》（“Liberation through Control in the Body Politics of U.S. Radical Feminism”），载于《自然的道德权威》（_The Moral Authority of Nature_），编者洛林·达斯顿（Lorraine Daston）及费尔南多·维达尔（Fernando Vidal）（芝加哥大学出版社，2004年）。
 
-11 卡罗琳·舒尔，“‘被贩卖’到一个更好的未来？代孕禁令两年后的墨西哥”，《HSG焦点杂志》，圣加仑大学，2018年1月。
+16. 李·埃德尔曼，《没有未来：酷儿理论和死亡驱力》（杜克大学出版社，2004年）(Lee Edelman, _No Future: Queer Theory and the Death Drive_ (Duke University Press, 2004).)
 
-Carolin Schurr, "'Trafficked' into a better future? Mexico two years after the surrogacy ban," _HSG Focus_ magazine, Universitat St. Gallen, January 2018.
-
-12 Associated Press, "Pregnant Cambodian Women Charged with Surrogacy and Human Trafficking," July 6, 2018.
-
-13 Sharmila Rudrappa, "How India's Surrogacy Ban Is Fuelling the Baby Trade in Other Countries," _Quartz_, October 24, 2017.
-
-14 “parent”（家长）并不只有“母亲”或“父亲”，也有性别身份认同为非二元（non-binary）的家长、不遵从性别规范者（gender nonconforming）家长；但同样，也有非二元者等性别非规范者会使用“父亲”或“母亲”等称谓。所以本文中的该词即相关词汇的翻译将以“亲代”、“亲本”、“家长”为主。——译注
-
-15 例如参见米歇尔·墨菲（Michelle Murphy）对玛格丽特·桑格（Margaret Sanger）之轨迹的简洁概述，于米歇尔·墨菲《美国激进女性主义的身体政治中通过控制进行的解放》（“Liberation through Control in the Body Politics of U.S. Radical Feminism”），载于《自然的道德权威》（_The Moral Authority of Nature_），编者洛林·达斯顿（Lorraine Daston）及费尔南多·维达尔（Fernando Vidal）（芝加哥大学出版社，2004年）。
-
-16 李·埃德尔曼，《没有未来：酷儿理论和死亡驱力》（杜克大学出版社，2004年）
-
-Lee Edelman, _No Future: Queer Theory and the Death Drive_ (Duke University Press, 2004).
-
-17 劳拉·布里格斯，《所有的政治是如何变成生殖政治的》（加州大学出版社，2017年），第127页。
-
-Laura Briggs, _How All Politics Became Reproductive Politics_ (University of California Press, 2017), 127.
+17 劳拉·布里格斯，《所有的政治是如何变成生殖政治的》（加州大学出版社，2017年），第127页。(Laura Briggs, _How All Politics Became Reproductive Politics_ (University of California Press, 2017), 127.)
 
 18 W. E. B. Du Bois, _Black Reconstruction in America, 1860-1880_ (Free Press, 1992); Dorothy Roberts, _Killing the Black Body: Race, Reproduction, and the Meaning of Liberty_ (Vintage, 1999).
 
-19 艾琳·鲁斯蒂格，《母亲档案》，Komsomol films，2013年，91分钟。
+19. 艾琳·鲁斯蒂格，《母亲档案》，Komsomol films，2013年，91分钟。(Irene Lusztig, _The Motherhood Archives_, Komsomol films, 2013, 91 minutes.)【读者可在艺术家本人的 Vimeo 页面上看到部分视频摘录 [https://vimeo.com/komsomolka](https://vimeo.com/komsomolka) ——译注】
 
-Irene Lusztig, _The Motherhood Archives_, Komsomol films, 2013, 91 minutes.
+20. 米歇尔·斯坦沃斯（Michelle Stanworth）写道：“‘自然（natural）’一词很难适用于因潜在可控的感染、因职业危害和环境污染物、因医疗和避孕管理不善而加剧的高不育不孕率 ...（因此，）女性主义分析的要旨是将怀孕（pregnancy）从自然状态（the status of the natural）中解救出来。” 米歇尔·斯坦沃斯，“母亲身份的解构”（The Deconstruction of Motherhood），载于《生殖技术：性别，母亲身份和医疗》（_Reproductive Technologies: Gender, Motherhood and Medicine_）, 编辑：米歇尔·斯坦沃斯（明尼苏达大学出版社，1987年），原书第10-35页，摘自第34页。
 
-【读者可在艺术家本人的 Vimeo 页面上看到部分视频摘录 [https://vimeo.com/komsomolka](https://vimeo.com/komsomolka) ——译注】
+21. 关于生殖自主权去自然/改变（denatures）大自然（Nature）本性是好事还是坏事的观点依然盛行（alive and well）。2018年5月25日，在爱尔兰共和国公投废除该国的堕胎禁令后，英国著名哲学家约翰·密尔班克 John Milbank（@johnmilbank3）在推特上说：“支持‘选择之权利（the right to choose）’的女人人数之多是惊人的，这证明了女人的剧烈去自然/改变其本性（drastic denaturing），这或许正是去人格化的资本主义和官僚主义式驱动（the capitalist and bureaucratic drive to depersonalise）的核心所在。” 与此同时，异女性主义（xenofeminist）理论家海伦·海斯特（Helen Hester）恰如其分地批评了其它各种将妊娠者（gestators）贬为一种浪漫化的去权/消除权力之状态（state of disempowerment）的“自然主义（naturalist）”思想体系（包括生态女性主义（ecofeminism））。海斯特写道：“妊娠（gestation）和分娩（labour）应该是超出个人控制的——这样显眼的暗示是特别令人不安的。” 海伦·海斯特，《异女性主义》（_Xenofeminism_）（Polity Press，2018年），第17页。【读者感兴趣xenofeminism及其相关左翼加速主义取向的活动，还可以了解 Gynepunk 等组织，又或者《transhackfeminism》这样的研讨会活动。——译注】
 
-20 米歇尔·斯坦沃斯（Michelle Stanworth）写道：“‘自然（natural）’一词很难适用于因潜在可控的感染、因职业危害和环境污染物、因医疗和避孕管理不善而加剧的高不育不孕率 ...（因此，）女性主义分析的要旨是将怀孕（pregnancy）从自然状态（the status of the natural）中解救出来。” 米歇尔·斯坦沃斯，“母亲身份的解构”（The Deconstruction of Motherhood），载于《生殖技术：性别，母亲身份和医疗》（_Reproductive Technologies: Gender, Motherhood and Medicine_）, 编辑：米歇尔·斯坦沃斯（明尼苏达大学出版社，1987年），原书第10-35页，摘自第34页。
+22. 费尔斯通对格兰特利·迪克-瑞德（Grantly Dick-Read）、拉马兹（Lamaze）【一种心理助产法，译注】 以及相关的“回归自然（returns to nature）”这种热情浪潮的看法是值得再述的（reproducing），尽管其蔑视的力量（the force of its contempt）导致她的散文变得草率：“对自然分娩的狂热崇拜（cult）本身就告诉我们，我们离真正的与自然合一（true oneness with nature）有多遥远。自然分娩只是反动保守的（reactionary）嬉皮卢梭主义式（hippie Rousseauean）回归自然（Return-to-Nature）的又一部分，而且同样是自觉性的（self-conscious）。也许这真正信仰，对分娩的神秘化，让参与其中的女人更轻松容易些。二十位孕妇（pregnant women）在地板上跟着指挥者的指挥棒做深呼吸，这种伪瑜伽练习（Pseudo-yoga exercises）甚至可以帮助一些女人培养‘合适正确的（proper）’态度（比如‘我一次都没有尖叫过’）。” 舒拉米斯·费尔斯通（Shulamith Firestone），《性的辩证》（_The Dialectic of Sex_）（Verso出版社，1970年/2015年），第199页。
 
-21 关于生殖自主权去自然/改变（denatures）大自然（Nature）本性是好事还是坏事的观点依然盛行（alive and well）。2018年5月25日，在爱尔兰共和国公投废除该国的堕胎禁令后，英国著名哲学家约翰·密尔班克 John Milbank（@johnmilbank3）在推特上说：“支持‘选择之权利（the right to choose）’的女人人数之多是惊人的，这证明了女人的剧烈去自然/改变其本性（drastic denaturing），这或许正是去人格化的资本主义和官僚主义式驱动（the capitalist and bureaucratic drive to depersonalise）的核心所在。” 与此同时，异女性主义（xenofeminist）理论家海伦·海斯特（Helen Hester）恰如其分地批评了其它各种将妊娠者（gestators）贬为一种浪漫化的去权/消除权力之状态（state of disempowerment）的“自然主义（naturalist）”思想体系（包括生态女性主义（ecofeminism））。海斯特写道：“妊娠（gestation）和分娩（labour）应该是超出个人控制的——这样显眼的暗示是特别令人不安的。” 海伦·海斯特，《异女性主义》（_Xenofeminism_）（Polity Press，2018年），第17页。【读者感兴趣xenofeminism及其相关左翼加速主义取向的活动，还可以了解 Gynepunk 等组织，又或者《transhackfeminism》这样的研讨会活动。——译注】
+23. 西尔维娅·费德里（Silvia Federici），《卡利班和女巫》（_Caliban and the Witch_） （Autonomedia 出版社, 2004年）；芭芭拉·厄莱雷奇和迪尔德丽·英格利什（Barbara Ehrenreich and Deirdre English），《女巫，助产者和医治者》（_Witches, Midwives and Healers_），第二版（Feminist Press 出版社，2010年）。
 
-22 费尔斯通对格兰特利·迪克-瑞德（Grantly Dick-Read）、拉马兹（Lamaze）【一种心理助产法，译注】 以及相关的“回归自然（returns to nature）”这种热情浪潮的看法是值得再述的（reproducing），尽管其蔑视的力量（the force of its contempt）导致她的散文变得草率：“对自然分娩的狂热崇拜（cult）本身就告诉我们，我们离真正的与自然合一（true oneness with nature）有多遥远。自然分娩只是反动保守的（reactionary）嬉皮卢梭主义式（hippie Rousseauean）回归自然（Return-to-Nature）的又一部分，而且同样是自觉性的（self-conscious）。也许这真正信仰，对分娩的神秘化，让参与其中的女人更轻松容易些。二十位孕妇（pregnant women）在地板上跟着指挥者的指挥棒做深呼吸，这种伪瑜伽练习（Pseudo-yoga exercises）甚至可以帮助一些女人培养‘合适正确的（proper）’态度（比如‘我一次都没有尖叫过’）。” 舒拉米斯·费尔斯通（Shulamith Firestone），《性的辩证》（_The Dialectic of Sex_）（Verso出版社，1970年/2015年），第199页。
+24. 《导乐陪护：怀孕者的根本护理》（_The Doulas: Radical Care for Pregnant People_），编辑 玛丽·马奥尼（Mary Mahoney）和劳伦·米切尔（Lauren Mitchell）（Feminist Press 出版社，2016年）。【读者可以查阅 Mary Mahoney 等人创办的“the Doula Project”，TA们自称为（self-identified as）“radical doulas”（激进导乐陪护者）的原因有一部分是因为TA们有在堕胎（abortion）、领养（adoption）、代孕、流产（miscarriage）、死产（stillbirth）等方面的陪护；一般来说导乐陪护（大致指，在客户怀孕前、怀孕期间、分娩后提供非医疗护理的人）是没有涵盖到堕胎的；同时，TA们认为所有这些方面的护理也是根本的（radical）——译注】
 
-23 西尔维娅·费德里（Silvia Federici），《卡利班和女巫》（_Caliban and the Witch_） （Autonomedia 出版社, 2004年）；芭芭拉·厄莱雷奇和迪尔德丽·英格利什（Barbara Ehrenreich and Deirdre English），《女巫，助产者和医治者》（_Witches, Midwives and Healers_），第二版（Feminist Press 出版社，2010年）。
+25. Alana Apfel, _Birth Work as Care Work: Stories from Activist Birth Communities_ (PM Press, 2016).
 
-24 《导乐陪护：怀孕者的根本护理》（_The Doulas: Radical Care for Pregnant People_），编辑 玛丽·马奥尼（Mary Mahoney）和劳伦·米切尔（Lauren Mitchell）（Feminist Press 出版社，2016年）。
+26. 在对17本“自然分娩（natural birth）”指导手册的研究中，地理学家贝基·曼斯菲尔德（Becky Mansfield）发现，“自然分娩（natural childbirth）需要艰苦的、非常有意识的工作。”贝基·曼斯菲尔德，“自然分娩的社会性质”（The Social Nature of Natural Childbirth），载于《社会科学与医学》（_Social Science & Medicine_）第66卷, 第5期（2008年）：第1093页。
 
-【读者可以查阅 Mary Mahoney 等人创办的“the Doula Project”，TA们自称为（self-identified as）“radical doulas”（激进导乐陪护者）的原因有一部分是因为TA们有在堕胎（abortion）、领养（adoption）、代孕、流产（miscarriage）、死产（stillbirth）等方面的陪护；一般来说导乐陪护（大致指，在客户怀孕前、怀孕期间、分娩后提供非医疗护理的人）是没有涵盖到堕胎的；同时，TA们认为所有这些方面的护理也是根本的（radical）——译注】
+27. 激进导乐陪护者（Radical doulas）有意识形态上的敌人：所谓的 ProDoulas（专业导乐陪护）。凯蒂·贝克（Katie Baker）挖出了这导乐陪护产业（doula industry）新的残酷资本家圈子（new clique of cut-throat capitalists）的污点丑闻。M. Baker, “This Controversial Company Wants to Disrupt the Birth World,” _BuzzFeed_, January 4, 2017 [https://www.buzzfeednews.com/article/katiejmbaker/douladrama](https://www.buzzfeednews.com/article/katiejmbaker/douladrama) 。【简而言之，ProDoulas 是一个采用各种组织化的方式进行活动与培训的利益集体。——译注】
 
-25 Alana Apfel, _Birth Work as Care Work: Stories from Activist Birth Communities_ (PM Press, 2016).
+28. 玛丽·奥布莱恩（Mary O'Brien），《生殖的政治》（_The Politics of Reproduction_）（Unwin Hyman 出版社，1981年）。
 
-26 在对17本“自然分娩（natural birth）”指导手册的研究中，地理学家贝基·曼斯菲尔德（Becky Mansfield）发现，“自然分娩（natural childbirth）需要艰苦的、非常有意识的工作。”贝基·曼斯菲尔德，“自然分娩的社会性质”（The Social Nature of Natural Childbirth），载于《社会科学与医学》（_Social Science & Medicine_）第66卷, 第5期（2008年）：第1093页。
+29. 凯瑟琳·道（Katharine Dow），“九个月的领先开端：母亲关系纽带和代孕”（A Nine-Month Head-Start': The Maternal Bond and Surrogacy），载于《民族》（_Ethnos_），第82辑，第1期（2017年）：第86-104页。
 
-27 激进导乐陪护者（Radical doulas）有意识形态上的敌人：所谓的 ProDoulas（专业导乐陪护）。凯蒂·贝克（Katie Baker）挖出了这导乐陪护产业（doula industry）新的残酷资本家圈子（new clique of cut-throat capitalists）的污点丑闻。M. Baker, “This Controversial Company Wants to Disrupt the Birth World,” _BuzzFeed_, January 4, 2017 [https://www.buzzfeednews.com/article/katiejmbaker/douladrama](https://www.buzzfeednews.com/article/katiejmbaker/douladrama) 。
+30. "Commercial Surrogacy Has Become a $2bn Industry," _The New Indian Express_, September 1, 2016.
 
-【简而言之，ProDoulas 是一个采用各种组织化的方式进行活动与培训的利益集体。——译注】
+31. 保拉·嘉宝，“海外的逮捕和不确定性表明了为什么澳大利亚必须将有偿代孕（Compensated Surrogacy）合法化”，载于《对话》，2016年11月23日。(Paula Gerber, "Arrests and Uncertainty Overseas Show Why Australia Must Legalise Compensated Surrogacy," _The Conversation_, November 23, 2016.)
 
-28 玛丽·奥布莱恩（Mary O'Brien），《生殖的政治》（_The Politics of Reproduction_）（Unwin Hyman 出版社，1981年）。
+32. 丹尼尔·波利提（Daniel Politi），“数万人在以色列抗议剥夺男同性恋者的代孕权利”（Tens of Thousands Protest in Israel Over Denial of Surrogacy Rights for Gay Men），载于《石板》（_Slate_），2018年7月22日 [https://slate.com/news-and-politics/2018/07/tens-of-thousands-protest-in-israel-over-denial-of-surrogacy-rights-forgay-men.html](https://slate.com/news-and-politics/2018/07/tens-of-thousands-protest-in-israel-over-denial-of-surrogacy-rights-forgay-men.html) 。 
 
-29 凯瑟琳·道（Katharine Dow），“九个月的领先开端：母亲关系纽带和代孕”（A Nine-Month Head-Start': The Maternal Bond and Surrogacy），载于《民族》（_Ethnos_），第82辑，第1期（2017年）：第86-104页。
+33. 奥利维亚·鲁加德（Olivia Rudgard），“代孕改革可能剥夺亲生家长的自主权利”（Surrogacy Reform Could Remove Automatic Rights from Birth Parents），载于《每日电讯报》（_The Telegraph_），2018年5月4日 [https://www.telegraph.co.uk/news/2018/05/04/surrogacy-reform-could-remove-automatic-rights-birth-parents/](https://www.telegraph.co.uk/news/2018/05/04/surrogacy-reform-could-remove-automatic-rights-birth-parents/) 。
 
-30 "Commercial Surrogacy Has Become a $2bn Industry," _The New Indian Express_, September 1, 2016.
+34. 理查德·路文廷（Richard Lewontin）和理查德·莱文（Richard Levins），《受影响的生物学：关于生态学、农业、健康的辩证论文》（_Biology Under the Influence: Dialectical Essays on Ecology, Agriculture, Health_）（纽约大学出版社，2007年），第239页。
 
-31 保拉·嘉宝，“海外的逮捕和不确定性表明了为什么澳大利亚必须将有偿代孕（Compensated Surrogacy）合法化”，载于《对话》，2016年11月23日。
+35. 唐娜·哈拉维（Donna Haraway），《灵长类视觉：现代科学世界中的性别、种族和自然》（_Primate Visions: Gender, Race and Nature in the World of Modern Science_）（Routledge 出版社，1989年），第352页。
 
-Paula Gerber, "Arrests and Uncertainty Overseas Show Why Australia Must Legalise Compensated Surrogacy," _The Conversation_, November 23, 2016.
+36. Marcia lnhorn and Soraya Tremayne, _Islam and Assisted Reproductive Technologies: Sunni and Shia Perspectives_ (Berghahn, 2012).
 
-32 丹尼尔·波利提（Daniel Politi），“数万人在以色列抗议剥夺男同性恋者的代孕权利”（Tens of Thousands Protest in Israel Over Denial of Surrogacy Rights for Gay Men），载于《石板》（_Slate_），2018年7月22日 [https://slate.com/news-and-politics/2018/07/tens-of-thousands-protest-in-israel-over-denial-of-surrogacy-rights-forgay-men.html](https://slate.com/news-and-politics/2018/07/tens-of-thousands-protest-in-israel-over-denial-of-surrogacy-rights-forgay-men.html) 。 
+37. Laura Harrison, _Brown Bodies, White Babies: The Politics of Cross-Racial Surrogacy_ (New York University Press, 2016).
 
-33 奥利维亚·鲁加德（Olivia Rudgard），“代孕改革可能剥夺亲生家长的自主权利”（Surrogacy Reform Could Remove Automatic Rights from Birth Parents），载于《每日电讯报》（_The Telegraph_），2018年5月4日 [https://www.telegraph.co.uk/news/2018/05/04/surrogacy-reform-could-remove-automatic-rights-birth-parents/](https://www.telegraph.co.uk/news/2018/05/04/surrogacy-reform-could-remove-automatic-rights-birth-parents/) 。
+38. Elly Teman, _Birthing a Mother: The Surrogate Body and the Pregnant Self_ (University of California Press, 2010).
 
-34 理查德·路文廷（Richard Lewontin）和理查德·莱文（Richard Levins），《受影响的生物学：关于生态学、农业、健康的辩证论文》（_Biology Under the Influence: Dialectical Essays on Ecology, Agriculture, Health_）（纽约大学出版社，2007年），第239页。
+39. 劳拉·马莫（Laura Mamo）, 《酷儿化生殖：在技术科学时代实现怀孕》（_Queering Reproduction: Achieving Pregnancy in the Age of Technoscience_） (Duke University Press, 2007.)
 
-35 唐娜·哈拉维（Donna Haraway），《灵长类视觉：现代科学世界中的性别、种族和自然》（_Primate Visions: Gender, Race and Nature in the World of Modern Science_）（Routledge 出版社，1989年），第352页。
+40. 阿目瑞塔·班纳吉（Amrita Banerjee），“种族与跨国生殖种姓制度”（Race and a Transnational Reproductive Caste System）载于《希帕提亚》（_Hypatia_）第29卷第1期 （2013年：第113-128页。)
 
-36 Marcia lnhorn and Soraya Tremayne, _Islam and Assisted Reproductive Technologies: Sunni and Shia Perspectives_ (Berghahn, 2012).
+41. Zsusza Berend, _The Online World of Surrogacy_ (Berghahn, 2018).
 
-37 Laura Harrison, _Brown Bodies, White Babies: The Politics of Cross-Racial Surrogacy_ (New York University Press, 2016).
+42.  阿目瑞塔·潘德（Amrita Pande），《分娩劳动中的子宫：印度的跨国商业代孕》（_Wombs in Labor: Transnational Commercial Surrogacy in India_）（哥伦比亚大学出版社，2014年），第21页。
 
-38 Elly Teman, _Birthing a Mother: The Surrogate Body and the Pregnant Self_ (University of California Press, 2010).
+43. 伊丽莎白·齐弗（Elizabeth Ziff），“ ‘妈咪部署’：美国的军人配偶和代孕”（The Mommy Deployment': Military Spouses and Surrogacy in the United States），载于《社会学论坛》（_Sociological Forum_），第32卷第2期（2017年）。
 
-39 劳拉·马莫（Laura Mamo）, 《酷儿化生殖：在技术科学时代实现怀孕》（_Queering Reproduction: Achieving Pregnancy in the Age of Technoscience_） (Duke University Press, 2007.)
+44. 我对“制造亲缘，而不是婴儿 make kin, not babies”的介入思考可参见《观点》（_Viewpoint_）杂志2017年一篇文章，“克苏鲁对我来说没有作用”（Cthulhu Plays No Role For Me）[https://www.viewpointmag.com/2017/05/08/cthulhu-plays-no-role-for-me/](https://www.viewpointmag.com/2017/05/08/cthulhu-plays-no-role-for-me/) 。参见唐娜·哈拉维（Donna Haraway，《与忧患并存：在克苏鲁纪制造亲缘》（_Staying with the Trouble: Making Kin in the Chthulucene_）（杜克大学出版社，2016年）；以及随后我对哈拉维的论点进行的修正，这继续着我们互相间正在进行的对话，见《制造亲缘，而不是人口：重新构想世代》（_Making Kin, Not Population: Reconceiving Generations_）【conceive 也有怀孕的意思，译注】编辑：唐娜·哈拉维和阿黛尔·克拉克（Adele Clark）（Prickly Paradigm Press 出版社，2018年）。
 
-40 阿目瑞塔·班纳吉（Amrita Banerjee），“种族与跨国生殖种姓制度”（Race and a Transnational Reproductive Caste System）载于《希帕提亚》（_Hypatia_）第29卷第1期 （2013年：第113-128页。)
+45. 芭芭拉·卡茨·罗斯曼（Barbara Katz Rothman），《重建母亲身份》（_Recreating Motherhood_）（Rutgers University Press 出版社，2000年），第39页。
 
-41 Zsusza Berend, _The Online World of Surrogacy_ (Berghahn, 2018).
+46. 马莫，《酷儿化生殖》（_Queering Reproduction_），第228页。
 
-42  阿目瑞塔·潘德（Amrita Pande），《分娩劳动中的子宫：印度的跨国商业代孕》（_Wombs in Labor: Transnational Commercial Surrogacy in India_）（哥伦比亚大学出版社，2014年），第21页。
+47. 梅琳达·库珀（Melinda Cooper），《家庭价值：在新自由主义和新社会保守主义之间》（_Family Values: Between Neoliberalism and the New Social Conservatism_）（Zone Books 出版社，2017年）；劳拉·布里格斯（Laura Briggs），《某人的孩子：跨种族收养与跨国收养的政治》（_Somebody's Children: The Politics of Transracial and Transnational Adoption_）（杜克大学出版社，2012年）；安格里尔·米特罗普洛斯（Anglea Mitropoulos），《契约与传染：从生命政治到治理计划》（_Contract and Contagion: From Biopolitics to Oikonomia_）（Minor Compositions 出版社，2012年）；雪莱·帕克（Shelley Park）“收养者式母亲身体：一个重新思考母亲化的酷儿范式？”（_Adoptive Maternal Bodies: A Queer Paradigm For Rethinking Mothering?_）载于《希帕提亚》（_Hypatia_）第21卷第1期 （2006年）：第201-226页。
 
-43 伊丽莎白·齐弗（Elizabeth Ziff），“ ‘妈咪部署’：美国的军人配偶和代孕”（The Mommy Deployment': Military Spouses and Surrogacy in the United States），载于《社会学论坛》（_Sociological Forum_），第32卷第2期（2017年）。
+48. 此译注前半段直接复制自译者之前的翻译译注：“femme”一词的翻译方式与背景同“butch”，常被译为“女性化的女同性恋者”，又译“底”。但对”femme“的使用更倾向于解释为“femininity（女性气质）”的酷儿展演，酷儿化的呈现。也即，顺性别者、非二元者、跨儿、以及酷儿社群中的任何人都可以批判性地挪用这个词，以展现自己对”femininity“的理解。此处采用音译“芬曼”。/ Sophie Lewis 在这里使用这个词很明显是想要包容所有因呈现出女性气质（各种形式上的）而遭受基于性别（gender-based）的暴力的人【非 sex-based 这种生物本质论取向】。——译注
 
-44 我对“制造亲缘，而不是婴儿 make kin, not babies”的介入思考可参见《观点》（_Viewpoint_）杂志2017年一篇文章，“克苏鲁对我来说没有作用”（Cthulhu Plays No Role For Me）[https://www.viewpointmag.com/2017/05/08/cthulhu-plays-no-role-for-me/](https://www.viewpointmag.com/2017/05/08/cthulhu-plays-no-role-for-me/) 。参见唐娜·哈拉维（Donna Haraway，《与忧患并存：在克苏鲁纪制造亲缘》（_Staying with the Trouble: Making Kin in the Chthulucene_）（杜克大学出版社，2016年）；以及随后我对哈拉维的论点进行的修正，这继续着我们互相间正在进行的对话，见《制造亲缘，而不是人口：重新构想世代》（_Making Kin, Not Population: Reconceiving Generations_）【conceive 也有怀孕的意思，译注】编辑：唐娜·哈拉维和阿黛尔·克拉克（Adele Clark）（Prickly Paradigm Press 出版社，2018年）。
+49. 《反对平等：酷儿革命，不只是包含性》（_Against Equality: Queer Revolution, not Mere Inclusion_），编辑：瑞安·康拉德（Ryan Conrad）（AK Press 出版社，2014年）。
 
-45 芭芭拉·卡茨·罗斯曼（Barbara Katz Rothman），《重建母亲身份》（_Recreating Motherhood_）（Rutgers University Press 出版社，2000年），第39页。
+50. 每个人都应该参阅米歇尔·奥布莱恩（Michelle O'Brien），去了解遍及资本主义历史的关于“废除家庭（family abolition）”的积极与消极运动的历史：米歇尔·埃丝特·奥布莱恩，“废除家庭：划分资本主义发展中不同时期的性别解放”（To Abolish the Family: Periodizing Gender Liberation in Capitalist Development）载于《尾注》（_Endnotes_）第五期，即将出版。奥布莱恩在她的手稿中写道：“废除家庭只有与反抗对于工人阶级再生产（working-class reproduction）的其它统治性手段的运动相结合时，才能在今天找到一致性（coherence）： 废除资本主义式工薪（capitalist wage）和种族国家（racial state）的斗争 ... 废除家庭就是对世代和日常再生产（generational and daily reproduction）的大规模去商品化（mass decommodification）、集体化（collectivization）以及其物质需求的全面获取（universal access）”。【读者也可以搜索“ME O'Brien”来获取更多相关资料，原文注释所引用的这篇文章现已出版，见 [https://endnotes.org.uk/file\_hosting/EN5\_To\_Abolish\_the\_Family.pdf](https://endnotes.org.uk/file_hosting/EN5_To_Abolish_the_Family.pdf) ，译注】
 
-46 马莫，《酷儿化生殖》（_Queering Reproduction_），第228页。
-
-47 梅琳达·库珀（Melinda Cooper），《家庭价值：在新自由主义和新社会保守主义之间》（_Family Values: Between Neoliberalism and the New Social Conservatism_）（Zone Books 出版社，2017年）；劳拉·布里格斯（Laura Briggs），《某人的孩子：跨种族收养与跨国收养的政治》（_Somebody's Children: The Politics of Transracial and Transnational Adoption_）（杜克大学出版社，2012年）；安格里尔·米特罗普洛斯（Anglea Mitropoulos），《契约与传染：从生命政治到治理计划》（_Contract and Contagion: From Biopolitics to Oikonomia_）（Minor Compositions 出版社，2012年）；雪莱·帕克（Shelley Park）“收养者式母亲身体：一个重新思考母亲化的酷儿范式？”（_Adoptive Maternal Bodies: A Queer Paradigm For Rethinking Mothering?_）载于《希帕提亚》（_Hypatia_）第21卷第1期 （2006年）：第201-226页。
-
-48 此译注前半段直接复制自译者之前的翻译译注：“femme”一词的翻译方式与背景同“butch”，常被译为“女性化的女同性恋者”，又译“底”。但对”femme“的使用更倾向于解释为“femininity（女性气质）”的酷儿展演，酷儿化的呈现。也即，顺性别者、非二元者、跨儿、以及酷儿社群中的任何人都可以批判性地挪用这个词，以展现自己对”femininity“的理解。此处采用音译“芬曼”。/ Sophie Lewis 在这里使用这个词很明显是想要包容所有因呈现出女性气质（各种形式上的）而遭受基于性别（gender-based）的暴力的人【非 sex-based 这种生物本质论取向】。——译注
-
-49 《反对平等：酷儿革命，不只是包含性》（_Against Equality: Queer Revolution, not Mere Inclusion_），编辑：瑞安·康拉德（Ryan Conrad）（AK Press 出版社，2014年）。
-
-50 每个人都应该参阅米歇尔·奥布莱恩（Michelle O'Brien），去了解遍及资本主义历史的关于“废除家庭（family abolition）”的积极与消极运动的历史：米歇尔·埃丝特·奥布莱恩，“废除家庭：划分资本主义发展中不同时期的性别解放”（To Abolish the Family: Periodizing Gender Liberation in Capitalist Development）载于《尾注》（_Endnotes_）第五期，即将出版。奥布莱恩在她的手稿中写道：“废除家庭只有与反抗对于工人阶级再生产（working-class reproduction）的其它统治性手段的运动相结合时，才能在今天找到一致性（coherence）： 废除资本主义式工薪（capitalist wage）和种族国家（racial state）的斗争 ... 废除家庭就是对世代和日常再生产（generational and daily reproduction）的大规模去商品化（mass decommodification）、集体化（collectivization）以及其物质需求的全面获取（universal access）”。
-
-【读者也可以搜索“ME O'Brien”来获取更多相关资料，原文注释所引用的这篇文章现已出版，见 [https://endnotes.org.uk/file\_hosting/EN5\_To\_Abolish\_the\_Family.pdf](https://endnotes.org.uk/file_hosting/EN5_To_Abolish_the_Family.pdf) ，译注】
-
-51 马里奥·比亚乔利（Mario Biagioli），“剽窃、亲缘关系和奴役”（Plagiarism, Kinship and Slavery），载于《理论、文化与社会》（_Theory, Culture & Society_）第31卷，第2/3期（2014年）：第84页。
+51. 马里奥·比亚乔利（Mario Biagioli），“剽窃、亲缘关系和奴役”（Plagiarism, Kinship and Slavery），载于《理论、文化与社会》（_Theory, Culture & Society_）第31卷，第2/3期（2014年）：第84页。
