@@ -1,7 +1,3 @@
----
-headless: false
----
-
 - [翻译](/docs/translated)
   - [德勒兹、加塔利以及跨儿研究的精神分裂分析 - Ciara Cremin](/docs/translated/deleuze-guattari-and-the-schizoanalysis-of-trans-studies)
   - [从 TERF 到性别批判：一个反映情况的系谱？- Claire Thurlow](/docs/translated/from-terf-to-gender-critical-a-telling-genealogy)
