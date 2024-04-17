@@ -200,8 +200,7 @@ Aliza Shvarts, _Posters_, 2008/2017. Performance documentation (score, still, an
 40. 阿目瑞塔·班纳吉（Amrita Banerjee），“种族与跨国生殖种姓制度”（Race and a Transnational Reproductive Caste System）载于《希帕提亚》（_Hypatia_）第29卷第1期 （2013年：第113-128页。)
 
 41. Zsusza Berend, _The Online World of Surrogacy_ (Berghahn, 2018).
-
-42. 阿目瑞塔·潘德（Amrita Pande），《分娩劳动中的子宫：印度的跨国商业代孕》（_Wombs in Labor: Transnational Commercial Surrogacy in India_）（哥伦比亚大学出版社，2014年），第21页。
+42. 阿目瑞塔·潘德（Amrita Pande），《分娩劳动中的子宫：印度的跨国商业代孕》（_Wombs in Labor: Transnational Commercial Surrogacy in India_）（哥伦比亚大学出版社，2014年），第21页。
 
 43. 伊丽莎白·齐弗（Elizabeth Ziff），“ ‘妈咪部署’：美国的军人配偶和代孕”（The Mommy Deployment': Military Spouses and Surrogacy in the United States），载于《社会学论坛》（_Sociological Forum_），第32卷第2期（2017年）。
 
