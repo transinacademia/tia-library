@@ -1,16 +1,15 @@
-**原文：e-flux Journal #99 - April 2019** 
+# 现在完全代孕 [^1]
 
-[https://www.e-flux.com/journal/99/261641/full-surrogacy-now/](https://www.e-flux.com/journal/99/261641/full-surrogacy-now/) 
+**Lewis, Sophie. “Full Surrogacy Now.” e-flux, no. 99, Apr. 2019, https://www.e-flux.com/journal/99/261641/full-surrogacy-now/.**
 
-**作者：苏菲·路易斯（Sophie Lewis）**
-
+***
+作者：苏菲·路易斯（Sophie Lewis）<br/>
 译者：許顓頊（they/them）
+***
 
 本文节选自苏菲·路易斯（Sophie Lewis）著作《现在完全代孕：反对家庭的女性主义》（_Full Surrogacy Now: Feminism Against Family_）的**导言**。原书由 Verso 于2019年5月出版。
 
-**现在完全代孕1**
-
-**Full Surrogacy Now**
+***
 
 我们让胎儿（fetuses）存在于我们体内是个奇迹。与几乎所有其它动物不同的是，每年有数十万人类因怀孕而死亡，这是对联合国旨在制止大屠杀（carnage）的千年目标（millennium goals）的嘲弄。在美国，每年有近千人在进行分娩（childbirth）时死亡，另外有六十五人“差点死去”。这种情况是社会性的（social），而不仅仅是“自然的（natural）”。事情会成这样是由于政治和经济原因：是我们**使**（_made_）它们变成这样。
 
