@@ -11,6 +11,6 @@ headless: false
   - [在跨儿研究之后 - Andrea Long Chu, Emmett Harsin Drager](/docs/translated/after_trans_studies)
   - [齐泽克的敌对和跨性/别肯定的拉康精神分析之未来 - Chris Coffman](/docs/translated/zizeks_antagonism)
   - [齐泽克的跨/性别麻烦 - Che Gossett](/docs/translated/zizek_trans_trouble)
-  - [我们都是非二元性别者 - Kadji Amin](/docs/translated/we_are_all_nonbinary)
+  - [我们都是非二元性/别：关于意外的简史 - Kadji Amin](/docs/translated/we_are_all_nonbinary)
   - [现在完全代孕 - Sophie Lewis](/docs/translated/full_surrogacy_now)
 - [口述史](/docs/oral_history/)
