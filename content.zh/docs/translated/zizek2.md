@@ -3,7 +3,7 @@
 **Che, Gossett. “Žižek’s Trans/Gender Trouble.” *Los Angeles Review of Books*, 13 Sept. 2016, https://lareviewofbooks.org/article/zizeks-transgender-trouble.**
 
 ***
-作者：切·戈塞特（Che Gossett）
+作者：切·戈塞特（Che Gossett）<br/>
 译者：許顓頊（代词 they/them/祂/佢/TA）
 ***
 
