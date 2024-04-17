@@ -3,7 +3,7 @@
 **Coffman, Chris. “Žižek’s Antagonism and the Futures of Trans-Affirmative Lacanian Psychoanalysis.” *TSQ: Transgender Studies Quarterly*, vol. 4, no. 3–4, Nov. 2017, pp. 472–96. Silverchair, https://doi.org/10.1215/23289252-4189929.**
 
 ***
-作者：克里斯·科夫（Chris Coffman）</br>
+作者：克里斯·科夫曼（Chris Coffman）</br>
 译者：許顓頊（代词 they/them/祂/佢/TA）
 ***
 
@@ -130,7 +130,7 @@
 
 ***
 
-**克里斯·科夫曼（Chris Coffman）**是阿拉斯加大学费尔班克斯分校（University of Alaska Fairbanks）的英语系教授（professor of English）。她是《疯狂激情》（*Insane Passions*）（2006年）和《格特鲁德·斯坦的跨男性气质性》（*Gertrude Stein’s Transmasculinity*）（即将在2018年出版）、以及关于现代主义文学和酷儿理论的许多文章的作者。
+克里斯·科夫曼（Chris Coffman）是阿拉斯加大学费尔班克斯分校（University of Alaska Fairbanks）的英语系教授（professor of English）。她是《疯狂激情》（*Insane Passions*）（2006年）和《格特鲁德·斯坦的跨男性气质性》（*Gertrude Stein’s Transmasculinity*）（即将在2018年出版）、以及关于现代主义文学和酷儿理论的许多文章的作者。
 
 ***
 
