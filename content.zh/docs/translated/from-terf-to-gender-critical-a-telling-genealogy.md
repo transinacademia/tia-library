@@ -13,7 +13,7 @@ comment: false
 译者：云清
 ***
 
-## 翻译说明
+**翻译说明**
 
 原文刊载于期刊《性存在 (Sexualities)》，线上发布于 2022 年 9 月 30 日。
 
@@ -37,12 +37,9 @@ comment: false
 
 在本篇译文中，译者使用新的排印规范处理中文、西文、标点和数字的混排情况。希望这可以为读者带来更好的阅读体验。
 
-
-
 ---- 
 
-**克莱尔·瑟洛 (Claire Thurlow)**  
-
+**克莱尔·瑟洛 (Claire Thurlow)** <br/>
 卡迪夫大学，英国 (Cardiff University, UK)
 
 ## 摘要 (Abstract)
