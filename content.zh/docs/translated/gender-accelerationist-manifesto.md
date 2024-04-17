@@ -21,9 +21,9 @@ comment: false
 
 
 
-# 性别：其功能与起源 (Gender: Its Function and Origins)
+## 性别：其功能与起源 (Gender: Its Function and Origins)
 
-##  物质基础 (Material Base)
+###  物质基础 (Material Base)
 
 在我们能够讨论要做什么(what to be done)之前，我们需要知道什么已经做了(what is)。以及——一如既往——在理解一个社会制度(social system)时的起点是它的物质基础(material base)。产生社会制度的物质关系(material relations)为我们提供了理解社会制度本身的最佳基础(grounding)。
 
@@ -41,7 +41,7 @@ comment: false
 
 如此对物质关系的谈论常常归于(come down to)将资本主义关系(capitalistic relations)作为事物的基础(base)，但在性别中并不成立。虽然性别和资本主义(capitalism)协同工作(work together)，并且是同一个社会秩序(social order)的一部分，但是它们并不共享同一个物质基础。这并不是说性别的物质基础与资本主义没有关系；生殖劳动是为资本主义生产(capitalistic production)生产新的劳动者(labourer)所需的，而资本主义生产倾向于定义男性(male)生殖劳动的确切性质(exact nature)。
 
-## 性与性别 (Sex and Gender)
+### 性与性别 (Sex and Gender)
 
 既然性别(gender)是这些生产关系(relations of production)的，而非生物学(biology)的表现(expression)，这将性(sex)置于何处？一些伪马克思主义者(psuedomarxists)声称，性构成了性别的物质基础，但这是对历史唯物主义(historical materialism)的可笑的(laughable)理解，即将生物学聚焦于(centres)生产关系之前。生物学影响着我们的现实(reality)，但是我们的社会制度在我们的物质条件(material condition)中寻获其基础(basis)。
 
@@ -53,7 +53,7 @@ comment: false
 
 但是，染色体并非总是被性别化。半个世纪之前，没有人会看着一个有着乳房和阴道的人而将其身体性别化为男性(male)，即使其染色体是XY。然而，在1986年，西班牙跨栏运动员Maria José Martínez-Patiño在1986年奥运会中未能通过染色体测试，以致人们将她(her)视作男性(male sexed)而拒之门外。三年前，她通过了一项性别证明(verification)，表明她是基于旧方法的女性(female sexed)，但是，由于她是XY，她未能通过染色体测试。在以前的时代(epochs)，没有人会质疑她身体的女人状况/身份(womanhood)，但是，由于染色体的性别化，她的身体被视作男性(male)，而她被回绝(shunned)和羞辱(shamed)。
 
-## 强制执行与性暴力 (Enforcement and Sexual Violence)
+### 强制执行与性暴力 (Enforcement and Sexual Violence)
 
 性别是最早的阶级制度(class system)，因此，它先于(precedes)国家(state)，即使在其最早的基本形式(basic form)中亦是如此。这意味着，不同于资本主义、种族(race)、神经规范(neuronormativity)以及其他各种阶级制度，国家不是将性别强加给人们的首要手段(primary means)。这并非是说国家没有强加性别，而是说它是补充性的(supplementary)，而非首要(primary)的。在国家出现之时，性别已经固化了(solidified)自己并且十分善于将自己强加于别人。
 
@@ -65,7 +65,7 @@ comment: false
 
 当涉及到性工作者(sex workers)时，这一点可以被特别明确(especially pronounced)。由于性工作者从事的工作在几乎世界各地都是非法的，这些人无法理所当然地(properly)向警方报告其所受到的性暴力，而当其报告时，其通常因参与性工作而被监禁。这意味着，针对这些人的性暴力可以不受国家干预地(unhampered by interference from the state)发生，而这在其余群体中是不可能的。此外，我们发现性工作者更有可能是女人或酷儿者，相比于直/异性恋、顺性别异性恋(straight cishet)男人。这不是失误(by mistake)，而是一个针对女人和酷儿者的性暴力可以免受惩处地发生(be done with impunity)的特定场所(specific venue)。
 
-## 现代性别二元论(The Modern Gender Binary)
+### 现代性别二元论(The Modern Gender Binary)
 
 目前没有任何没有性别的(genderless)社会。尽管有许多变体(variation)，但都创造了一种生殖劳动的分工，进而产生了性别制度。事实上，至少在第一批文明发展出第一批书写系统(writing system)时，它们就已经存在了。性别是社会发展出的第一个权力制度(system of power)。
 
@@ -93,7 +93,7 @@ comment: false
 
 并非所有这些特征都是现代制度独有的，其中一些是对旧制度的改进，但它们被强加于每个人，因而破坏了个体的文化(individual culture)和选择。
 
-## 父权制 (Patriarchy)
+### 父权制 (Patriarchy)
 
 如之前所述，性别是一个阶级制度，且是由成年男性状态/男人气质(manhood)对社会的主导(domination)所定义的。这就是为何性别阶级制度的另一个名称是父权制(patriarchy)。性别作为一个社会制度是父权制，而父权制是性别的社会阶级制度(social class system of gender)。在这个阶级制度中，我们发现三个不同阶级，两个是被接受的(accepted)，一个是破坏性的(subversive)。
 
@@ -107,7 +107,7 @@ comment: false
 
 这种酷儿性质(queerness)是现代性别制度的一个独特的特征(particular characteristic)。其它性别制度没有相同的阶级制度，因此，对人们有者不同的类别(categories)。事实上，在旧的性别制度被维持(maintained)的地方，默认谈论酷儿性质是不准确的(isn’t accurate to default to talking about queerness)。许多认同为(identify with)旧性别制度中的性别的人凭藉(by virtue of)现代性别制度强加于其而成为酷儿，但其中许多不是，因为处在具有那些性别的社群中的复杂性(the complexities of being in communities with those genders)。
 
-## 对性别说“是” (Saying “Yes” to Gender)
+### 对性别说“是” (Saying “Yes” to Gender)
 
 阶级(class)，阶级，阶级。我们被主导(dominated)和控制(controlled)。被分类(sorted)和划分(divided)。但是我们于何处融入(factor into)这一切？人们认为这样的阶级仅仅是被强加的，但是这无法解释(account for)我们与其实际互动的方式(ways we actually interact with it)。这不是简单地被强加于我们。我们是其中的积极参与者(active participants)，我们执行(perform)它。
 
