@@ -51,7 +51,7 @@
 
 斯科特·摩根森（Scott Morgensen）在写到白人殖民定居者（white settler）的性意识（sexuality）、主权（sovereignty）、和种族屠杀行为（genocide）时问道：“但是，是什么历史动态关系（historical dynamics）使（produced）本地原住民（Native peoples）成为被标记为死亡（marked for death）的异常群体（queered populations），而殖民定居者则成为生命之主体（subjects of life）？本地原住民的性意识和性别（Native sexualities and genders）被认为是（figured as）异端的（deviant）、粗俗的（vulgar）和不可宜居生存的（non-livable），TA们的身体被指定为（designated for）死亡，而白人殖民者的性意识和性别二元论（white colonizer sexuality and gender binaries）则象征着（signified）道德和社会未来（the moral and social future）。在1770年代，被称为“joyas人”的，本地原住民第三性别者（Native third-gender people），被，参与了加州殖民定居者主权战争（the war of settler sovereignty over California）的西班牙殖民者和传教士（the Spanish colonizers and missionaries），标记为（marked by）埃里克·A·斯坦利（Eric A. Stanley）在一篇精彩的文章《几近生活，酷儿死亡》（“Near Life, Queer Death”）中所说的“过度杀戮（overkill）”。德博拉·A·米兰达（Deborah A. Miranda）（Olone-Costanoan Esselen Nation 部落/地区, Chumash 丘马什人）在《_Joyas_ [人的根绝》（“Extermination of the](https://read.dukeupress.edu/glq/article/16/1-2/253/34704/EXTERMINATION-OF-THE-JOYASGendercide-in-Spanish) _Joyas_”）中写道：
 
-西班牙王室的种族屠杀政策（the genocidal policies of the Spanish Crown ）\[导致\] 了一场严重人口种群消亡（population crash）：加利福尼亚印第安人（California Indians）在第一次接触确定人数（numbering）时有一百万人，在短短一百多年内骤然减少到大约一万名生存者。这一巨大损失的一部分是第三性别者（third-gender people），TA们不是因为疾病或饥饿等“被动的”殖民化附带损害（“passive” colonizing collateral damage）而遭难的，而是通过主动的、有意识的、暴力的根绝（active, conscious, violent extermination）。
+> 西班牙王室的种族屠杀政策（the genocidal policies of the Spanish Crown ）\[导致\] 了一场严重人口种群消亡（population crash）：加利福尼亚印第安人（California Indians）在第一次接触确定人数（numbering）时有一百万人，在短短一百多年内骤然减少到大约一万名生存者。这一巨大损失的一部分是第三性别者（third-gender people），TA们不是因为疾病或饥饿等“被动的”殖民化附带损害（“passive” colonizing collateral damage）而遭难的，而是通过主动的、有意识的、暴力的根绝（active, conscious, violent extermination）。
 
 这种死亡政治式殖民暴力（this necropolitical colonial violence）的主要机制是将 Joyas人 扔向狗，这里是直接字面意义上的意思（throw the joyas to the dogs, literally）。[反殖民的跨儿政治和研究（anticolonial trans politics and studies）](https://read.dukeupress.edu/tsq/article/1/3/419/24768/Decolonizing-TransgenderA-Roundtable-Discussion)使殖民主义的权力得以凸显（throw colonial power into relief），使我们能够清楚地看到通过生命政治和死亡政治技术（biopolitical and necropolitical technologies）——无论是狗、司铎（priests）、士兵，还是当近的监管（policing）、监狱、和法律——原住民生命（indigenous life）是如何被成为目标的（is targeted through）。这是，齐泽克没有考虑到或提及的，殖民主义的性别化遗产（the gendered legacy of colonialism）。
 
@@ -65,16 +65,18 @@
 
 此外，雅斯比尔·普阿（Jasbir Puar）在她的[《恐怖主义配置》](https://www.dukeupress.edu/terrorist-assemblages-tenth-anniversary-edition)（_Terrorist Assemblages_）一书中批判了这些同性恋民族主义和粉红清洗之形式（these forms of homonationalism and pinkwashing），同时交叉性女性主义（intersectional feminism）对白人女性主义、以单一议题为导向的对性暴力的框架定义化（white, feminist, single-issue–oriented framings of sexual violence）做出了直接回应，这一框架定义化将黑人和棕色皮肤男人视为威胁（posit Black and brown men as threats）。从肯比河集体（Combahee River Collective）（一个自1974年就开始进行聚会的黑人女性主义者集体）及其对生物本质主义的批判（its critique of biological essentialism），认为生物本质主义是一个“用来建立政治的危险和反动保守性的基础”（a “dangerous and reactionary basis upon which to build a politic”），到黑人女性主义的跨儿系谱（trans genealogies of Black feminism）——黑人女性主义一如既往地已经是跨儿式的了（Black feminism as always already trans）——许多作家都对二元性别范畴和二元、医学上指派的性范畴（the categories of binary gender and of binary, medically assigned sex）制造了问题以及扰乱（problematized and troubled）。齐泽克的框架定义（framing）不仅令人失望，而且也是对总体的跨儿研究的更大的否定不予理会的症状（symptomatic of a larger dismissal of trans studies in general）——他从未咨询过任何[跨儿研究学术成果（trans studies scholarship）](https://www.dukeupress.edu/TSQ-Transgender-Studies-Quarterly/)——即使是书写关于性差异（sexual difference）、[跨儿主体性（trans subjectivity）、和拉康派精神分析（Lacanian psychoanalysis）](https://read.dukeupress.edu/differences/article/21/2/46/60622/Transgender-Subjectivity-and-the-Logic-of-Sexual)的那些跨儿研究学者（trans studies scholars）。与其接受齐泽克的思想风格（thought style），也就是完全不考虑性别的种族化和殖民化（leaves the racialization and colonization of gender unthought）——在我们这个新自由主义时代，一个对跨儿主体性的真正分析（a real analysis of trans subjectivity）始于并且作为（begins in and as）黑人和本地原住民理论、知识和权力（Black and Native theory, knowledge, and power）开始。
 
-¤
+***
 
 **衷心感谢** _**Maryse Mitchell-Brody, Margaux L. Kristjansson, Eva Hayward, Eric Stanley**_ **和** _**LARB**_ **编辑团队的鼓励、编辑支持、和慷慨的反馈。页眉图片由** _**J. Bob Alotta**_ **拍摄。**_**Marsha P. Johnson**_ **在贝尔维尤医院（**_**Bellevue Hospital**_**）外抗议（**_**picketing**_**），反对（**_**protest**_**）街头人士和同性恋者受到的糟糕待遇，的特写照片（摄于**_**1968**_**年至**_**1975**_**年）是由** _**Diana Davies**_ **拍摄的。**
 
-¤
+***
 
 **切·戈塞特（Che Gossett）是一位黑人跨儿芬曼作家（Black trans femme writer）和准学术理论皇后（para academic theory queen）3。TA是美国研究协会2014年葛洛利亚·E·安沙杜瓦奖（the 2014 Gloria E. Anzaldúa Award from the American Studies Association）和纽约市立大学基和蕾丝边研究中心2014年西尔维亚·里维拉跨性别研究奖（the 2014 Sylvia Rivera Award in Transgender Studies from the Center for Gay and Lesbian Studies at the City University of New York）的得主。TA在Verso出版社的博客上发表了关于黑人性（blackness）和动物性（animality）的作品，还为《酷儿死亡政治》（**_**Queer Necropolitics**_**）、《跨性别研究读本第二卷》（**_**The Trans Studies Reader Volume II**_**）、《被监禁的性别》（**_**Captive Genders**_**）、以及即将出版的选集供稿。TA的网站是：**[**chegossett.wordpress.com**](http://chegossett.wordpress.com) **。**
 
-1 Judith Butler 为非二元者，使用“they/them”和“she/her”代词，原文仍使用“she/her”，译文只使用“they/them”来描述 Judith Butler。
+***
 
-2 译者拒绝“transvestites”的广传翻译“异装癖/异装癖者”等，“癖”在当前社会文化语境中显然是贬低的，且“transvestites”一词已在英文语境（同时主要是拉丁美洲等西班牙语语境）下重新寻得了主动出击的面向，所以使用“异装喜好/异装喜好者”或“异装者”这样的翻译。但读者也需要明白服饰本身的文化含义的演变，并且其不一定需要和二元对立的、分离的男性气质/女性气质有关联，尽管如此，任何服饰总会被感受认知为（perceived）从属于某一范畴。——译注
+1. Judith Butler 为非二元者，使用“they/them”和“she/her”代词，原文仍使用“she/her”，译文只使用“they/them”来描述 Judith Butler。
 
-3 取自译者之前的译注：“femme”一词的翻译方式与背景同“butch”，旧常被译为/理解为“女性化的女同性恋者”、所谓的“底（bottom）”。但现在对“femme”的使用与理解更倾向于解释为对“femininity（女性气质）”的酷儿展演，酷儿化的呈现。也即，顺性别者、非二元者、跨儿、以及酷儿社群中的任何人都可以批判性地挪用这个词，以展现自己对“femininity”的理解。此处采用音译“芬曼”。——译注
+2. 译者拒绝“transvestites”的广传翻译“异装癖/异装癖者”等，“癖”在当前社会文化语境中显然是贬低的，且“transvestites”一词已在英文语境（同时主要是拉丁美洲等西班牙语语境）下重新寻得了主动出击的面向，所以使用“异装喜好/异装喜好者”或“异装者”这样的翻译。但读者也需要明白服饰本身的文化含义的演变，并且其不一定需要和二元对立的、分离的男性气质/女性气质有关联，尽管如此，任何服饰总会被感受认知为（perceived）从属于某一范畴。——译注
+
+3. 取自译者之前的译注：“femme”一词的翻译方式与背景同“butch”，旧常被译为/理解为“女性化的女同性恋者”、所谓的“底（bottom）”。但现在对“femme”的使用与理解更倾向于解释为对“femininity（女性气质）”的酷儿展演，酷儿化的呈现。也即，顺性别者、非二元者、跨儿、以及酷儿社群中的任何人都可以批判性地挪用这个词，以展现自己对“femininity”的理解。此处采用音译“芬曼”。——译注
