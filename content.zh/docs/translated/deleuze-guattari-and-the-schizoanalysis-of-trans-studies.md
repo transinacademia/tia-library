@@ -14,7 +14,7 @@ comment: false
 译者：云清
 ***
 
-## 翻译说明
+**翻译说明**
 
 本文为导论(Introduction)，作者为希亚拉·克里明(Ciara Cremin)，选自《德勒兹、加塔利以及跨儿研究的精神分裂分析》(Deleuze, Guattari and the Schizoanalysis of Trans Studies)。原书是一本文章合集，共收录了9篇文章，由希亚拉·克里明编辑，是由布鲁姆斯伯里出版社(Bloomsbury Publishing)出版的“精神分裂分析应用(Schizoanalysis Application)”系列之一。
 
