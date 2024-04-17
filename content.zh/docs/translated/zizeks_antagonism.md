@@ -5,32 +5,20 @@
 译者：許顓頊（代词 they/them/祂/佢/TA）
 ***
 
-对本文及译文的说明：拉康精神分析存在非常多的特地 jargons（行话），译者进行翻译仅仅想向读者揭示主流精神分析文本的顺性/别主义（cissexism）、顺性/别规范（cisnormativity）以及各种顽固不化。读者如觉得词汇玄幻可以跳过此文。本文除了将会遭遇**拉康派一如既往的冷眼、不屑、与自负外**，考虑到出版时间（2017年），**本文也没有很好的处理非二元者（non-binary people）的位置，**或者说，**没有深入**这方面的思考，**只是指出这方面思考的可能**。最关键的是，译者希望读者们可以去思考，**一个新的关于性别和性差异的知识论（a new epistemology of gender and sexual difference）**会如何影响整体的精神分析，以及精神分析**为了自身的继续存在**会如何（不）接受这一**新的知识论与词汇**？读者同样可以尝试去阅读 Bracha L. Ettinger、Félix Guattari、Jean Laplanche、Jean Oury 等人的精神分析作品；又或者是使用到精神分析框架的 trans-supportive 理论家如 Jay Prosser、Gayle Salamon、Patricia Elliot、Patricia Gherovici 、Oren Gozlan 等人。
+**对本文及译文的说明**
+
+拉康精神分析存在非常多的特地 jargons（行话），译者进行翻译仅仅想向读者揭示主流精神分析文本的顺性/别主义（cissexism）、顺性/别规范（cisnormativity）以及各种顽固不化。读者如觉得词汇玄幻可以跳过此文。本文除了将会遭遇**拉康派一如既往的冷眼、不屑、与自负外**，考虑到出版时间（2017年），**本文也没有很好的处理非二元者（non-binary people）的位置，**或者说，**没有深入**这方面的思考，**只是指出这方面思考的可能**。最关键的是，译者希望读者们可以去思考，**一个新的关于性别和性差异的知识论（a new epistemology of gender and sexual difference）**会如何影响整体的精神分析，以及精神分析**为了自身的继续存在**会如何（不）接受这一**新的知识论与词汇**？读者同样可以尝试去阅读 Bracha L. Ettinger、Félix Guattari、Jean Laplanche、Jean Oury 等人的精神分析作品；又或者是使用到精神分析框架的 trans-supportive 理论家如 Jay Prosser、Gayle Salamon、Patricia Elliot、Patricia Gherovici 、Oren Gozlan 等人。
 
 本文出现过一些陈旧的词汇，如“transpeople”、“transperson”、“transsubjectivity”等，读者需注意这样复合词（compounds）也曾在恐跨修辞中出现过，如 “transwoman”，而不是更为常见的 trans woman 的形式，又或者，如，友跨学者和反跨顺男齐泽克都用到的“transgenderism”这一词汇（本文大部分情况下只翻译为“跨性别”），友跨读者使用这类词汇时需要考虑到受众读者以及语境，译者认为读者可以很容易的根据语境区分出“transgender” 和 “transgenderism” ，又或是 “transsexual” 和“transsexuality”。
 
 **sex** 译为“性”、**gender** 只译为“性别”；当 **trans** 独立使用时翻译为“**跨儿**”，其它情况下翻译为“**跨性/别**”；**transsexual** 将译为“**跨性**”（本译文虽希望保留其历史含义与当代诠释，但完全不希望其作为译文被引入时，被译为“变性”这样在部分中国跨儿与非二元者社群中被视为具有贬损色彩的词汇）；**transgender** 译为“跨性别”（读者需要了解 **transsexual 和 transgender 两种叙事模型的不同，可参加译者之前的译文）**；**woman** 译为“女人”；**man**译为“男人”**；real** 译为“实在/真/真实”等等；**antagonism**译为“敌对/敌意/对立/对抗”等等；**biological sex**译为“生物性别”；**sexual difference**译为“性差异”；**sexuation**译为“性分化”；**masculine**译为“男性/男性气质的/男性化的”；**the masculine**译为“男性”，读者需注意在精神分析用法中 masculine（男性）与 male（男性）是完全不同意思；**feminine**译为“女性/女性气质的/女性化的”；**the feminine** 译为“女性”，读者需注意在精神分析用法中 feminine（女性）与 female（女性）是完全不同意思；**psychic** 和 **psychical** 等都译为“精神”；**fantasy** 和 **phantasmatic** 等都译为“幻想”；**ex-sistence** 译为“外-存在”，有时候译为“外在”；**the** **imaginary** 译为“想象/想象界/想象秩序”；**the symbolic** 译为“象征/象征界/象征秩序”；**the real** 译为“实在/实在界/实在秩序”。**the Other** 译为“大TA者”；**the other** 译为“它人/TA者”等；acknowledge/ concede/ admit/recognise 等词译为“承认”但有时候则用其它翻译； **embody/embodiment** 译为“具身体现”
 
-对翻译方式的说明（部分直接复制自译者之前译文内的声明）：
+**对翻译方式的说明（部分直接复制自译者之前译文内的声明）**
+1. 译者的翻译是以冗长的词意叠加以及对原文的尽可能保留（词汇、结构等），同时译者不在意格式规范（比如会刻意使用空格、破折号来引导阅读节奏）亦或其它相关翻译规范。另外，【 】内除表示数字外，均为译者注解。
+2. 译者的翻译是机械且僵硬的，完全没有把握住行文的细微差异（nuance），**译者不做细分，也认为纠结于此没有意义。**
+3. 译者再次为本译文中蓄意出现的拗口词汇组合表示抱歉。
 
-1\. 译者的翻译是以冗长的词意叠加以及对原文的尽可能保留（词汇、结构等），同时译者不在意格式规范（比如会刻意使用空格、破折号来引导阅读节奏）亦或其它相关翻译规范。另外，【 】内除表示数字外，均为译者注解。
-
-2\. 译者的翻译是机械且僵硬的，完全没有把握住行文的细微差异（nuance），**译者不做细分，也认为纠结于此没有意义。**
-
-3\. 译者再次为本译文中蓄意出现的拗口词汇组合表示抱歉。
-
-
-
-
-
-
-
-
-
-
-**齐泽克的敌对和跨性/别肯定的拉康精神分析之未来**
-
-Žižek’s Antagonism and the Futures of Trans-Afﬁrmative Lacanian Psychoanalysis
+***
 
 **摘要**（***Abstract***） 本文利用斯拉沃热·齐泽克（Slavoj Žižek）最近关于跨性/别者的著作——以及TA们对他的反应反抗（reactions）——来重新思考拉康精神分析（Lacanian psychoanalysis）对跨儿理论（trans theory）所能产生的贡献。尽管本文肯定在 Shanna Carlson（沙那·卡尔森）、帕特丽夏·基洛维奇（Patricia Gherovici）、和盖尔·萨拉蒙（Gayle Salamon）的工作中，已经存在着的对于跨性/别肯定的理论化路径（trans-affirmative theorizing）的重大价值（considerable value），但本文还是认为齐泽克（Žižek）的工作提供了——除了它本身之外——一种穿越性差异幻想的方式（traversing the fantasy of sexual difference），这种幻想构建了对于性别的拉康式论述解释（that structures Lacanian accounts of gender）。通过超越，认为构建了主体性（structures subjectivity）的二律背反/矛盾（antinomy）必须始终且只能被命名为“性差异（sexual difference）”，的这一假设，这篇文章为以不同方式思考性、性别和性差异（thinking sex, gender, and sexual difference otherwise）创造了一个开口/开端（opening）。
 
