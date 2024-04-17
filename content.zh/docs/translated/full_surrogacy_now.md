@@ -151,9 +151,9 @@ Aliza Shvarts, _Posters_, 2008/2017. Performance documentation (score, still, an
 
 16. 李·埃德尔曼，《没有未来：酷儿理论和死亡驱力》（杜克大学出版社，2004年）(Lee Edelman, _No Future: Queer Theory and the Death Drive_ (Duke University Press, 2004).)
 
-17 劳拉·布里格斯，《所有的政治是如何变成生殖政治的》（加州大学出版社，2017年），第127页。(Laura Briggs, _How All Politics Became Reproductive Politics_ (University of California Press, 2017), 127.)
+17. 劳拉·布里格斯，《所有的政治是如何变成生殖政治的》（加州大学出版社，2017年），第127页。(Laura Briggs, _How All Politics Became Reproductive Politics_ (University of California Press, 2017), 127.)
 
-18 W. E. B. Du Bois, _Black Reconstruction in America, 1860-1880_ (Free Press, 1992); Dorothy Roberts, _Killing the Black Body: Race, Reproduction, and the Meaning of Liberty_ (Vintage, 1999).
+18. W. E. B. Du Bois, _Black Reconstruction in America, 1860-1880_ (Free Press, 1992); Dorothy Roberts, _Killing the Black Body: Race, Reproduction, and the Meaning of Liberty_ (Vintage, 1999).
 
 19. 艾琳·鲁斯蒂格，《母亲档案》，Komsomol films，2013年，91分钟。(Irene Lusztig, _The Motherhood Archives_, Komsomol films, 2013, 91 minutes.)【读者可在艺术家本人的 Vimeo 页面上看到部分视频摘录 [https://vimeo.com/komsomolka](https://vimeo.com/komsomolka) ——译注】
 
