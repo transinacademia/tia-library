@@ -22,9 +22,13 @@
 
 ***
 
-**摘要**（***Abstract***） 本文利用斯拉沃热·齐泽克（Slavoj Žižek）最近关于跨性/别者的著作——以及TA们对他的反应反抗（reactions）——来重新思考拉康精神分析（Lacanian psychoanalysis）对跨儿理论（trans theory）所能产生的贡献。尽管本文肯定在 Shanna Carlson（沙那·卡尔森）、帕特丽夏·基洛维奇（Patricia Gherovici）、和盖尔·萨拉蒙（Gayle Salamon）的工作中，已经存在着的对于跨性/别肯定的理论化路径（trans-affirmative theorizing）的重大价值（considerable value），但本文还是认为齐泽克（Žižek）的工作提供了——除了它本身之外——一种穿越性差异幻想的方式（traversing the fantasy of sexual difference），这种幻想构建了对于性别的拉康式论述解释（that structures Lacanian accounts of gender）。通过超越，认为构建了主体性（structures subjectivity）的二律背反/矛盾（antinomy）必须始终且只能被命名为“性差异（sexual difference）”，的这一假设，这篇文章为以不同方式思考性、性别和性差异（thinking sex, gender, and sexual difference otherwise）创造了一个开口/开端（opening）。
+**摘要**（***Abstract***）
 
-**关键词**（***Keywords***）跨性别（transgender）、跨性（transsexuality）、精神分析、雅克·拉康（Jacques Lacan）、斯拉沃热·齐泽克（Slavoj Žižek）
+本文利用斯拉沃热·齐泽克（Slavoj Žižek）最近关于跨性/别者的著作——以及TA们对他的反应反抗（reactions）——来重新思考拉康精神分析（Lacanian psychoanalysis）对跨儿理论（trans theory）所能产生的贡献。尽管本文肯定在 Shanna Carlson（沙那·卡尔森）、帕特丽夏·基洛维奇（Patricia Gherovici）、和盖尔·萨拉蒙（Gayle Salamon）的工作中，已经存在着的对于跨性/别肯定的理论化路径（trans-affirmative theorizing）的重大价值（considerable value），但本文还是认为齐泽克（Žižek）的工作提供了——除了它本身之外——一种穿越性差异幻想的方式（traversing the fantasy of sexual difference），这种幻想构建了对于性别的拉康式论述解释（that structures Lacanian accounts of gender）。通过超越，认为构建了主体性（structures subjectivity）的二律背反/矛盾（antinomy）必须始终且只能被命名为“性差异（sexual difference）”，的这一假设，这篇文章为以不同方式思考性、性别和性差异（thinking sex, gender, and sexual difference otherwise）创造了一个开口/开端（opening）。
+
+**关键词**（***Keywords***）
+
+跨性别（transgender）、跨性（transsexuality）、精神分析、雅克·拉康（Jacques Lacan）、斯拉沃热·齐泽克（Slavoj Žižek）
 
 ***
 
