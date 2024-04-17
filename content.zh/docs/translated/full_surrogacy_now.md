@@ -1,4 +1,4 @@
-# 现在完全代孕 [^1]
+# 现在完全代孕
 
 **Lewis, Sophie. “Full Surrogacy Now.” e-flux, no. 99, Apr. 2019, https://www.e-flux.com/journal/99/261641/full-surrogacy-now/.**
 
@@ -109,13 +109,20 @@ Irene Lusztig, _The Motherhood Archives_, 2013. 91 min, HD video, 16 mm, and arc
 
 说没有对妊娠的奇迹式解决（miracle fix）——除了占有生殖/再生产的手段之外——远不是逃避，而是点燃我们废除（产科的 obstetric）现状（present state of things）的欲望。在关于我们的怀孕是“自然的（natural）”还是“病理性的（pathological）”长达几个世纪的循环辩论之外，我知道，这之间存在着一个妊娠公社（gestational commune）——并且我想生活在其中。
 
+***
 **苏菲·路易斯**是一位居住在费城的共产主义[作家](https://www.patreon.com/reproutopia)，[《现在完全代孕：反对家庭的女性主义》（_Full Surrogacy Now: Feminism Against Family_）](https://www.versobooks.com/books/2951-full-surrogacy-now)的作者，也是布鲁克林社会研究所关于[酷儿和跨儿女性主义](https://thebrooklyninstitute.com/items/courses/new-york/trans-queer-woman-theory-and-politics-2/)课程的老师。作为[脱离困境（Out of the Woods）](https://www.commonnotions.org/hope-against-hope)这一集体的成员之一，她广泛在废除家庭、生态学和[乌托邦](https://maljournal.com/5/sex-negative/sophie-lewis/collective-turn-off/)等方面写作和演讲。
 
 **Sophie Lewis** is a communist [writer](https://patreon.com/reproutopia) based in Philadelphia, the author of [_Full Surrogacy Now: Feminism Against Family_](https://www.versobooks.com/books/2951-full-surrogacy-now)_,_ and a teacher of courses on [queer and trans feminism](https://thebrooklyninstitute.com/items/courses/new-york/trans-queer-woman-theory-and-politics-2/) at the Brooklyn Institute for Social Research. A member of the [Out of the Woods](https://www.commonnotions.org/hope-against-hope) collective, she writes and speaks widely on family abolition, ecology, and [utopia](https://maljournal.com/5/sex-negative/sophie-lewis/collective-turn-off/).
 
-【可点开链接查看相关信息，译注】
+***
 
-1 关于本译文的几点说明（部分直接复制自译者之前翻译的声明）：1. 译者的翻译是以**冗长的词意叠加**以及对原文的尽可能保留（词汇、结构等），同时译者不在意格式规范（比如会刻意使用空格、破折号来引导阅读节奏）亦或其它相关翻译规范。另外，【 】内除表示数字外，均为译者注解，且部分引用文献的脚注没有进行翻译、脚注翻译格式也不统一（如，中英混合或者中英分离）；2.**“trans”**一词将译为**“跨儿”或“跨性/别**”、“**trans people”**翻译为**“跨儿者”**，**“cis”翻译成“顺性/别”**，而**“transgender”译为“跨性别”**，读者在阅读时**需要仔细思考这几种论述模型的差异**；“cis”一词则译为“顺性/别” 3.**“female”只译为“女性”**，**“woman”译为“女人”、“女”、“妇女”**，“male”与“man”等的翻译则对应；又如，**“Parent(s)”翻译为“亲本”、“养育者”或者“家长”**（不翻译成“父母/母母”等带有强烈性别化指向的、或者是指向专偶伴侣关系（monogamy）的词汇，当然这也是依照语境决定的，比如，也有非二元者接受“父母”等称谓），**译者希望能够尽可能地使用更为性别包容的措辞选择**但同时译者明白在特定语境下这种行为背后的风险；4. 本文大量出现着同词异译：**如，surrogate与代孕/代理；reproduction与繁殖/再生产；labor与分娩/劳动**；5. 最后，译者再次为本译文中蓄意出现的拗口词汇组合、句式结构表示抱歉（如果造成困扰）。
+关于本译文的几点说明（部分直接复制自译者之前翻译的声明）<br/>
+1. 译者的翻译是以**冗长的词意叠加**以及对原文的尽可能保留（词汇、结构等），同时译者不在意格式规范（比如会刻意使用空格、破折号来引导阅读节奏）亦或其它相关翻译规范。另外，【 】内除表示数字外，均为译者注解，且部分引用文献的脚注没有进行翻译、脚注翻译格式也不统一（如，中英混合或者中英分离）；
+2.**“trans”**一词将译为**“跨儿”或“跨性/别**”、“**trans people”**翻译为**“跨儿者”**，**“cis”翻译成“顺性/别”**，而**“transgender”译为“跨性别”**，读者在阅读时**需要仔细思考这几种论述模型的差异**；“cis”一词则译为“顺性/别”
+3.**“female”只译为“女性”**，**“woman”译为“女人”、“女”、“妇女”**，“male”与“man”等的翻译则对应；又如，**“Parent(s)”翻译为“亲本”、“养育者”或者“家长”**（不翻译成“父母/母母”等带有强烈性别化指向的、或者是指向专偶伴侣关系（monogamy）的词汇，当然这也是依照语境决定的，比如，也有非二元者接受“父母”等称谓），**译者希望能够尽可能地使用更为性别包容的措辞选择**但同时译者明白在特定语境下这种行为背后的风险；
+4. 本文大量出现着同词异译：**如，surrogate与代孕/代理；reproduction与繁殖/再生产；labor与分娩/劳动**；
+5. 最后，译者再次为本译文中蓄意出现的拗口词汇组合、句式结构表示抱歉（如果造成困扰）。
+***
 
 \*考虑到大部分人的阅读习惯只是看标题以及对全文的粗略扫读，以及公共舆论场对“代孕”之讨论潜藏的种种狭隘断言，**特别是这些讨论里所充斥着的顺性/别异性恋正统主义（cis-heteronormative）预设**（**忽略了跨性/别者和非二元者（trans and non-binary people）以及其它各性/别认同的人，还有各不同性意向（sexual dispositions）的人）**，再加上公众对这个词的反射性恐惧与排斥，因而本文在豆瓣的大标题不进行“surrogacy”的翻译。译者过度乐观地期待读者跟着 Sophie Lewis 的这篇短文重新思考作为工作的“妊娠/生育/生殖/怀孕/分娩劳动”，及其笔下具有乌托邦视野的真正完全的“代孕”（对当前狭义上的“代孕”完全不同的理解），进而对本文及更广泛的酷儿/跨儿包容的怀孕工作、生殖正义（权利）等议题展开更为激烈的批判性审视。
 
