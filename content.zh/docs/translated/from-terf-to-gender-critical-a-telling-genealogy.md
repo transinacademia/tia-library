@@ -9,7 +9,7 @@ comment: false
 **Claire Thurlow. “From TERF to Gender Critical: A Telling Genealogy?” *Sexualities*, 2022-09-30.**
 
 ***
-作者：Claire Thurlow<br />
+作者：克莱尔·瑟洛 (Claire Thurlow)<br />
 译者：云清
 ***
 
@@ -38,9 +38,6 @@ comment: false
 在本篇译文中，译者使用新的排印规范处理中文、西文、标点和数字的混排情况。希望这可以为读者带来更好的阅读体验。
 
 ---- 
-
-**克莱尔·瑟洛 (Claire Thurlow)** <br/>
-卡迪夫大学，英国 (Cardiff University, UK)
 
 ## 摘要 (Abstract)
 
