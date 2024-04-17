@@ -17,12 +17,8 @@
 怀孕中所发生的日常“奇迹（miracle）”，即生产那个多于一、少于二的数字，得到的只是理想化的口头支持（idealizing lip-service），而不是尊重。当然，在子宫中创造新的原型个人（proto-personhood），是艺术家们几千年来（millennia）（精神分析哲学家们psychoanalytic philosophers 近一个世纪以来）所关心 （engaged）的奇迹（marvel）。我们中的大多数人无需提醒都能明白，我们每个人都是妊娠工作（gestational work）及其同样费力艰苦的后续工作（equally laborious aftermaths）下的眨眼（blinking）、思考（thinking）、脉动（pulsating）的产物。然而，在2017年，一位像麦琪·尼尔森（Maggie Nelson）这样简明的（compendious）读者和思想家仍然可以半信半疑地（semi-incredulously）但有强有力论据支持地说出，关于实际进行妊娠（actually doing gestation）的哲学写作在文化上是缺失的（constitutes an absence in culture）。
 
 这个话题让我特别在意的是怀孕的发病率（morbidity），鲜少有人讨论的是，从生物物理学（biophysically）的角度来说，妊娠是不合理肆无忌惮地具有破坏性的事情（unconscionably destructive business）。根据演化生物学家（evolutionary biologist）苏珊那·萨迪丁（Suzanne Sadedin）的说法，在我们物种中演化出的这一基本运作方式（basic mechanics），在某种意义上只能被描述为是一种可怕的意外（ghastly fluke）。科学家们——通过实验将胎盘细胞（placental cells）置入老鼠尸体中——发现怀孕的活性细胞（active cells）会在它们所接触的每一个组织中“横冲直撞（rampage）”（除非被强烈地遏制）。凯西·阿克（Kathy Acker）在说得癌症就像有孩子一样时，她并没有引用这些研究，但她是在无意识地表达传递着（channelling）这些研究结果。在埃琳娜·费兰特（Elena Ferrante）《被遗弃的日子》（_The Days of Abandonment_）一书中的主角也是如此，其告知道：“我就像一块食物，被我的孩子们不停地咀嚼着；这是由活体材料（living material）制成的一种反刍食物（cud），这种活体材料不断地混合和软化它的活体物质（living substance），以便让两个贪婪的吸血者滋养TA们自己”。3
-
-【人类胎盘切片。染色：苏木精和曙红。光学显微镜技术：明视场。放大倍数：1200倍。照片：约瑟夫·瑞意奇（Josef Reischig）/ CC 署名-相同方式共享 3.0 版本
-
-Section of human placenta. Stain: Hematoxylin and eosin. Optical microscopy technique: Bright field. Magnification: 1200x Photo: Josef Reischig/CC BY SA 3.0】
-
-【“CC”即“Creative Commons (license) ”知识共享许可协议；“BY”即“Attribution”署名；“SA”即“ShareAlike” 相同方式共享。——译注】
+[人类胎盘切片。染色：苏木精和曙红。光学显微镜技术：明视场。放大倍数：1200倍。照片：约瑟夫·瑞意奇（Josef Reischig）/ CC 署名-相同方式共享 3.0 版本<br/>
+Section of human placenta. Stain: Hematoxylin and eosin. Optical microscopy technique: Bright field. Magnification: 1200x Photo: Josef Reischig/CC BY SA 3.0](https://images.e-flux-systems.com/Placenta_(265_35)_Section_of_human_placentaWEB.jpg,1920)
 
 胚胎发育（embryonic development）中活跃的基因也与癌症有关（implicated）。这并不是——在萨迪丁（Sadedin）的论述里——为什么**智人**（_Homo sapiens_）间的怀孕进行着（perpetrates）一种生物上的“血浴”（biological "bloodbath"）的唯一原因。是我们要一起共事的（work with）特殊的、功能上罕见的胎盘类型——血绒膜胎盘（hemochorial placenta）——其决定了竹下千佳子（Chikako Takeshita）称之为“母胎（the motherfetus）”的实体（entity）在内部撕裂自己。4 这种胎盘不是简单地通过一种有限度的滤器（limited filter）与妊娠者的生物体（gestator's biology）接合（interfacing），或者以自由供给的分泌物（freely proffered secretions）满足其自身，而是以“消化（digests）”的方式进入宿主的动脉，确保充分进入大多数组织。而那些胎盘**没有**（_don't_）以这种方式“突破子宫壁（breach the walls of the womb）”的哺乳动物，可以在怀孕的任何阶段轻易地中止（abort【该词也有堕胎等意思，译注】）或重新吸收（reabsorb）不想要的胎儿（unwanted fetuses），萨迪丁指出。对它们来说，“在怀孕期间，生活几乎照常进行”。5 相反地，人类**无法**（_cannot_）在忽然改变主意的情况下（又或者说，在突发干旱或战争爆发的情况下）撕开胎盘而没有致命大出血（lethal hemorrhage）的风险。我们的胚胎（embryo）极度地扩大并瘫痪了供应着它的更广泛的动脉系统，同时（受激素影响地 hormonally）提高了血压和糖分供应。2018年的一项研究发现，在英国，产后创伤后应激障碍（post-natal PTSD）至少影响了3%到4%的母亲（美国的比例可能要高得多——尤其是在黑人女人 black women 中）。6
 
@@ -34,19 +30,19 @@ Aliza Shvarts, _Posters_, 2008/2017. Performance documentation (score, still, an
 
 【作品文本翻译·左边栏】：
 
-在一个学年里，我反复进行自我诱导的流产（self-induced miscarriages）。我从自愿者中创建了一组制造者（fabricators），TA们定期接受性传播感染筛查检测（STI screenings），并同意完全且永久匿名。从我月经周期的第9天到第15天，制造者会向我提供精子样本，我使用这些精子私自进行自我授精（self-inseminate）。我使用不需要的注射器（needless syringe），在采集精子后的30分钟内，将精子注射到子宫颈（cervix）附近，以确保受精（fertilization）的可能性。在周期的第28天，我将摄入一种草药堕胎剂（herbal abortifacient），之后我将经历痉挛和大量出血。为了保护自己和TA人，只有我知道参与这个项目的制造者的数量、我授精的频率和准确性，以及我所使用的具体堕胎药。由于这些隐私措施，作品只存在于它的讲述中。这种讲述可以采取文本、视觉、空间、时间和展演（performative）的形式呈现——没有原件的复制品的复制品。
+> 在一个学年里，我反复进行自我诱导的流产（self-induced miscarriages）。我从自愿者中创建了一组制造者（fabricators），TA们定期接受性传播感染筛查检测（STI screenings），并同意完全且永久匿名。从我月经周期的第9天到第15天，制造者会向我提供精子样本，我使用这些精子私自进行自我授精（self-inseminate）。我使用不需要的注射器（needless syringe），在采集精子后的30分钟内，将精子注射到子宫颈（cervix）附近，以确保受精（fertilization）的可能性。在周期的第28天，我将摄入一种草药堕胎剂（herbal abortifacient），之后我将经历痉挛和大量出血。为了保护自己和TA人，只有我知道参与这个项目的制造者的数量、我授精的频率和准确性，以及我所使用的具体堕胎药。由于这些隐私措施，作品只存在于它的讲述中。这种讲述可以采取文本、视觉、空间、时间和展演（performative）的形式呈现——没有原件的复制品的复制品。
 
 【作品文本翻译·右边栏】：
 
-耶鲁大学发言人赫莱茵·S·拉斯基（Helaine S. Klasky）的声明
+> 耶鲁大学发言人赫莱茵·S·拉斯基（Helaine S. Klasky）的声明
 
-康涅狄格州纽黑文市，2008年4月17日
+> 康涅狄格州纽黑文市，2008年4月17日
 
-施瓦茨女士进行着行为艺术的创作。她的这个艺术项目包含着视觉表征呈现（visual representations）、一份新闻稿和其它叙事材料。她今天向耶鲁大学的三位高级官员，包括两位院长（deans）表示，她没有让自己怀孕，也没有诱导（induce）任何流产（miscarriages）。整个项目是一件艺术作品，是一部创意性虚构小说，旨在引起人们对围绕着女人身体形式和功能（form and function of a woman's body）的模糊性（ambiguity）的关注。
+> 施瓦茨女士进行着行为艺术的创作。她的这个艺术项目包含着视觉表征呈现（visual representations）、一份新闻稿和其它叙事材料。她今天向耶鲁大学的三位高级官员，包括两位院长（deans）表示，她没有让自己怀孕，也没有诱导（induce）任何流产（miscarriages）。整个项目是一件艺术作品，是一部创意性虚构小说，旨在引起人们对围绕着女人身体形式和功能（form and function of a woman's body）的模糊性（ambiguity）的关注。
 
-她是一名艺术家，有权通过行为艺术来表达自己。
+> 她是一名艺术家，有权通过行为艺术来表达自己。
 
-如果这些行动（acts）是真实的，它们就会违反基本道德标准，并引起严重的身心健康问题。
+> 如果这些行动（acts）是真实的，它们就会违反基本道德标准，并引起严重的身心健康问题。
 
 **妊娠之解决（Gestational Fix）**
 
