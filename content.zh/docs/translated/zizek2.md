@@ -1,12 +1,17 @@
-原文：选自《洛杉矶书评》（Los Angeles Review of Books）Gossett, C. (2016). _Žižek’s Trans/gender Trouble_. \[online\] Los Angeles Review of Books. Available at: [https://lareviewofbooks.org/article/zizeks-transgender-trouble/](https://lareviewofbooks.org/article/zizeks-transgender-trouble/) 
+# 齐泽克的跨/性别麻烦
 
-作者：**切·戈塞特（Che Gossett）**
+**Che, Gossett. “Žižek’s Trans/Gender Trouble.” *Los Angeles Review of Books*, 13 Sept. 2016, https://lareviewofbooks.org/article/zizeks-transgender-trouble.**
 
+***
+作者：切·戈塞特（Che Gossett）
 译者：許顓頊（代词 they/them/祂/佢/TA）
+***
 
-翻译动机说明：考虑到北美和欧洲近年来快速变化的 trans politics，本文**是年代久远（2016年）但又非常相关的（relevant）**，译者对本文进行翻译**仅仅是**因为看不惯以及反胃绝大多数中文世界学术工作者对顺性别白男齐泽克大部分工作的 bootlicking（更不用说中文学术工作者本身带有着顺性别常识 cisgender commonsense ）。读者仍需要对本文进行**紧跟当前政治气候**的批判性思考。
+**翻译动机说明**
 
-对本译文的说明（部分直接复制自译者之前译文内的声明）：
+考虑到北美和欧洲近年来快速变化的 trans politics，本文**是年代久远（2016年）但又非常相关的（relevant）**，译者对本文进行翻译**仅仅是**因为看不惯以及反胃绝大多数中文世界学术工作者对顺性别白男齐泽克大部分工作的 bootlicking（更不用说中文学术工作者本身带有着顺性别常识 cisgender commonsense ）。读者仍需要对本文进行**紧跟当前政治气候**的批判性思考。
+
+**对本译文的说明（部分直接复制自译者之前译文内的声明）**
 
 1\. 译者的翻译是以冗长的词意叠加以及对原文的尽可能保留（词汇、结构等），同时译者不在意格式规范（比如会刻意使用空格、破折号来引导阅读节奏）亦或其它相关翻译规范。另外，【 】内除表示数字外，也为译者注解内容。
 
@@ -16,9 +21,7 @@
 
 4\. 译者再次为本译文中蓄意出现的拗口词汇组合表示抱歉。
 
-**齐泽克的跨/性别麻烦**
-
-**Žižek’s Trans/gender Trouble**
+***
 
 最近，我站在纽约宾夕法尼亚车站的二元性别化的厕所（the binary-gendered bathroom）队伍中，这个地方已经因为其铁手套般运作（operation as a gauntlet）而变得严肃紧张——军队和纽约警局（the military and NYPD）集合在一起，用机枪和警犬观测扫掠在美国国旗下的恐怖威胁（threats of terror）。除了盯着“恐怖分子”这个种族化的形象（the racialized figure of the “terrorist”），它们的目标还朝向了（honed in on）对定居者殖民民族国家之主权（the sovereignty of the settler colonial nation-state）的另一种威胁——对二元厕所的潜在颠覆破坏者（the potential disruptor of the binary bathroom）。不过，它们并没有把我视为是威胁，而是一位年长的非跨性/别白人女人（nontrans white woman）。因为男厕所排队队伍比较短，她决定并入这队伍中。当她踏入“男厕所（men’s room）”的门槛时，厕所里的顺性/别男人（the cis men）——都是白人——抗议说（protested）：“让她离开这里！”一名厕所设施的服务员叫来了警察。这名“违法者（offender）”被一名警察亲自押送出了男厕所，这么警察说道，“你走错队了。”它（he）拒绝听她的恳求（plea）：“我只是想去厕所！”（确实是阿尔都塞式的询唤。Althusserian interpellation indeed.）她经历了性别不遵从者和跨性/别者（gender nonconforming and trans people）——尤其是有色人种（especially of color）——每天遭受着的警察监管暴力（the violence of policing）。
 
