@@ -13,6 +13,5 @@ headless: false
   - [齐泽克的跨/性别麻烦 - Che Gossett](/docs/translated/zizek_transtrouble)
   - [我们都是非二元性/别：关于意外的简史 - Kadji Amin](/docs/translated/we_are_all_nonbinary)
   - [现在完全代孕 - Sophie Lewis](/docs/translated/full_surrogacy_now)
-  - [哲学](/docs/translated/philosophy)
-    - [当自我进行性行为：关于跨性/别性意识（Trans Sexuality）的现象学能交给我们什么关于性取向的启示](/docs/translated/philosophy/trans_orientation)
+  - [当自我进行性行为：关于跨性/别性意识（Trans Sexuality）的现象学能交给我们什么关于性取向的启示](/docs/translated/philosophy/trans_orientation)
 <!--[口述史](/docs/oral_history/)--> 
