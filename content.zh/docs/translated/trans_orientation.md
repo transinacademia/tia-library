@@ -1,18 +1,21 @@
-原文：Bettcher, T.M. (2014). When Selves Have Sex: What the Phenomenology of Trans Sexuality Can Teach About Sexual Orientation. Journal of Homosexuality, 61(5), pp.605–620. [doi.org/10.1080/00918369.2014.865472](http://doi.org/10.1080/00918369.2014.865472).
+# 当自我进行性行为：关于跨性/别性意识（Trans Sexuality）的现象学能交给我们什么关于性取向的启示
 
-作者：塔里亚·梅·贝彻尔（Talia Mae Bettcher）
+**Bettcher, T.M. (2014). When Selves Have Sex: What the Phenomenology of Trans Sexuality Can Teach About Sexual Orientation. *Journal of Homosexuality*, 61(5), pp.605–620. [doi.org/10.1080/00918369.2014.865472](http://doi.org/10.1080/00918369.2014.865472).**
 
+***
+作者：塔里亚·梅·贝彻尔（Talia Mae Bettcher）<br/>
 译者：許顓頊（they/she）
+***
 
-erotic 翻译为“情欲”，eroticism 有时翻译为“情欲关系”，有时是“情欲主义”；arousal/arouse 翻译为“唤起”、“兴奋唤起”等，括号内引用出现的作者名不翻译；某些情况下，about, for, to, in, by 的翻译不做具体区别，但读者要知道这些介词是有不同含义的，尤其是在现象学的背景下。distinction 翻译为“区分”、“区别”等等；experience 翻译成“经验”、“体验”等等
+**翻译说明**
+erotic 翻译为“情欲”，eroticism 有时翻译为“情欲关系”，有时是“情欲主义”；arousal/arouse 翻译为“唤起”、“兴奋唤起”等，括号内引用出现的作者名不翻译；某些情况下，about, for, to, in, by 的翻译不做具体区别，但读者要知道这些介词是有不同含义的，尤其是在现象学的背景下。distinction 翻译为“区分”、“区别”等等；experience 翻译成“经验”、“体验”等等。
 
-**当自我进行性行为：关于跨性/别性意识（Trans Sexuality）的现象学能交给我们什么关于性取向的启示**
-
-**（When Selves Have Sex: What the Phenomenology of Trans Sexuality Can Teach About Sexual Orientation）1**
+***
 
 在这篇文章中，贝彻尔认为，性吸引（sexual attraction）必须根据跨性别经验（transgender experience）来重新概念化（reconceptualized）。特别地，贝彻尔为“情欲结构主义”理论（the theory of “erotic structuralism”）辩护，该理论用，一个包含了，将对自我的性别化的情欲化作为一个必需组成部分，的论述阐释（a gendered eroticization of self as an essential component），取代了，对性别化之吸引的一种完全以它人为导向的论述阐释（an exclusively other-directed account of gendered attraction）。这种对自我的情欲经验（this erotic experience of self）对于导向它人的性别化欲望（other-directed gendered desire）来说是必要的，在这里两者是联系紧密且相互了解影响的（ bound together and mutually informing）。该理论所带来的结果（consequence）是，富有争议的“自我女性恋想”的概念是被拒绝的（the controversial notion of “autogynephilia” is rejected）。另一个结果是，性别身份（gender identity）和性取向（sexual orientation）之间的区别被软化了（softened）。
 
-**关键词（**_**KEYWORDS**_**）：自我女性恋想（**_**autogynephilia**_**），布兰卡德（**_**Blanchard**_**），性别身份（**_**gender identity**_**），亲密关系（**_**intimacy**_**），自我身份（**_**selfhood**_**），性意识（**_**sexuality**_**），性取向（**_**sexual orientation**_**），跨性别（**_**transgender**_**），跨性（**_**transsexual**_**）**
+**关键词**
+自我女性恋想（autogynephilia），布兰卡德（Blanchard），性别身份（gender identity），亲密关系（intimacy），自我身份（selfhood），性意识（sexuality），性取向（sexual orientation），跨性别（transgender），跨性（transsexual）
 
 理解性吸引的标准方式（the standard way of viewing sexual attraction）已经不足以捕捉跨性/别者的经验（the experiences of trans people）。为此，我建议我们根据那些经验来重新思考性吸引（sexual attraction）。这结果便是“情欲结构主义（erotic structuralism）”——一种涉及到一般的性吸引（sexual attraction in general）（而不只是特定为跨儿的吸引 trans-specific attractions）的理论。我的目标是做一些必要的理清基础的工作（the ground-clearing work）以勾勒和暂时捍卫它（outline and provisionally defend it）。我的方法论方式（methodological approach）主要是一位哲学家的方法论方式（principally that of a philosopher）；我使用分析和论证（analysis and argumentation）。然而，我自己作为跨性女人（a transsexual woman）的经验与我的理论化有关（relevant to my theorization），正如我的经验是由我所居住的亚文化（the subcultures）（以及我的朋友、过去的情人、选择的家庭 chosen family、和生活伴侣）所形塑的。
 
@@ -28,9 +31,9 @@ erotic 翻译为“情欲”，eroticism 有时翻译为“情欲关系”，有
 
 在本文的第一部分，我提供了一个支持兴趣/吸引之区分（the interest/attraction distinction）的论点。该论点还表明，至少在某些情况下，性吸引拥有一个复杂的结构。在文章的第二部分，我为关于吸引的互动性论述（the interactional account of attraction）进行了辩护。这个假设认为，在所有情况下，吸引都拥有一个复杂的结构。最后，我细思了上述所提及的两个主要理论之结果（two major theoretical consequences）来进行总结。
 
-**兴趣/吸引之区分和吸引的复杂性（THE INTEREST/ATTRACTION DISTINCTION AND THE COMPLEXITY OF ATTRACTION）**
+## 兴趣/吸引之区分和吸引的复杂性（THE INTEREST/ATTRACTION DISTINCTION AND THE COMPLEXITY OF ATTRACTION）
 
-**初步准备（Preliminaries）**
+### 初步准备（Preliminaries）
 
 思考一下有一个人大卫，他有少量的喜好女性的吸引（little gynephilic attraction）。他仍然可以通过使用，关于与某个男人（比如，杰里米 Jeremy）的性互动（sexual interaction）的广泛的内部幻想（extensive internal fantasies），来与一个女人，温迪（Wendy），发生性行为（have sex）。通过“在他的心中/头脑里（mind）运行一部电影”，他可能能够“参与（get involved in）”性邂逅（the sexual encounter）。在这种情况下，大卫是在**对于**杰里米进行幻想（fantasizing _about_）。尽管如此，与温迪的性运动的实际行为（the actual act of sexual movement）可能在生理上对他产生性刺激（sexually stimulating him physiologically）。虽然情欲幻想（erotic fantasy）和身体刺激之体验（experience of physical stimulation）都有一个现象学（我的意思是两者都有“**感到**好似什么特定东西” both “_feel_ like something” specific），但后者不包括在情欲内容（the erotic content）中。他并不是**对于**自己**与温迪**的生殖器活动感到兴奋，也不是**对于**她感到兴奋（He is not excited _about_ his genital activity _with_ _Wendy_, nor is he excited _about_ her）。以一种方式来说就是，他对温迪（in Wendy）没有一种情欲兴趣，而他对杰里米有一种情欲兴趣。杰里米，而不是温迪，是情欲内容的一部分（即，唤起兴奋的内容 the content of arousal）。
 
@@ -44,7 +47,7 @@ erotic 翻译为“情欲”，eroticism 有时翻译为“情欲关系”，有
 
 虽然前面的内容（the preceding）在很大程度上并不令人惊讶，但请注意，这些活动中有许多涉及到各身体之间各种形式的性互动。因此，似乎可以这样说，即一个人自己的身体必然包括在情欲内容中。一个人不仅仅是**对**他吸引（not merely attracted _to_ him）。一个人**被**他感到兴奋，因为他在一个人自己的阴茎上吮吸（One is excited _by_ him as performing fellatio on one’s own penis）。一个人如何将自己的阴茎从吮吸阴茎中移除（remove one’s own penis from the fellatio）？以及一个人如何否认自己的阴茎在情欲内容中起着重要作用？4有一种自然反应，使人觉得自己的阴茎不应该被包括在内。一个人不是对自己的阴茎吸引，而是对给它口交的男人吸引（One is not attracted to one’s own penis as one is attracted to the man fellating it）。如果这是正确的，人们可能会得出结论，一个人自己的阴茎不能成为情欲内容的一部分。当然，背景假设是，**对**某物在情欲上有兴趣（to be erotically interested _in_ something）就是**对**它吸引（to be attracted _to_ it）。然而，下文的论点表明，这个假设必须被拒绝。
 
-**论点（The Argument）**
+### 论点（The Argument）
 
 想象一下，一个跨性/别男人，萨姆（Sam），他是以喜好女性为导向/取向的（gynephilically oriented）（有很少的喜好男性的吸引 with little androphilic attraction）。假设他正在与一个女人，金（Kim），进行性行为。他确实没有阴茎（a penis），但他确实有一个捆绑式假阴茎（a strap-on dildo）。假设金正在吮吸假阴茎（fellating the dildo），假阴茎被两个参与者作为有血有肉的阴茎（a flesh-and-blood penis）来情欲化（eroticized）。萨姆幻想他的阴茎正在被（金）吮吸，而金自己也幻想着自己在吮吸。现在考虑以下一个论点：
 
@@ -68,9 +71,9 @@ erotic 翻译为“情欲”，eroticism 有时翻译为“情欲关系”，有
 
 我还讨论了以下挑战：在没有任何明确的情欲化目的（any explicit eroticized aim）的性吸引的情况下，性吸引似乎**是**简单的（_is_ simple）。考虑一下一个男人看着一个裸体女人的情况。假设他体验到了**对**她的性吸引（sexual attraction _to_ her）。在这样的情况下，自我似乎并不牵涉表明在（is not implicated in）性吸引中。情欲内容似乎被吸引之来源（在这种情况下，“女性体格 the female physique ”，如布兰卡德（Blanchard 1985年）所可能会命名的）所穷尽。 我通过对身体亲密关系（physical intimacy）的分析，展示了互动性论述（the interactional account）如何能够解释这种情况。特别是，我表明，即使在那些似乎没有牵涉表明自我（implicate the self）的情况下，自我仍然被牵涉其中（involved）。
 
-**关于性吸引的互动性论述（THE INTERACTIONAL ACCOUNT OF SEXUAL ATTRACTION）**
+## 关于性吸引的互动性论述（THE INTERACTIONAL ACCOUNT OF SEXUAL ATTRACTION）
 
-**概述（Overview）**
+### 概述（Overview）
 
 在概述互动性论述时，我假设情欲内容是高度可变的。虽然对可以被情欲化的内容（what can be eroticized）可能存在有实际的限制（actual limits），但这不是一个可以在理论性文章（a theoretical article）中做出的假设。（任何我认为的限制都很有可能是我这边想象的失败failures of imagination on my part）。此外，考虑到这一假设和性意识是在本质上是社会的（sexuality is social in nature）的观点，由文化“脚本”所影响（informed by cultural “scripts”）（Gagnon & Simon, 2005年 \[1973年\]），似乎可以合理地假设，在一种文化中的情欲内容（erotic content in a culture）在很大程度上是由该文化的社会性（the sociality of that culture）所决定的。换句话说，情欲内容可以跨文化地呈现差异变化（vary cross-culturally）。那么，我在这一节的目标是将性吸引理解为一种在文化上特定的、定义明确的、结构化的情欲内容形式（a culturally specific, well-defined, and structured form of erotic content）。而在这种观点中，一种情欲兴趣，除非它在这个特定结构中扮演特定角色，否则就不是吸引之来源。
 
@@ -78,7 +81,7 @@ erotic 翻译为“情欲”，eroticism 有时翻译为“情欲关系”，有
 
 这种观点阐明了自我的表征（the representation of self）。为了情欲化（eroticize）自我与它者的亲密化（the intimization of self and other）， 自我需要作为情欲关系的一个重要组成部分（an important component of the eroticism）而被纳入其中（因为自我是被拉拢的 being drawn together 事物之一）。此外，它在自我的情欲化体验（the eroticized experience of self）和对它者感到吸引（the attraction to an other）之间提供了一种结构性的区分（a structural distinction）。在这种观点中，只要自己和自己之间没有人际距离（no interpersonal distance），就不可能对自己感到吸引（be attracted to oneself），因此，谈论自己和自己之间之亲密化的情欲化（the eroticization of the intimization between oneself and oneself）是没有意义的。6在本节的其余部分，我更详细地阐述了这一论述。首先，我发展了，性吸引作为亲密化的色情化，这一概念，并说明这与吸引的性别化形式（gendered forms of attraction）是如何相关的。其次，我展示了自我的性别化体验（a gendered experience of self）是如何必然包含在所有形式的性别化吸引（all forms of gendered attraction）中的。最后，我阐述了“镜像化（mirroring）”的概念，它作为着性别化吸引之动态关系的中心（as central to the dynamics of gendered attraction）。
 
-**人际空间性和性别化的吸引（Interpersonal Spatiality and Gendered Attraction）**
+### 人际空间性和性别化的吸引（Interpersonal Spatiality and Gendered Attraction）
 
 身体亲密关系（physical intimacy）主要涉及对身体的感知接触（sensory access to bodies）（Bettcher，2012年）。它还牵涉到（implicates）需要对身体进行各种类型的感知接触（various types of sensory access to bodies）来作为该活动结构的一部分，的具体活动（specific activities）。例如，吮吸阴茎（fellatio）需要通过嘴巴这个媒介对阴茎进行接触（sensory access to a penis through the medium of a mouth），以及通过阴茎对嘴巴进行接触（sensory access to a mouth through a penis）。在这种观点中，被体验为是情欲性的东西不仅仅是一个身体，也是对该身体的感知接触（sensory access）。虽然感知接触不是一种活动（尽管它可以涉及诸如触摸 touching、脱衣服 undressing 等活动），但它涉及关于感知接触的一个主体和一个客体（a subject and an object of sensory access）。
 
@@ -86,7 +89,7 @@ erotic 翻译为“情欲”，eroticism 有时翻译为“情欲关系”，有
 
 因此，吸引有一个时间层面（a temporal aspect）。在这种观点中，令人唤起兴奋（arousing）的不仅仅是对身体部位的感知接触，而且是对一个亲密的（私人的）身体部位的接触，这部位是一个对边界的更大排序（a larger ordering of boundaries）的一部分。假设杰曼（Germaine）正在慢慢地脱掉希那（Sheena）的衣服。杰曼对希那的性吸引（sexual attraction to Sheena）是表现为，通过不断增加对希那的亲密视觉接触的（a continuous increase in intimate visual access to Sheena）而对唤起兴奋的不断增强（a continuous augmentation in arousal）的形式。例如，令人唤起兴奋的不仅仅是看到希那的乳房，而且是，在不断增加感知接触的更大（实际的或暗示的）背景下（within the larger context (actual or implied) of continuously increasing sensory access）的这种对私密身体之亲密接触的意义（the significance of that intimate access to private body）。唤起兴奋的增强（作为“建立”兴奋的经验 as the experience of “building” excitement）跟踪了日益增长的亲密关系（the growing intimacy）（在这种情况下就是，关于希那的稳步增加的视觉暴露 the steadily increasing visual exposure of Sheena）。尽管杰曼不需要明确地渴望（need not explicitly desire）来以某种特定的方式增加与希那的亲密关系，但杰曼她现在的唤起兴奋（her present arousal）的特点是“情欲性的期待（erotic anticipation）”。在看到希娜的乳房中，对杰曼来说，情欲的一部分（part of the eroticism）是，这正在“导致至某处/某阶段（leading somewhere）”的潜能。这是因为对乳房的视觉接触（visual access）是亲密关系的一个阶段，这可以导致更亲密的阶段们，所以现在这种视觉接触的情欲意义（the erotic significance of this visual access）的一部分正是它所暗示的以后可能有更亲密关系的潜能（its implied potential for greater intimacy later）。这种论述（account）在喜好女性吸引和喜好男性吸引（gynephilic and androphilic attractions）该如何被理解这一方面有着显著的后果。假设杰曼只有喜好女性吸引（gynephilic attractions）。根据这一论述，这是她体验吸引的方式的一个特征（feature），而不仅仅是何种性别她体验为是有吸引力的（not merely what gender she experiences as attractive）。性差异化的身体（sex-differentiated bodies）有着不同的“边界结构（boundary structures）”适用于它们，有差异地构组裸体性（constituting nakedness differentially）（Bettcher，2012）。在实际效果上（in effect），有两种主要的裸体性（nakedness）——女性和男性（female and male）。8一个差异是，前者有一个分级结构（a tiered structure），而后者则没有（即女性胸部  female chests 有道德上的意义/显著性 moral significance）。既然**对**某人感到吸引（be attracted _to_ somebody）就是——**被**，对结构化的边界的横越（the traversal of structured boundaries），所唤起兴奋（be aroused _by_），那么不同类型的性吸引可以根据——哪种裸体性之结构（structures of nakedness）是处于情欲内容中的——为基础来区分。与杰曼是被“女性体格（female physique）”所唤起兴奋的观点相反，杰曼被女性体格所唤起兴奋——是因为女性体格是牵连在并结构化于（implicated and structured within）一个，管控着对女性体格的感知接触（governing sensory access to it），的有着有序边界的系统（a system of ordered boundaries）中的。
 
-**自我的情欲性的（性别化的）体验（Erotic (Gendered) Experiences of Self）**
+### 自我的情欲性的（性别化的）体验（Erotic (Gendered) Experiences of Self）
 
 虽然吸引（attraction）情欲化（eroticizes）自我和它者之间的逐渐缩小的距离（the closing distance between self and other），但这有多种方式可以发生。一种方式是让吸引之来源往自我靠近（move closer to the self）。我把这称为“以主体为中心的吸引（subject-centered-attraction）”。这就是杰曼的吸引所发生的情况。它把希娜“拉近（in closer）”（作为一个感知接触的对象 as an object of sensory access）。然而，考虑到希那相应的情欲（corresponding eroticism）。她也被杰曼对她越来越多的感知接触所唤起兴奋（aroused）。她对被杰曼脱掉衣服并被她观看和等等行为的预期可能（the prospect）而感到兴奋（feels excited）。而希那因自己暴露在杰曼面前而感到唤起兴奋的事实，并不排除她对杰曼的感到吸引（her attraction to Germaine）。在这种情况下，希娜对作为感知主体的杰曼（Germaine-as-sensory-subject）有以客体为中心的感到吸引（object-centered attraction to）。她的吸引使她的自我（her own self）更接近于吸引之来源。这意味着希娜必然有一个色情化的自我（ an eroticized self）作为她对杰曼感到吸引（her attraction to Germaine）的一部分。也就是说，希那自己在视觉上接触到的身体（visually accessed body）是她的情欲内容的一部分（尽管她没有被自己的身体吸引 not attracted to her own body）。此外，希那的情欲自我（erotic self）是由同样的边界结构（这边界结构也是杰曼所感到吸引的 to which Germaine is attracted）所赋予的（given）。也就是说，她对——对自我和它者之间的边界的逐渐增加的横越（the increasing transversal of boundaries between self and other）——的情欲化的一个具体特征是（a specific feature of her eroticization of），她自己的边界（her own boundaries）被以一种特殊的方式进行结构化（be structured in a particular way），也就是女性式（female）。例如，她对——杰曼视觉上接触她的乳房（Germaine’s visually accessing her breasts）——的唤起兴奋（arousal），恰恰要求她自己的身体有一个女性式边界结构（a female boundary structure）。
 
@@ -98,7 +101,7 @@ erotic 翻译为“情欲”，eroticism 有时翻译为“情欲关系”，有
 
 然而，除此之外，请注意，一个人通常同时拥有以客体为中心和以主体为中心的吸引（object- and subject-centered attractions）。在这种情况下，一个人的吸引将自我和它者都拉到一起（pulls both self and other together）。与其说是它者朝向自我移动（ the other moving toward the self），或自我朝向它者移动，不如说是两者朝向对方移动（the two move toward each other）。这样的例子以一种没有泾渭分明区分主体和客体的方式引出了情欲自我的相关性（the relevance of the erotic self）。细想一下大卫。认为他只是对男性体格感到吸引（merely attracted to the male physique）的观点，截节了（truncates）关于男性对男性亲密关系的一种更复杂的同性情欲性（a more complex homoeroticism of male-male intimacy）。他觉得有唤起兴奋性（finds arousing）的不仅仅是看到一个男人的裸体，而是**两个裸体男人在一起**（_being two naked men together_），在性方面对彼此的身体进行体验（sexually experiencing）（既观看 seeing 又被看 being seen）。这表明，涉及着亲密接触中的严密不对称性（a strict asymmetry in intimate access）的那些情况例子（如杰曼和希那的例子）也包括了这种不对称性本身作为情欲内容的一部分（this asymmetry itself as part of the erotic content）。脆弱性/不脆弱性的差异分布（a differential distribution of vulnerability/invulnerability）为杰曼的关于自我的情欲化的体验（Germaine’s eroticized experience of self）提供了更多的内容（即，对，希那作为是脆弱的，而杰曼她自己则不是，的一种情欲化对比 an eroticized contrast of Sheena as vulnerable, and herself as not）。9
 
-**性别化的镜像化和吸引动态（Gendered Mirroring and the Attraction Dynamic）**
+### 性别化的镜像化和吸引动态（Gendered Mirroring and the Attraction Dynamic）
 
 根据上述文本，很明显，一种对，对性别化的体格的情欲兴趣，的简化还原性关注（a reductive focus on erotic interest in gendered physique）是一种对更复杂的吸引动态的限制性概念化（a restricted conception of a more complex attraction dynamic）。这种动态可以用“镜像化（mirroring）”的方式来概念化进行理解（conceptualized）。在情欲性地经验希那的过程中，杰曼情欲性地体验她自己。而在情欲性地体验自己的过程中，杰曼也在情欲性地体验希那。这一辩证关系是性别化的（the dialectic is gendered），因为情欲化的亲密关系之边界是性别化的（the eroticized intimacy boundaries are gendered）。希那的身体受制于性别化的边界（gendered boundaries）（她的裸体性 nakedness 有一个女性式道德结构 a female moral structure），而杰曼以一种性别化的方式（a gendered way）横越那些性别化的边界（traverses those gendered boundaries）。在这种情况下，镜像化（the mirroring）是“直接的（direct）”（通过同一性的镜头 the lens of sameness 来反映 reflected）。然而，它们的辩证也涉及主体和客体位置的差异分配。在情欲性地体验到希那是脆弱的客体（vulnerable object）时，杰曼情欲性地体验到自己是一个非脆弱的主体（a non-vulnerable subject），而在情欲性地体验到她自己是一个非脆弱的主体时，她体验到希那是一个脆弱的客体。在这种情况下，镜像也是“间接的（indirect）”（通过差异的镜头 the lens of difference 来反映）。
 
@@ -106,9 +109,9 @@ erotic 翻译为“情欲”，eroticism 有时翻译为“情欲关系”，有
 
 然而，就我目前的目的而言，这个梗概（sketch）已经足够了。我已经概述了性吸引的结构，并表明即使在吸引可能看起来很简单（simple）的情况下，它也受制于一个复杂的包括着情欲化的自我（the eroticized self）的结构。虽然我没有很详细地捍卫关于吸引的互动性论述，但我在其它地方捍卫了我关于亲密关系和对于裸体性的社会建构（ intimacy and the social construction of nakedness）的观点（Bettcher，2012年）。根据这些观点，很难相信，例如，看到一个女人的乳房们时产生的兴奋感（excitement at seeing a woman’s breasts）没有被它们的社会构成的“私有化”（their socially constituted “privatization”）所显著塑造，这点使得，认为性吸引是——对自我和它者之间性别化的亲密关系的情欲化（the eroticization of gendered intimization between self and other）——至少是合理的（at least plausible）。然而，最重要的是，这个论述提供了一个解释，即**为什么**（_why_）有些情欲内容是“吸引之来源”，而有些则不是。兴趣/吸引的区分（the interest/attraction distinction）和性吸引的复杂性（the complexity of sexual attraction）——回顾一下——是跨儿“重新编码”之实践的重要特征（significant features of trans “recoding” practices）。由于这个原因，对吸引的较简单概念化（simpler conceptions of attraction）不能容纳它们，因此是不充分的。相比之下，互动性论述（the interactional account）提供了一个可行的替代，其阐明了这些特征，并因此成功地容纳了这些实践。这是一个有利于它的有力论据（a powerful argument in its favor）。
 
-**后果（CONSEQUENCES）**
+## 后果（CONSEQUENCES）
 
-**反对自我女性恋想（Against Autogynephilia）**
+### 反对自我女性恋想（Against Autogynephilia）
 
 采用情欲结构主义的逻辑（the logics of erotic structuralism）有两个重要的后果。首先，“自我女性恋想”必须被拒绝。我这样说，并不是要批判，自我女性恋想是男至女跨性（MtF transsexuality）的因果关系（causally responsible for），的假说，也不是说它可以用来将男至女跨性者（MtF’s）范畴化为不同的“类型（types）”。这些说法已经被莫泽（Moser 2010年）和塞拉诺（Serano 2010年）令人信服地批判过了。（情欲结构主义确实对布兰卡德的范畴化方案/概形 Blanchard’s categorization scheme 有后果影响 have consequences for ，我在此没有探讨到。）反而，我质疑在“自我女性恋想”方面的对“女性具身情欲主义（female embodiment eroticism）”的框架概念化本身（the very framing）。也就是说，与其说我是在批判布兰卡德的自我女性恋想理论（Blanchard’s theory of autogynephilia），不如说我是在批判，女性具身情欲在本质上是自我女性恋想式的，的这一概念本身（the very notion of female embodiment eroticism as autogynephilic in nature）。这里面包含着两个错误的假设。首先，错误地假设吸引是简单的（simple）（即，成为吸引之来源 to be a source of attraction 仅仅只是成为情欲内容的一部分 to be a part of the erotic content）。第二，兴趣和吸引被混为一谈（conflated）。一旦这些假设被摒弃而支持情欲结构主义，就不再有任何理由将女性具身情欲（female embodiment eroticism）解释理解为（construe）一种“误导方向的”吸引（“misdirected” attraction）。相反，对自己作为一个性别化的存在（a gendered being）的情欲兴趣（an erotic interest）可以被认识为（recognized）是，所有对它者的正常导向的性吸引的，一个合理（实际上，是必要的）部分（a legitimate (indeed, necessary) part of all normally directed sexual attraction to others）。事实上，根据情欲结构主义，所谓的误导方向的性吸引在实际上是不可能的，因为一个人和其自己之间的人际距离的减少（a decrease in interpersonal distance）是不可理解的（unintelligible）（并因此不能被情欲化）。因此，“自我女性恋想”是一个严重的误导性术语，因为它明确地以一种扭曲的方式描述刻画了这种现象的性质。
 
@@ -118,7 +121,7 @@ erotic 翻译为“情欲”，eroticism 有时翻译为“情欲关系”，有
 
 此外，值得注意的是，如果“自我独占式”幻想被视为是病理的（理由基础是它们是情欲片段），那么接着“专有它者式（other-exclusive）”幻想也应该被视为是病理的。然而这样的结果肯定是不可信的（implausible）。而且，事实上，在异性恋（heterosexuality）中，往往存在着关于，对女性的物化，的相互强调（a mutual emphasis on the objectification of the woman），这表明着，异性恋男人的幻想会倾向于那些逐渐变成“专有它者式（other-exclusive）”的幻想并非不可能（并且异性恋女性的幻想会倾向于那些逐渐变成自我独占式的幻想 the fantasies of heterosexual women will tend toward those that shade into self-exclusive ones 这也并非不可能）。 11因此，认为“自我专有式”幻想是病理的的观点的一个具有讽刺意味的结果是，许多非跨性别的异性恋男性幻想（non-transgender, heterosexual male fantasies）也同样是病理的。我认为，最好是完全避免这种病理化路线（this route of pathologization）。
 
-**模糊性别身份/性取向之区分（Blurring the Gender Identity/Sexual Orientation Distinction）**
+### 模糊性别身份/性取向之区分（Blurring the Gender Identity/Sexual Orientation Distinction）
 
 情欲结构主义的第二个后果是拒绝跨性别政治中的一个核心假设，即性别身份与性取向完全不同（entirely distinct）（例如，Serano，2010年）。因为性取向必须被重新概念化，来包括一个核心的性别化的情欲自我（a core gender-inflected erotic self），除了对某种类型的性别化者的一种持续吸引（a persistent attraction to a type of gendered persons）之外。就人们可以谈论喜好女性吸引和喜好男性吸引（gynephilic and androphilic attractions）而言，人们也可以谈论男性反射型吸引和女性反射型吸引（andro-reflexive and gyne-reflexive attractions）。也就是说，除了根据性别化的“对象选择”（gendered “object choice”）来区分各种吸引之外，我们还可以根据性别化的情欲自我（gendered erotic self）来区分它们。这意味着异性/同性吸引（hetero/homo attractions）不能被“喜好男性型”和“喜好女性型”吸引（“androphilic” and “gynephilic” attractions）这两个替代术语所充分捕捉理解，因为后者只包括性别化的对象偏好（gendered object preference）。
 
@@ -126,26 +129,28 @@ erotic 翻译为“情欲”，eroticism 有时翻译为“情欲关系”，有
 
 明确地说，这一理论并没有将对过渡的跨性动机（transsexual motivation to transition）简化还原（reduce）为一种性化的动机（a sexualized one）。这样的观点是不可信的，原因有很多，其中最重要的是完全抹杀了跨性/别者们自己对TA们自己的经历和动机的论述。然而，关于性别化的自我身份和情欲性的性别化自我（gendered self-identity and erotic gendered self）往往是相互对应回应的（correspond to each other），的观点，是可信的。鉴于跨性/别女人有女人的自我身份（the self-identity of a woman），她也有一个核心的情欲自我是女性的（a core erotic self that is female），这一点并不奇怪。其后果是，性别身份和性吸引之间的关系远比人们想象的要相关得多（far more relevant），而且是以最终与跨性别政治相适宜（congenial to transgender politics）的方式。
 
-1 特别感谢 Susan Forrest、Cristina Magalhaes 和 Steph Rogerson 提出的非常有用的意见和建议。同时，也感谢两位匿名审阅人的深思熟虑的和富有建设性的反馈。通讯地址：Talia Mae Bettcher, Department of Philosophy, California State University Los Angeles, 5151 University Drive, Los Angeles, CA 90032, USA. 电子邮件：[tbettch@calstatela.edu](mailto:tbettch@calstatela.edu) 
+***
 
-2 托马斯·纳格尔（Thomas Nagel）（1979年）提供了一个经典的论述（ a classic account），在其中他声称“自我感知（self-perception）”牵涉在性欲望之中（is involved in sexual desire）。这主要是因为他认为理想的欲望（ideal desire）包括渴望着（desiring）“一个人的伴侣被唤起，因为他或她被唤起的欲望得到了承认（one’s partner be aroused by the recognition of one’s desire that he or she be aroused）”。我没有足够的空间来对比我和他的论述。我只想说，他的论述实际上并不关注（concern）一个关于自我的情欲化的性别化的意识（an eroticized gendered sense of self）。此外，我的论述关注“第一级”唤起（“first-order” arousal），而不是纳格尔理想化论述（idealized account）中所必需的，唤起的反复阶段（the iterative stages of arousal）。【唤起也就是引起性欲，译注】
+1. 特别感谢 Susan Forrest、Cristina Magalhaes 和 Steph Rogerson 提出的非常有用的意见和建议。同时，也感谢两位匿名审阅人的深思熟虑的和富有建设性的反馈。通讯地址：Talia Mae Bettcher, Department of Philosophy, California State University Los Angeles, 5151 University Drive, Los Angeles, CA 90032, USA. 电子邮件：[tbettch@calstatela.edu](mailto:tbettch@calstatela.edu) 
 
-3 一个相关的想法可以在纳格尔（Nagel 1979年）中找到。
+2. 托马斯·纳格尔（Thomas Nagel）（1979年）提供了一个经典的论述（ a classic account），在其中他声称“自我感知（self-perception）”牵涉在性欲望之中（is involved in sexual desire）。这主要是因为他认为理想的欲望（ideal desire）包括渴望着（desiring）“一个人的伴侣被唤起，因为他或她被唤起的欲望得到了承认（one’s partner be aroused by the recognition of one’s desire that he or she be aroused）”。我没有足够的空间来对比我和他的论述。我只想说，他的论述实际上并不关注（concern）一个关于自我的情欲化的性别化的意识（an eroticized gendered sense of self）。此外，我的论述关注“第一级”唤起（“first-order” arousal），而不是纳格尔理想化论述（idealized account）中所必需的，唤起的反复阶段（the iterative stages of arousal）。【唤起也就是引起性欲，译注】
 
-4 塞拉诺（Serano 2007年）提出了一个相关的观点（第268-269页）。一种令人担忧的问题是——一个人的身体仅仅只是对于一个幻想的整体成功而言很重要（one’s body merely being important to the overall success of a fantasy）和一个人的身体在实际上是一个重要的唤起兴奋之来源（one’s body actually being a significant source of arousal ）——这两者之间的假定对比（the putative contrast）（Moser, 2009年）。如果是前者，那么一个人的身体就不是情欲内容的真正组成部分。然而，如果是后者，身体似乎最好被看作是吸引的来源。我所提供的论证就是为了解决这一担忧。
+3. 一个相关的想法可以在纳格尔（Nagel 1979年）中找到。
 
-5 感谢 Susan Forrest 提供的这个新词（neologism）。
+4. 塞拉诺（Serano 2007年）提出了一个相关的观点（第268-269页）。一种令人担忧的问题是——一个人的身体仅仅只是对于一个幻想的整体成功而言很重要（one’s body merely being important to the overall success of a fantasy）和一个人的身体在实际上是一个重要的唤起兴奋之来源（one’s body actually being a significant source of arousal ）——这两者之间的假定对比（the putative contrast）（Moser, 2009年）。如果是前者，那么一个人的身体就不是情欲内容的真正组成部分。然而，如果是后者，身体似乎最好被看作是吸引的来源。我所提供的论证就是为了解决这一担忧。
 
-6 这并不排除认为自己是有吸引力（thinking oneself to be attractive）的想法。但这与真正体验到对自己感到吸引（literally experiencing attraction to oneself）是不同的。
+5. 感谢 Susan Forrest 提供的这个新词（neologism）。
 
-7 当然，读者不能认为所有的阴茎与阴道进行的插入包含式性行为就是异性恋式的（heterosexual or hetersexual-coded）。——译注
+6. 这并不排除认为自己是有吸引力（thinking oneself to be attractive）的想法。但这与真正体验到对自己感到吸引（literally experiencing attraction to oneself）是不同的。
 
-8 在非主流（非占据统治性）的背景下（non-mainstream (non-dominant) contexts），这要复杂得多。
+7. 当然，读者不能认为所有的阴茎与阴道进行的插入包含式性行为就是异性恋式的（heterosexual or hetersexual-coded）。——译注
 
-9 虽然我没有空间将我的论述与盖尔·萨拉蒙（Gayle Salamon 2010年）对梅洛-庞蒂（Merleau-Ponty）的“性图式（sexual schema）”概念的启发性解读（illuminating reading）进行详细对比，但让我指出，在萨拉蒙的观点中，对自我的经验（the experience of self）并不包括在性欲望的内容（the content of sexual desire）**之中**（_within_）。它纯粹是**欲望本身**的具身体现式经验（ the embodied experience of _desire itself_）。这是因为萨拉蒙主要关注的是“位于（located）”身体之内（在一个特定的身体部位或遍布整个身体）的性欲望经验（the experience of sexual desire）。在梅洛-庞蒂的“性换位（sexual transposition）”概念中，性欲望取代并有效地成为身体本身。这样一来，对自我的意识（awareness of self）是一种对，身体**作为**进行欲望的主体，的实际本体感受之意识（a kind of virtual proprioceptive awareness of body _qua_ desiring subject）。相比之下，我的论述涉及对——身体**作为位于吸引场域之中**（_within the field of attraction_）的亲密感知接触的一个主体**或客体**（a subject _or object_ of intimate sensory access）——的经验（the experience of the body as），在这场域里，吸引被理解为是复杂的、结构化的情欲内容（complex, structured erotic content）。杰曼没有把自己经验为**进行欲望的主体**（the _desiring subject_），而是主要把自己经验为**感知主体**（_sensory subject_）。而希那没有把自己经验为**进行欲望的主体**（the _desiring subject_），而是把自己主要经验为**感知客体**（_sensory object_）。关键不在于欲望本身在身体中的位置，而在于欲望的**内容**（the _content_ of desire）——即自我和它者之间的亲密接触（作为规范性地约束界限着的感知接触 as normatively bounded sensory access）。因此，在我看来，身体主要不是**作为**欲望主体而被牵连着（not primarily implicated _qua_ desiring subject），而是作为在感知接触方面被规范地约束界限着的东西（as that which is normatively bounded）。这样的边界（such boundaries）是性欲望的一种先决条件（a precondition of sexual desire），因此是先于性欲望的（prior to it）。
+8. 在非主流（非占据统治性）的背景下（non-mainstream (non-dominant) contexts），这要复杂得多。
 
-10 取自译者之前的译注：“butch”一开始指的是性别表达为在社会意义上被视为（socially-perceived）男性化（masculine）的女同性恋者，又译为“顶”，但如今其含义也更指向女性式男性气质（female masculinity）（可见 Jack Halberstam 的同名专著），同样可理解为是以一种酷儿化的方式表现、展演男性气质（来自跨儿、非二元者、顺性别者等等）。此处采用“布奇”这一音译以避免性别身份的定式化导致窄化其含义。“femme”一词的翻译方式与背景同“butch”，常被译为“女性化的女同性恋者”、所谓的“底（bottom）”。但现在对“femme”的使用更倾向于解释为对“femininity（女性气质）”的酷儿展演，酷儿化的呈现。也即，顺性别者、非二元者、跨儿、以及酷儿社群中的任何人都可以批判性地挪用这个词，以展现自己对“femininity”的理解。此处采用音译“芬曼”。——译注
+9. 虽然我没有空间将我的论述与盖尔·萨拉蒙（Gayle Salamon 2010年）对梅洛-庞蒂（Merleau-Ponty）的“性图式（sexual schema）”概念的启发性解读（illuminating reading）进行详细对比，但让我指出，在萨拉蒙的观点中，对自我的经验（the experience of self）并不包括在性欲望的内容（the content of sexual desire）**之中**（_within_）。它纯粹是**欲望本身**的具身体现式经验（ the embodied experience of _desire itself_）。这是因为萨拉蒙主要关注的是“位于（located）”身体之内（在一个特定的身体部位或遍布整个身体）的性欲望经验（the experience of sexual desire）。在梅洛-庞蒂的“性换位（sexual transposition）”概念中，性欲望取代并有效地成为身体本身。这样一来，对自我的意识（awareness of self）是一种对，身体**作为**进行欲望的主体，的实际本体感受之意识（a kind of virtual proprioceptive awareness of body _qua_ desiring subject）。相比之下，我的论述涉及对——身体**作为位于吸引场域之中**（_within the field of attraction_）的亲密感知接触的一个主体**或客体**（a subject _or object_ of intimate sensory access）——的经验（the experience of the body as），在这场域里，吸引被理解为是复杂的、结构化的情欲内容（complex, structured erotic content）。杰曼没有把自己经验为**进行欲望的主体**（the _desiring subject_），而是主要把自己经验为**感知主体**（_sensory subject_）。而希那没有把自己经验为**进行欲望的主体**（the _desiring subject_），而是把自己主要经验为**感知客体**（_sensory object_）。关键不在于欲望本身在身体中的位置，而在于欲望的**内容**（the _content_ of desire）——即自我和它者之间的亲密接触（作为规范性地约束界限着的感知接触 as normatively bounded sensory access）。因此，在我看来，身体主要不是**作为**欲望主体而被牵连着（not primarily implicated _qua_ desiring subject），而是作为在感知接触方面被规范地约束界限着的东西（as that which is normatively bounded）。这样的边界（such boundaries）是性欲望的一种先决条件（a precondition of sexual desire），因此是先于性欲望的（prior to it）。
 
-11 莫泽（Moser 2009年）在非跨性/别女人们（non-trans women）中发现了女性具身情欲（female embodiment eroticism），破坏了布兰卡德的观点，布兰卡德认为这是一种男跨女特有的现象（an MtF-specific phenomenon）。
+10. 取自译者之前的译注：“butch”一开始指的是性别表达为在社会意义上被视为（socially-perceived）男性化（masculine）的女同性恋者，又译为“顶”，但如今其含义也更指向女性式男性气质（female masculinity）（可见 Jack Halberstam 的同名专著），同样可理解为是以一种酷儿化的方式表现、展演男性气质（来自跨儿、非二元者、顺性别者等等）。此处采用“布奇”这一音译以避免性别身份的定式化导致窄化其含义。“femme”一词的翻译方式与背景同“butch”，常被译为“女性化的女同性恋者”、所谓的“底（bottom）”。但现在对“femme”的使用更倾向于解释为对“femininity（女性气质）”的酷儿展演，酷儿化的呈现。也即，顺性别者、非二元者、跨儿、以及酷儿社群中的任何人都可以批判性地挪用这个词，以展现自己对“femininity”的理解。此处采用音译“芬曼”。——译注
 
-12 双性恋（bisexuality）提出了有趣的复杂性。例如，正如一个人可能同时拥有喜好女性吸引和喜好男性吸引（both gynephilic and androphilic attractions）一样，一个人似乎也可能同时拥有男性反射性型吸引和女性反射型吸引（both andro-reflexive and gyne-reflexive attractions）。我在这里没有探讨这个问题。
+11. 莫泽（Moser 2009年）在非跨性/别女人们（non-trans women）中发现了女性具身情欲（female embodiment eroticism），破坏了布兰卡德的观点，布兰卡德认为这是一种男跨女特有的现象（an MtF-specific phenomenon）。
+
+12. 双性恋（bisexuality）提出了有趣的复杂性。例如，正如一个人可能同时拥有喜好女性吸引和喜好男性吸引（both gynephilic and androphilic attractions）一样，一个人似乎也可能同时拥有男性反射性型吸引和女性反射型吸引（both andro-reflexive and gyne-reflexive attractions）。我在这里没有探讨这个问题。
