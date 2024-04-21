@@ -52,11 +52,9 @@ erotic 翻译为“情欲”，eroticism 有时翻译为“情欲关系”，有
 
 想象一下，一个跨性/别男人，萨姆（Sam），他是以喜好女性为导向/取向的（gynephilically oriented）（有很少的喜好男性的吸引 with little androphilic attraction）。假设他正在与一个女人，金（Kim），进行性行为。他确实没有阴茎（a penis），但他确实有一个捆绑式假阴茎（a strap-on dildo）。假设金正在吮吸假阴茎（fellating the dildo），假阴茎被两个参与者作为有血有肉的阴茎（a flesh-and-blood penis）来情欲化（eroticized）。萨姆幻想他的阴茎正在被（金）吮吸，而金自己也幻想着自己在吮吸。现在考虑以下一个论点：
 
-1\. 幻想的阴茎（the fantasized penis）是萨姆的情欲内容（erotic content）的一个重要部分。
-
-2\. 萨姆没有被他幻想的阴茎所吸引（not attracted to his fantasized penis）。
-
-3\. 因此，一些重要的情欲内容是不能还原为“吸引的来源（the source of attraction）”的。
+1. 幻想的阴茎（the fantasized penis）是萨姆的情欲内容（erotic content）的一个重要部分。
+2. 萨姆没有被他幻想的阴茎所吸引（not attracted to his fantasized penis）。
+3. 因此，一些重要的情欲内容是不能还原为“吸引的来源（the source of attraction）”的。
 
 这个论点是有效的（the argument is valid）。如果这些前提是真的（the premises are true），那么这就说明存在着一种兴趣/吸引的区别（an interest/attraction distinction）。它们**是**（_are_）真的吗？
 
