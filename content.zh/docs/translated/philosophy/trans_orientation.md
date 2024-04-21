@@ -135,7 +135,9 @@ erotic 翻译为「情欲」，eroticism 有时翻译为「情欲关系」，有
 明确地说，这一理论并没有将对过渡的跨性动机（transsexual motivation to transition）简化还原（reduce）为一种性化的动机（a sexualized one）。这样的观点是不可信的，原因有很多，其中最重要的是完全抹杀了跨性/别者们自己对TA们自己的经历和动机的论述。然而，关于性别化的自我身份和情欲性的性别化自我（gendered self-identity and erotic gendered self）往往是相互对应回应的（correspond to each other），的观点，是可信的。鉴于跨性/别女人有女人的自我身份（the self-identity of a woman），她也有一个核心的情欲自我是女性的（a core erotic self that is female），这一点并不奇怪。其后果是，性别身份和性吸引之间的关系远比人们想象的要相关得多（far more relevant），而且是以最终与跨性别政治相适宜（congenial to transgender politics）的方式。
 
 ***
+
 <sup><sub>
+
 1. 特别感谢 Susan Forrest、Cristina Magalhaes 和 Steph Rogerson 提出的非常有用的意见和建议。同时，也感谢两位匿名审阅人的深思熟虑的和富有建设性的反馈。通讯地址：Talia Mae Bettcher, Department of Philosophy, California State University Los Angeles, 5151 University Drive, Los Angeles, CA 90032, USA. 电子邮件：[tbettch@calstatela.edu](mailto:tbettch@calstatela.edu) 
 
 2. 托马斯·纳格尔（Thomas Nagel）（1979年）提供了一个经典的论述（ a classic account），在其中他声称“自我感知（self-perception）”牵涉在性欲望之中（is involved in sexual desire）。这主要是因为他认为理想的欲望（ideal desire）包括渴望着（desiring）“一个人的伴侣被唤起，因为他或她被唤起的欲望得到了承认（one’s partner be aroused by the recognition of one’s desire that he or she be aroused）”。我没有足够的空间来对比我和他的论述。我只想说，他的论述实际上并不关注（concern）一个关于自我的情欲化的性别化的意识（an eroticized gendered sense of self）。此外，我的论述关注“第一级”唤起（“first-order” arousal），而不是纳格尔理想化论述（idealized account）中所必需的，唤起的反复阶段（the iterative stages of arousal）。【唤起也就是引起性欲，译注】
@@ -159,4 +161,5 @@ erotic 翻译为「情欲」，eroticism 有时翻译为「情欲关系」，有
 11. 莫泽（Moser 2009年）在非跨性/别女人们（non-trans women）中发现了女性具身情欲（female embodiment eroticism），破坏了布兰卡德的观点，布兰卡德认为这是一种男跨女特有的现象（an MtF-specific phenomenon）。
 
 12. 双性恋（bisexuality）提出了有趣的复杂性。例如，正如一个人可能同时拥有喜好女性吸引和喜好男性吸引（both gynephilic and androphilic attractions）一样，一个人似乎也可能同时拥有男性反射性型吸引和女性反射型吸引（both andro-reflexive and gyne-reflexive attractions）。我在这里没有探讨这个问题。
+
 </sub></sup>
