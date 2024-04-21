@@ -4,7 +4,7 @@ headless: false
 
 - [翻译](/docs/translated)
   - 性别理论
-    - [**性别加速主义者宣言** <br/>Vikky Storm, Eme Flores](/docs/translated/gender-accelerationist-manifesto)
+    - [**性别加速主义者宣言** <br/><sup><sub>Vikky Storm, Eme Flores</sub></sup>](/docs/translated/gender-accelerationist-manifesto)
     - [**我在香蒙尼镇上方对维克多·弗兰肯斯坦所说的话：演绎跨性别愤怒** <br/>Susan Stryker](/docs/translated/my-words-to-victor-frankenstein)
     - [**论爱女** <br/>Andrea Long Chu](/docs/translated/on-liking-women)
     - [**在跨儿研究之后** <br/>Andrea Long Chu, Emmett Harsin Drager](/docs/translated/after_trans_studies)
