@@ -136,26 +136,26 @@ erotic 翻译为「情欲」，eroticism 有时翻译为「情欲关系」，有
 
 ***
 
-1. 特别感谢 Susan Forrest、Cristina Magalhaes 和 Steph Rogerson 提出的非常有用的意见和建议。同时，也感谢两位匿名审阅人的深思熟虑的和富有建设性的反馈。通讯地址：Talia Mae Bettcher, Department of Philosophy, California State University Los Angeles, 5151 University Drive, Los Angeles, CA 90032, USA. 电子邮件：[tbettch@calstatela.edu](mailto:tbettch@calstatela.edu) 
+^1. 特别感谢 Susan Forrest、Cristina Magalhaes 和 Steph Rogerson 提出的非常有用的意见和建议。同时，也感谢两位匿名审阅人的深思熟虑的和富有建设性的反馈。通讯地址：Talia Mae Bettcher, Department of Philosophy, California State University Los Angeles, 5151 University Drive, Los Angeles, CA 90032, USA. 电子邮件：[tbettch@calstatela.edu](mailto:tbettch@calstatela.edu) ^
 
-2. 托马斯·纳格尔（Thomas Nagel）（1979年）提供了一个经典的论述（ a classic account），在其中他声称“自我感知（self-perception）”牵涉在性欲望之中（is involved in sexual desire）。这主要是因为他认为理想的欲望（ideal desire）包括渴望着（desiring）“一个人的伴侣被唤起，因为他或她被唤起的欲望得到了承认（one’s partner be aroused by the recognition of one’s desire that he or she be aroused）”。我没有足够的空间来对比我和他的论述。我只想说，他的论述实际上并不关注（concern）一个关于自我的情欲化的性别化的意识（an eroticized gendered sense of self）。此外，我的论述关注“第一级”唤起（“first-order” arousal），而不是纳格尔理想化论述（idealized account）中所必需的，唤起的反复阶段（the iterative stages of arousal）。【唤起也就是引起性欲，译注】
+^2. 托马斯·纳格尔（Thomas Nagel）（1979年）提供了一个经典的论述（ a classic account），在其中他声称“自我感知（self-perception）”牵涉在性欲望之中（is involved in sexual desire）。这主要是因为他认为理想的欲望（ideal desire）包括渴望着（desiring）“一个人的伴侣被唤起，因为他或她被唤起的欲望得到了承认（one’s partner be aroused by the recognition of one’s desire that he or she be aroused）”。我没有足够的空间来对比我和他的论述。我只想说，他的论述实际上并不关注（concern）一个关于自我的情欲化的性别化的意识（an eroticized gendered sense of self）。此外，我的论述关注“第一级”唤起（“first-order” arousal），而不是纳格尔理想化论述（idealized account）中所必需的，唤起的反复阶段（the iterative stages of arousal）。【唤起也就是引起性欲，译注】^
 
-3. 一个相关的想法可以在纳格尔（Nagel 1979年）中找到。
+^3. 一个相关的想法可以在纳格尔（Nagel 1979年）中找到。^
 
-4. 塞拉诺（Serano 2007年）提出了一个相关的观点（第268-269页）。一种令人担忧的问题是——一个人的身体仅仅只是对于一个幻想的整体成功而言很重要（one’s body merely being important to the overall success of a fantasy）和一个人的身体在实际上是一个重要的唤起兴奋之来源（one’s body actually being a significant source of arousal ）——这两者之间的假定对比（the putative contrast）（Moser, 2009年）。如果是前者，那么一个人的身体就不是情欲内容的真正组成部分。然而，如果是后者，身体似乎最好被看作是吸引的来源。我所提供的论证就是为了解决这一担忧。
+^4. 塞拉诺（Serano 2007年）提出了一个相关的观点（第268-269页）。一种令人担忧的问题是——一个人的身体仅仅只是对于一个幻想的整体成功而言很重要（one’s body merely being important to the overall success of a fantasy）和一个人的身体在实际上是一个重要的唤起兴奋之来源（one’s body actually being a significant source of arousal ）——这两者之间的假定对比（the putative contrast）（Moser, 2009年）。如果是前者，那么一个人的身体就不是情欲内容的真正组成部分。然而，如果是后者，身体似乎最好被看作是吸引的来源。我所提供的论证就是为了解决这一担忧。^
 
-5. 感谢 Susan Forrest 提供的这个新词（neologism）。
+^5. 感谢 Susan Forrest 提供的这个新词（neologism）。^
 
-6. 这并不排除认为自己是有吸引力（thinking oneself to be attractive）的想法。但这与真正体验到对自己感到吸引（literally experiencing attraction to oneself）是不同的。
+^6. 这并不排除认为自己是有吸引力（thinking oneself to be attractive）的想法。但这与真正体验到对自己感到吸引（literally experiencing attraction to oneself）是不同的。^
 
-7. 当然，读者不能认为所有的阴茎与阴道进行的插入包含式性行为就是异性恋式的（heterosexual or hetersexual-coded）。——译注
+^7. 当然，读者不能认为所有的阴茎与阴道进行的插入包含式性行为就是异性恋式的（heterosexual or hetersexual-coded）。——译注^
 
-8. 在非主流（非占据统治性）的背景下（non-mainstream (non-dominant) contexts），这要复杂得多。
+^8. 在非主流（非占据统治性）的背景下（non-mainstream (non-dominant) contexts），这要复杂得多。^
 
-9. 虽然我没有空间将我的论述与盖尔·萨拉蒙（Gayle Salamon 2010年）对梅洛-庞蒂（Merleau-Ponty）的“性图式（sexual schema）”概念的启发性解读（illuminating reading）进行详细对比，但让我指出，在萨拉蒙的观点中，对自我的经验（the experience of self）并不包括在性欲望的内容（the content of sexual desire）**之中**（_within_）。它纯粹是**欲望本身**的具身体现式经验（ the embodied experience of _desire itself_）。这是因为萨拉蒙主要关注的是“位于（located）”身体之内（在一个特定的身体部位或遍布整个身体）的性欲望经验（the experience of sexual desire）。在梅洛-庞蒂的“性换位（sexual transposition）”概念中，性欲望取代并有效地成为身体本身。这样一来，对自我的意识（awareness of self）是一种对，身体**作为**进行欲望的主体，的实际本体感受之意识（a kind of virtual proprioceptive awareness of body _qua_ desiring subject）。相比之下，我的论述涉及对——身体**作为位于吸引场域之中**（_within the field of attraction_）的亲密感知接触的一个主体**或客体**（a subject _or object_ of intimate sensory access）——的经验（the experience of the body as），在这场域里，吸引被理解为是复杂的、结构化的情欲内容（complex, structured erotic content）。杰曼没有把自己经验为**进行欲望的主体**（the _desiring subject_），而是主要把自己经验为**感知主体**（_sensory subject_）。而希那没有把自己经验为**进行欲望的主体**（the _desiring subject_），而是把自己主要经验为**感知客体**（_sensory object_）。关键不在于欲望本身在身体中的位置，而在于欲望的**内容**（the _content_ of desire）——即自我和它者之间的亲密接触（作为规范性地约束界限着的感知接触 as normatively bounded sensory access）。因此，在我看来，身体主要不是**作为**欲望主体而被牵连着（not primarily implicated _qua_ desiring subject），而是作为在感知接触方面被规范地约束界限着的东西（as that which is normatively bounded）。这样的边界（such boundaries）是性欲望的一种先决条件（a precondition of sexual desire），因此是先于性欲望的（prior to it）。
+^9. 虽然我没有空间将我的论述与盖尔·萨拉蒙（Gayle Salamon 2010年）对梅洛-庞蒂（Merleau-Ponty）的“性图式（sexual schema）”概念的启发性解读（illuminating reading）进行详细对比，但让我指出，在萨拉蒙的观点中，对自我的经验（the experience of self）并不包括在性欲望的内容（the content of sexual desire）**之中**（_within_）。它纯粹是**欲望本身**的具身体现式经验（ the embodied experience of _desire itself_）。这是因为萨拉蒙主要关注的是“位于（located）”身体之内（在一个特定的身体部位或遍布整个身体）的性欲望经验（the experience of sexual desire）。在梅洛-庞蒂的“性换位（sexual transposition）”概念中，性欲望取代并有效地成为身体本身。这样一来，对自我的意识（awareness of self）是一种对，身体**作为**进行欲望的主体，的实际本体感受之意识（a kind of virtual proprioceptive awareness of body _qua_ desiring subject）。相比之下，我的论述涉及对——身体**作为位于吸引场域之中**（_within the field of attraction_）的亲密感知接触的一个主体**或客体**（a subject _or object_ of intimate sensory access）——的经验（the experience of the body as），在这场域里，吸引被理解为是复杂的、结构化的情欲内容（complex, structured erotic content）。杰曼没有把自己经验为**进行欲望的主体**（the _desiring subject_），而是主要把自己经验为**感知主体**（_sensory subject_）。而希那没有把自己经验为**进行欲望的主体**（the _desiring subject_），而是把自己主要经验为**感知客体**（_sensory object_）。关键不在于欲望本身在身体中的位置，而在于欲望的**内容**（the _content_ of desire）——即自我和它者之间的亲密接触（作为规范性地约束界限着的感知接触 as normatively bounded sensory access）。因此，在我看来，身体主要不是**作为**欲望主体而被牵连着（not primarily implicated _qua_ desiring subject），而是作为在感知接触方面被规范地约束界限着的东西（as that which is normatively bounded）。这样的边界（such boundaries）是性欲望的一种先决条件（a precondition of sexual desire），因此是先于性欲望的（prior to it）。^
 
-10. 取自译者之前的译注：“butch”一开始指的是性别表达为在社会意义上被视为（socially-perceived）男性化（masculine）的女同性恋者，又译为“顶”，但如今其含义也更指向女性式男性气质（female masculinity）（可见 Jack Halberstam 的同名专著），同样可理解为是以一种酷儿化的方式表现、展演男性气质（来自跨儿、非二元者、顺性别者等等）。此处采用“布奇”这一音译以避免性别身份的定式化导致窄化其含义。“femme”一词的翻译方式与背景同“butch”，常被译为“女性化的女同性恋者”、所谓的“底（bottom）”。但现在对“femme”的使用更倾向于解释为对“femininity（女性气质）”的酷儿展演，酷儿化的呈现。也即，顺性别者、非二元者、跨儿、以及酷儿社群中的任何人都可以批判性地挪用这个词，以展现自己对“femininity”的理解。此处采用音译“芬曼”。——译注
+^10. 取自译者之前的译注：“butch”一开始指的是性别表达为在社会意义上被视为（socially-perceived）男性化（masculine）的女同性恋者，又译为“顶”，但如今其含义也更指向女性式男性气质（female masculinity）（可见 Jack Halberstam 的同名专著），同样可理解为是以一种酷儿化的方式表现、展演男性气质（来自跨儿、非二元者、顺性别者等等）。此处采用“布奇”这一音译以避免性别身份的定式化导致窄化其含义。“femme”一词的翻译方式与背景同“butch”，常被译为“女性化的女同性恋者”、所谓的“底（bottom）”。但现在对“femme”的使用更倾向于解释为对“femininity（女性气质）”的酷儿展演，酷儿化的呈现。也即，顺性别者、非二元者、跨儿、以及酷儿社群中的任何人都可以批判性地挪用这个词，以展现自己对“femininity”的理解。此处采用音译“芬曼”。——译注^
 
-11. 莫泽（Moser 2009年）在非跨性/别女人们（non-trans women）中发现了女性具身情欲（female embodiment eroticism），破坏了布兰卡德的观点，布兰卡德认为这是一种男跨女特有的现象（an MtF-specific phenomenon）。
+^11. 莫泽（Moser 2009年）在非跨性/别女人们（non-trans women）中发现了女性具身情欲（female embodiment eroticism），破坏了布兰卡德的观点，布兰卡德认为这是一种男跨女特有的现象（an MtF-specific phenomenon）。^
 
-12. 双性恋（bisexuality）提出了有趣的复杂性。例如，正如一个人可能同时拥有喜好女性吸引和喜好男性吸引（both gynephilic and androphilic attractions）一样，一个人似乎也可能同时拥有男性反射性型吸引和女性反射型吸引（both andro-reflexive and gyne-reflexive attractions）。我在这里没有探讨这个问题。
+^12. 双性恋（bisexuality）提出了有趣的复杂性。例如，正如一个人可能同时拥有喜好女性吸引和喜好男性吸引（both gynephilic and androphilic attractions）一样，一个人似乎也可能同时拥有男性反射性型吸引和女性反射型吸引（both andro-reflexive and gyne-reflexive attractions）。我在这里没有探讨这个问题。^
