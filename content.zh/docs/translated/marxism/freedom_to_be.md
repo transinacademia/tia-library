@@ -1,12 +1,8 @@
-The freedom to be: Marxism, gender oppression and the struggle for trans liberation
+# 存在的自由： 马克思主义、性别压迫与跨性别解放斗争
 
-存在的自由： 马克思主义、性别压迫与跨性别解放斗争
+**The freedom to be: Marxism, gender oppression and the struggle for trans liberation, https://marxistleftreview.org/articles/the-freedom-to-be-marxism-gender-oppression-and-the-struggle-for-trans-liberation/**
 
-https://marxistleftreview.org/articles/the-freedom-to-be-marxism-gender-oppression-and-the-struggle-for-trans-liberation/ 
-
-Caitlin Harrington
-
-凯特琳·哈灵顿
+作者：凯特琳·哈灵顿（Caitlin Harrington）
 
 翻译：北雁星火
 
