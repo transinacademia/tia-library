@@ -1,4 +1,4 @@
-# 一份来自巴勒斯坦酷儿的解放诉求
+# [转载] 一份来自巴勒斯坦酷儿的解放诉求
 
 > [**原文链接**](https://queersinpalestine.noblogs.org/%e4%b8%80%e4%bb%bd%e6%9d%a5%e8%87%aa%e5%b7%b4%e5%8b%92%e6%96%af%e5%9d%a6%e9%85%b7%e5%84%bf%e7%9a%84%e8%a7%a3%e6%94%be%e8%af%89%e6%b1%82/)
 
