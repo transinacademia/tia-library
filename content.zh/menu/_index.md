@@ -2,7 +2,7 @@
 headless: false
 ---
 
-- [🇵🇸巴勒斯坦](/docs/palestine)
+- 🇵🇸 巴勒斯坦
   - [**（转载）一份来自巴勒斯坦酷儿的解放诉求** <br/><sup><sub>Queers in Palestine</sub></sup>](/docs/palestine/queer_lib_palestine.md)
 - [翻译](/docs/translated)
   - 性别理论
