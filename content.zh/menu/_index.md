@@ -3,7 +3,7 @@ headless: false
 ---
 
 - [🇵🇸巴勒斯坦](/docs/palestine)
-  - []
+  - [  [转载] 一份来自巴勒斯坦酷儿的解放诉求](/docs/palestine/queer_lib_palestine.md)
 - [翻译](/docs/translated)
   - 性别理论
     - [**性别加速主义者宣言** <br/><sup><sub>Vikky Storm, Eme Flores</sub></sup>](/docs/translated/gender-accelerationist-manifesto)
