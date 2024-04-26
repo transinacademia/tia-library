@@ -2,6 +2,8 @@
 headless: false
 ---
 
+- [🇵🇸巴勒斯坦](/docs/palestine)
+  - []
 - [翻译](/docs/translated)
   - 性别理论
     - [**性别加速主义者宣言** <br/><sup><sub>Vikky Storm, Eme Flores</sub></sup>](/docs/translated/gender-accelerationist-manifesto)
