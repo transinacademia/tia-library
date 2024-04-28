@@ -1,8 +1,10 @@
-# 翻译|ACHILLE MBEMBE-死亡政治学
+# 死亡政治学
 
-**原文选自 NECROPOLITICS 第三章同名章节**
+**原文选自 Necropolitics 第三章同名章节**
 
-**作者：ACHILLE MBEMBE（2016）**[[1\]](https://zhuanlan.zhihu.com/p/662983619#ref_1)
+作者：ACHILLE MBEMBE
+
+(https://zhuanlan.zhihu.com/p/662983619#ref_1)
 
 ***主权（sovereignty）\***之最终体现主要在于决定谁能够***生\***、谁必须***死\***的权力与能力。[[2\]](https://zhuanlan.zhihu.com/p/662983619#ref_2) 因此，*杀戮*或*放生*构成了主权之界限及其主要属性。主权就是对死亡施加控制，并将生命定义为权力之部署（deployment）和显露。
 
