@@ -14,6 +14,8 @@ headless: false
     - [**现在完全代孕** <br/><sup><sub>Sophie Lewis</sub></sup>](/docs/translated/full_surrogacy_now)
   - 哲学
     - [**当自我进行性行为：关于跨性/别性意识（Trans Sexuality）的现象学能交给我们什么关于性取向的启示** <br/><sup><sub>Talia Mae Bettcher</sub></sup>](/docs/translated/philosophy/trans_orientation)
+  - 左翼理论及马克思主义
+    - [**存在的自由： 马克思主义、性别压迫与跨性别解放斗争** <br/><sup><sub>Caitlin Harrington</sub></sup>](/docs/translated/marxism/freedom_to_be)
   - 精神分裂/分析
     - [**德勒兹、加塔利以及跨儿研究的精神分裂分析** <br/><sup><sub>Ciara Cremin</sub></sup>](/docs/translated/deleuze-guattari-and-the-schizoanalysis-of-trans-studies)
     - [**齐泽克的敌对和跨性/别肯定的拉康精神分析之未来** <br/><sup><sub>Chris Coffman</sub></sup>](/docs/translated/zizeks_antagonism)
