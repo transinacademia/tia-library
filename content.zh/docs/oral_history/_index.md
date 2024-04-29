@@ -1,6 +1,7 @@
 ---
-title: 首页
+title: 口述史
 type: docs
+bookCollapseSection: false
 ---
 
 这里收录了我们写作和翻译的文章。
