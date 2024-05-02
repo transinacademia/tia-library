@@ -1,6 +1,8 @@
 ---
 title: 死亡政治学
 ---
+# 死亡政治学
+
 ***
 作者：Achille Mbembe<br/>
 译者：弱心海<br/>
