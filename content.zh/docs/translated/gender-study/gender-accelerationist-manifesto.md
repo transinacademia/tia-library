@@ -1,8 +1,5 @@
 ---
-date: 2023-11-15T23:18:00-05:00
-title: 性别加速主义者宣言 - Vikky Storm, Eme Flores
-type: docs
-comment: false
+title: 性别加速主义者宣言
 ---
 
 # 性别加速主义者宣言(Gender Accelerationist Manifesto)
