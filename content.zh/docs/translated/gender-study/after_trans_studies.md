@@ -1,5 +1,5 @@
 ---
-title: 对话：跨⼉研究之后 Andrea Long Chu, Emmett Harsin Drager
+title: 对话：跨⼉研究之后
 type: docs
 comment: false
 ---
