@@ -1,6 +1,5 @@
 ---
-date: 2024-04-14T23:18:00-05:00
-title: 对话：跨⼉研究之后 - Andrea Long Chu, Emmett Harsin Drager
+title: 对话：**跨⼉研究之后** <br/> Andrea Long Chu, Emmett Harsin Drager
 type: docs
 comment: false
 ---
