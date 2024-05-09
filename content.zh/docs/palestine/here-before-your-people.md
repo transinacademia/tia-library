@@ -13,12 +13,19 @@
 毫无保留地声援巴勒斯坦人民的武装斗争和解放事业。
 
 > “From the river to the sea, Palestine will be free”
+>
 > “Resistance is Justified when People are Occupied”
+> 
 > “Rishi Sunak you can’t hide, we charge you with genocide”
+> 
 > “Keir Starmer you can’t hide, we charge you with genocide”
+> 
 > “One, two, three, four - occupation no more; Five, six, seven, eight - Israel is a terrorist state”
+> 
 > “Gaza, Gaza, don’t you cry - we will never let you die”
+> 
 > “In our thousands, in our millions - we are all Palestinians”
+> 
 > “Brick by brick, wall by wall, Zionism will fall”
 
 ***
