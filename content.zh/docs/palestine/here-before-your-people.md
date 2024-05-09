@@ -1,25 +1,27 @@
-迷思：我的族人比你们的族人更早来到这里
+# 迷思：我的族人比你们的族人更早来到这里
 
-原文：Decolonize Palestine (2021). Myth: My people were here before your people | Decolonize Palestine. [online] decolonizepalestine.com. Available at: https://decolonizepalestine.com/myth/my-people-were-here-before-your-people/ [Accessed 22 Oct. 2023].
-作者：去殖民巴勒斯坦项目（Decolonize Palestine）
+**Decolonize Palestine (2021). Myth: My people were here before your people | Decolonize Palestine. [online] decolonizepalestine.com. Available at: https://decolonizepalestine.com/myth/my-people-were-here-before-your-people/ [Accessed 22 Oct. 2023].**
+
+***
+
+作者：去殖民巴勒斯坦项目（Decolonize Palestine）<br/>
 译者：许颛顼（she/they）
+
+***
+
 译者注：Long live the invincible armed struggle of national resistance by the Palestinian people!
 毫无保留地声援巴勒斯坦人民的武装斗争和解放事业。
-“From the river to the sea, Palestine will be free”
-“Resistance is Justified when People are Occupied”
-“Rishi Sunak you can’t hide, we charge you with genocide”
- “Keir Starmer you can’t hide, we charge you with genocide”
-“One, two, three, four - occupation no more; Five, six, seven, eight - Israel is a terrorist state” 
-“Gaza, Gaza, don’t you cry - we will never let you die” 
-“In our thousands, in our millions - we are all Palestinians”
-“Brick by brick, wall by wall, Zionism will fall”
 
+> “From the river to the sea, Palestine will be free”
+> “Resistance is Justified when People are Occupied”
+> “Rishi Sunak you can’t hide, we charge you with genocide”
+> “Keir Starmer you can’t hide, we charge you with genocide”
+> “One, two, three, four - occupation no more; Five, six, seven, eight - Israel is a terrorist state”
+> “Gaza, Gaza, don’t you cry - we will never let you die”
+> “In our thousands, in our millions - we are all Palestinians”
+> “Brick by brick, wall by wall, Zionism will fall”
 
-
-迷思：我的族人比你们的族人更早来到这里
-（Myth: My people were here before your people）
-
-
+***
 
 在讨论巴勒斯坦历史时，一个经常出现的主题是“谁先到那里（who was there first?）”的问题。言下之意是，谁先到那里，谁就理应拥有那片土地。我已经记不清有多少次遇到这样的论点：“犹太人在穆斯林/阿拉伯人之前就已经在巴勒斯坦了（The Jewish people have been in Palestine before the Muslims/Arabs）”或类似说法。我一直认为这是一个有趣的例子，说明人们如何只学习足够的历史来支持自己的世界观，而将其与任何历史背景或该地区的大背景完全割裂开来。
 	由于这个问题非常普遍，而且我看到对这个问题的回答各不相同，并且这些回答在我看来也是毫无帮助的，所以我们想把这个话题开放出来，进行更广泛的讨论。
