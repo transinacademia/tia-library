@@ -4,11 +4,9 @@ title: 巴勒斯坦与跨儿解放：文献列表
 
 # 巴勒斯坦与跨儿解放：文献列表
 
-[原文链接](https://transinacademia.craft.me/hEDiLlf6wAXOfb)
+本[文献列表](https://transinacademia.craft.me/hEDiLlf6wAXOfb)由 Trans in Academia! [跨儿学术小组](linktr.ee/transinacademia) 整理
 
-本文献列表由 Trans in Academia! [跨儿学术小组](linktr.ee/transinacademia) 整理
-
-> 如果您想参与对以下文章的翻译，请联系 [Amber](https://t.me/carbonara_nocream)。翻译会发布在 TiA! 官网（lib.oau.edu.kg）的「🇵🇸 巴勒斯坦」分区。
+如果您想参与对以下文章的翻译，请联系 [Amber](https://t.me/carbonara_nocream)。翻译会发布在 TiA! 官网（lib.oau.edu.kg）的「🇵🇸 巴勒斯坦」分区。
 
 ## Articles & Essays
 
