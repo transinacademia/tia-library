@@ -1,3 +1,7 @@
+---
+title: 巴勒斯坦与跨儿解放：文献列表
+---
+
 # 巴勒斯坦与跨儿解放：文献列表
 
 ![1 Eng.png](https://res.craft.do/user/full/03259ef4-314e-13b0-e5e8-7968ca19c30b/doc/888E5565-5285-453F-B7BC-D36FD3A4E33E/30DB9F0D-D725-4851-8B07-3BB15FC8BDB7_2/b09BfMduLsEO2jpliPKyLHAgGB3FHagRMbTZFvjhVVwz/1%20Eng.png)
