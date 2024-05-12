@@ -9,7 +9,7 @@ title: 论异性恋悲观主义
 ***
 
 作者：艾萨·塞雷辛（Asa Seresin）<br/>
-翻译：amber（she/they）
+翻译：amber（she/they）, Claude AI
 
 ![Heteropessimism](https://thenewinquiry.com/app/uploads/2019/09/heteropessismism.jpg)
 
