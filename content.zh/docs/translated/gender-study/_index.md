@@ -5,4 +5,4 @@ bookCollapseSection: true
 weight: 10
 ---
 
-本板块收录了我们翻译的哲学类文章。
+本板块收录了我们翻译的性别研究领域文章。
