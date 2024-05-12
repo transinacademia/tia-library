@@ -1,26 +1,17 @@
-_**Philosophers’ Imprint**_
+# 超越二元论：性别酷儿（genderqueer）作为批判性性别种类
 
-Volume 20, No. 9 
+**Dembroff, Robin. “Beyond Binary: Genderqueer as Critical Gender Kind.” Philosophers’ Imprint, vol. 20, no. 9, 2020, pp. 1–23.**
 
-April 2020
+***
 
-_BEYOND BINARY: GENDERQUEER AS CRITICAL GENDER KIND_
-
-Robin Dembroff
-
-© 2007, Philosophers’ Imprint 
-
-This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 3.0 License
-
+作者：罗宾·登布罗夫（Robin Dembroff）
 译者：許顓頊 (they/them/祂/TA)
 
-**超越二元论：性别酷儿（genderqueer）作为批判性性别种类**
-
-**罗宾·登布罗夫（Robin Dembroff）**
+***
 
 我们想知道性别是什么。但是对于这个问题的形而上的方法（metaphysical approaches）都集中在男女二元的性别种类上。由于忽视了那些身份认同在二元论之外的人——我称之为‘性别酷儿（genderqueer）’的群体——我们没有工具来理解这些新的并且正在迅速增长的性别认同。这种形而上的鸿沟反过来又造成了一种概念上的空白（conceptual lacuna），从而导致了对性别酷儿者们的系统性误解。在本文中，我认为，为了更好地理解性别酷儿身份，我们必须认识到一类新的性别种类：**批判性性别种类**（_critical gender kinds_），或者说其成员集体地动摇了一种或多种占主导地位的性别意识形态。在发展了一个批判性性别种类的模型之后，我认为**性别酷儿**（_genderqueer_）作为批判性性别种类是最好的动摇‘二元论轴心（binary axis）’的模型，即动摇一种占主导地位的性别意识形态——其宣称唯一可能的性别是二元的、互不相联的（discrete）、专有的（exclusive）和详尽的**男人**（_men_）**女人**（_women_）。
 
-**一. 导论（Introduction）**
+## 一. 导论（Introduction）
 
 对严苛的二元性别系统的不满并不新鲜。1创造语言和各种表达方式亦或身体改造旨在僭越这种二元制也不是什么新鲜事。新鲜的是围绕这种不满情绪的广泛且合法的对话正在扩散。2仅仅在过去的十年里，‘性别酷儿’和‘非二元（nonbinary）’的网络搜索量就增长了至少十倍。3韦氏词典（Merriam-Webster’s dictionary）添加了这两个词，美联社风格指南（Associated Press Stylebook）将‘TA（they）4’作为一个单数的性别中立（gender neutral）代词，而诸如《青年时尚》（_Teen Vogue_）和《纽约时报》（_The New York Times_）等知名度很高的大众出版物也刊登了一些文章探讨在性别二元论之外的身份认同5。脸书（Facebook）为其二十四亿多位用户提供了五十多个术语来自我描述TA们的性别（their genders）。2007年，俄勒冈州成为第一个在政府身份证件上提供非二元性别标记的州，接着越来越多的自治行政体（municipalities）和州纷纷效仿。6总之，引用身份认同为性别流动（genderfluid）的歌手麦莉·赛勒斯（Miley Cyrus）的一句话：“\[非二元身份\]不是一种流行趋势。只是现在讨论它是可以接受的。”7
 
@@ -44,7 +35,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-NoDeriv
 
 最后，与此相关的是，在整个论文中，我将**性别酷儿**称为一种性别种类。我的读者可能会问我为什么这么做：为什么把**性别酷儿**定义为**性别**种类，而不是其它社会种类？我无法在这里为我的答案提供一个完整的论据。然而，简略的论据是——沿着伊丽莎白·巴恩斯（Elizabeth Barnes）（即将出版）——我不认为我们应该通过寻找与我们用来描述个体的性别术语一一对应的种类来处理性别的形而上学（例如，‘女人’、‘男人’）。性别分类（gender classiﬁcation）的术语分类学（terminological taxonomy）不需要——而且我认为也不——与性别种类的最有用的形而上的分类学相一致。相反，我将对性别种类的形而上学探究作为对强化或抵制阶级的（hierarchical）、男性主导（male-dominant）的社会体系的种类的探究。**性别酷儿**，就像我下文要论证的，就是这样一个种类。出于这个原因，尽管我收录了那些使用‘性别酷儿’标签的人的证词，我并不认为我所称的**性别酷儿**种类是包含所有且仅包含那些使用‘性别酷儿’标签辨识自己的人。我的关注点反而是利用这些证词和其他证据来更清楚地了解，如果有的话，最能体现不专有地认同（exclusively identify）为男人或女人的群体的特征。
 
-**三. 第一次尝试（First Attempts）**
+## 三. 第一次尝试（First Attempts）
 
 在流行文化中，大多数关于性别酷儿的定义分为两大阵营。其中一种方法是，某人之所以是性别酷儿是因为他们具有某些**外在**特征——典型的是，因为TA（they）是性别气质不明显的（androgynous17），性别流动的（gender fluid），或者则是违反了性别规范。另一种方法是，某人是性别酷儿是因为他们有特定的**内在**特征——即自我身份认同（self-identiﬁcation）——这使得身份认同处在二元论之外到底意味着什么暂且阙疑。
 
@@ -120,11 +111,11 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-NoDeriv
 
 除了过度产生（over-generating），它也会产生不足（under-generates）。我们对于性别酷儿者们不把任何性别规范与自己联系起来的观点应该持怀疑态度的另一个原因是：有些人把TA们的性别酷儿身份定位于TA们在不同性别范畴（gender categories）之间的流动性（ﬂuidity）。 更具体地说，这一证词表明一些性别酷儿个体在不同的语境中体验到各种相关的或合适的（apt）性别特定的（gender-speciﬁc）规范。例如，在加卢波等人（2018年）【Galupo, et al (2018)\]】对性别酷儿者们的研究中，许多参与者描述自己性别的方式包括但不限于只有二元论选项中的一种：
 
-我的性别会发生变化。有时我是女性（female），有时我是男孩（boy），有时我两者都是，有时我两者都不是。（性别流动）【genderfluid】
+> 我的性别会发生变化。有时我是女性（female），有时我是男孩（boy），有时我两者都是，有时我两者都不是。（性别流动）【genderfluid】
 
-有时我觉得自己完全是个男人。有时我觉得我大部分一个男人，与一些女人/没有强烈的性别归属的无性别者（woman/agender）混合在一起。（半男）【demiguy】
+> 有时我觉得自己完全是个男人。有时我觉得我大部分一个男人，与一些女人/没有强烈的性别归属的无性别者（woman/agender）混合在一起。（半男）【demiguy】
 
-我可以每天在各种性别（男人，女人，双性同体（androgyne），无性别（agender），第三性别（third gender），多性别（polygender），等等）之间转换。（性别流动）【genderfluid】54
+> 我可以每天在各种性别（男人，女人，双性同体（androgyne），无性别（agender），第三性别（third gender），多性别（polygender），等等）之间转换。（性别流动）【genderfluid】54
 
 简而言之，在詹金斯（Jenkins）的意义上，性别酷儿者有时**确实**（_do_）认同为女人和/或男人。事实上，加卢波等人（Galupo et al）等人明确地观察到“\[性别酷儿\]参与者们的性别身份\[们\]不能被离散地概念化为‘男性’、‘女性（female）’、‘都不是（neither）’或‘都是（both）’”。55既然詹金斯（Jenkins）采取都不是的方法（the neither approach），那么，这种方法就不符合性别酷儿个体对自身内部状态的描述。56
 
@@ -146,7 +137,7 @@ S 在 C 的语境中是性别酷儿当且仅当 S 充分倾向于以 C 的方式
 
 最终可能会发现，性别酷儿身份只不过是用某些特定的术语进行自我描述。但如果可能的话，我们应该——我认为我们**能够**——做得更好。为此，我现在转向一个新提议：**性别酷儿**作为一种**批判性性别种类**（_critical gender kind_）。
 
-**四. 一种新方法：批判性性别类型（A New Approach: Critical Gender Kinds）**
+## 四. 一种新方法：批判性性别类型（A New Approach: Critical Gender Kinds）
 
 是什么解释了作为性别酷儿？主张自己偏好的性别标签就足够（sufﬁcient）了吗？是必要的吗？性别不遵从（gender non-conformity）或双性同体（androgyny）就算不是必要的，是足够的吗？正如我们所见，纯粹的外部因素对于理解**性别酷儿**来说是不足够的，这让这些问题变得复杂，而诉诸于性别身份只会迫使我们去问，是什么构成了性别酷儿身份。虽然从完全内在的特征来考虑这种身份很吸引人，如规范相关性的感识（a sense of norm relevance）或声称自己是某一范畴的成员的倾向，但我们已经看到了这些方法的不足之处。那么，性别酷儿者们和非性别酷儿者们之间的差异可能是什么呢？
 
@@ -176,7 +167,11 @@ S 在 C 的语境中是性别酷儿当且仅当 S 充分倾向于以 C 的方式
 
 需要明确的是，批判性性别种类并不是唯一的其成员站在与占主导地位的性别意识形态的政治关系中的性别种类。在我的观点中，我在这里无法完全为之辩护，所有人都站在与性别意识形态的关系中——无论是原则性的还是存在性的。当这些关系起到再稳固（restabilize）或维持占主导地位的意识形态的作用时，我们可以把那些表现出这些关系的人描述为从属于**非批判性**（_non-critical_）性别种类：
 
+***
+
 **非批判性性别种类（Non-Critical Gender Kinds）：**对于某一特定种类 X，当且仅当 X 的成员集体地再稳固该社会中占主导地位的性别意识形态的一个或多个元素时，X 是一种相对于某一特定社会的**非批判性性别种类（**_non-critical gender kind_）。
+
+***
 
 如上所述，我们可以把再稳固分为原则性模式和存在性模式两种。一个认为自己是男人并在此基础上采用霸权的男性气质角色（hegemonic masculine roles）和具现（与他的阶级、种族等有关的）的人参与了对——男性应该遵照霸权的男性气质规范（hegemonic masculine norms）表现（behave）与显现（appear）——这一占主导地位的观念的存在性再稳固（existential restabilizing）。相反，一个认为自己是女人但使用侮辱性语言来描述同性恋（gay）或被认为有女性气质（effeminate）的男人并且这样做是基于男人应该如何表现这样的信念的人，参与了对这一占主导地位的观念的原则性再稳固（principled restabilizing）。69
 
@@ -216,17 +211,17 @@ S 在 C 的语境中是性别酷儿当且仅当 S 充分倾向于以 C 的方式
 
 我已提出的，对于**性别酷儿**而言最为基本的，可见于外在特征和内在特征的交集。特别是，它是集体的，对二元论轴心的存在性动摇。构成这种动摇的行动有很多：再次强调，没有一个成为性别酷儿的方式，更没有一个成为性别酷儿的**正确**方式。抵抗二元范畴化的许多形式是可能的。一些常见的策略会很熟悉：使用性别中立代词（以及其它术语，像“Mx” 这个称谓)，培养性别不遵从的美学（gender non-conforming aesthetics），主张非二元的范畴化（比如，‘我是无性别者’），酷儿化个人关系（queering personal relationships），违抗性二元（defying sexual binaries），以及我所说的‘空间转换（space switching）’，也就是在男性和女性的性别化空间之间活动（moving between male and female gendered spaces）。然而，再次强调，这些特征中没有一个是性别酷儿所特有的或者是成为性别酷儿所必需的，它们是性别酷儿者们用来抵抗，**TA们自己**（_they themselves_）必须遵守二元范畴化，这一观点的熟悉工具。TA们所共享的——以及，我认为是什么限制了哪些群体可以被恰当地称为‘动摇’——是TA们违反了凯特·伯恩斯坦（1994年）【Kate Bornstein (1994)】所说的“性别规则”：根据对身体的性化阐释（sexed interpretation）而（通过社会实践、物质结构和各种形式的性别管制（policing））强加于以及强迫于个人的一套二元规范。82违反这些规则挑战或违抗了占主导地位的性别实践和结构。由于这些实践和结构有很多，因此动摇的可能模式也有很多，我们可以预期这些模式在不同的交叉的（intersectional）语境和个人中会有很大的不同。仅举几个例子：
 
-1**. 性别中立代词（Gender neutral pronouns）**：传达一个人使用性别中立代词（例如，ze/zim/zis，they/them/theirs）而不使用性别特定代词（例如，他/他的（he/him/his），她/她的（she/her/hers））。83
+1. **性别中立代词（Gender neutral pronouns）**：传达一个人使用性别中立代词（例如，ze/zim/zis，they/them/theirs）而不使用性别特定代词（例如，他/他的（he/him/his），她/她的（she/her/hers））。83
 
-2\. **性别不遵从的美学（Gender non-conforming aesthetics）**：违反文化的性别化期望的性别呈现（如异装（cross-dressing）、双性同体（androgyny））。84
+2. **性别不遵从的美学（Gender non-conforming aesthetics）**：违反文化的性别化期望的性别呈现（如异装（cross-dressing）、双性同体（androgyny））。84
 
-3\. **性别范畴化主张（Gender categorization assertions）**：明确表达一个人自己的关于性别种类成员身份的感识（sense）（例如，‘我是非二元的’，‘我是性别流动的’）。
+3. **性别范畴化主张（Gender categorization assertions）**：明确表达一个人自己的关于性别种类成员身份的感识（sense）（例如，‘我是非二元的’，‘我是性别流动的’）。
 
-4\. **酷儿化个人关系（Queering personal relationships）**：在个人关系中的传统性别角色之间的流动性或违反个人关系中的传统性别角色。（例如，既承担特定的传统女性养育角色（female parenting roles）同时也承担男性角色（male roles），在性关系中的性别游戏扮演（gender play））。85 86
+4. **酷儿化个人关系（Queering personal relationships）**：在个人关系中的传统性别角色之间的流动性或违反个人关系中的传统性别角色。（例如，既承担特定的传统女性养育角色（female parenting roles）同时也承担男性角色（male roles），在性关系中的性别游戏扮演（gender play））。85 86
 
-5\. **摒弃性取向二元论（Eschewing sexuality binaries）**：在‘同性恋’、‘直人’或‘双性恋’ 这种基于二元性别系统的分类法之外辨识认同自己的性取向。87
+5. **摒弃性取向二元论（Eschewing sexuality binaries）**：在‘同性恋’、‘直人’或‘双性恋’ 这种基于二元性别系统的分类法之外辨识认同自己的性取向。87
 
-6\. **空间转换（Space switching）**：女性编码和男性编码的物质空间之间的流动性（Fluidity）（例如，男女盥洗室都使用，在男性和女性的朋友群体之间社交活动）。88
+6. **空间转换（Space switching）**：女性编码和男性编码的物质空间之间的流动性（Fluidity）（例如，男女盥洗室都使用，在男性和女性的朋友群体之间社交活动）。88
 
 这份清单绝非详尽无遗地列举了性别酷儿者抵抗性别二元论囚禁的众多方式。89我的目的不是提供一份详尽的清单来说明如何成为性别酷儿，而是阐明性别酷儿表达的斑斓和多样化的本性（diverse nature）。虽然有些表达方式（例如，表达主张）更容易被其TA人阐释为抵抗二元论轴心，但其它一些表达方式（例如，性别不遵从）承认更多的模糊性。此外，性别酷儿者们不会在任何时间或空间内采用同样的或者可能是这些表达方式中的任何一种。那些在朋友间使用性别中立代词的人可能不会在工作中这么做。一个在明确地跨儿包容的群体（explicitly trans-inclusive groups）中主张性别酷儿身份的人，可能不会在这些群体之外这样做。因为**性别酷儿**并不呈现出一套新的性别规范，性别酷儿者们以多种方式体现TA们的身份；它试图瓦解现存的性别规范。也就是说，性别酷儿并不是旨在‘男性气质的（masculine）’和‘女性气质的（feminine）’、‘男人’和‘女人’之间维持一个灰色的、双性同体的中间地带（androgynous middle ground），而是要抵抗——一个人必须要接受这些二元范畴，人们必须被它们辨识（identiﬁed）、标签（labeled）和评价的范畴——这一文化命令。这一点在关于性别酷儿身份的定性实证研究（qualitative empirical research）中得到进一步强化。布拉德福德等人（2018年，8页）【Bradford et al (2018, 8)】指出，虽然性别模型通常期望性别是稳定的和可预测的，但“拥有就自己的身体和身份做出决定的能动性（agency）可能是性别酷儿身份发展的一个不可或缺的部分”——这往往会导致一个“实验的过程”。再次强调，我的重点还是集中在这种抵抗方式所产生的集体的、动摇效果，而不是任何一个个体对于TA所感受到的或所渴望的性别范畴化的表达所产生的影响。鉴于此，在**性别酷儿**这个大伞下还有很多空间容纳各种各样的表达方式。
 
@@ -244,356 +239,358 @@ S 在 C 的语境中是性别酷儿当且仅当 S 充分倾向于以 C 的方式
 
 将**性别酷儿**理解为一种其成员集体地动摇了二元论轴心的批判性性别种类，有助于我们理解像布雷霍布（Brehob）这样的人的经历。**性别酷儿**并不仅仅是在头脑中的：它以其“存在本身”挑战占主导地位的性别意识形态。为了理解这种性别种类，我们需要一个新的模型——一个充分体现（captures）意识形态动摇化（ideological destabilization）与感受到的或渴望的范畴化之间的相互作用的模型。我已经提出了一个这样的模型，毫无疑问还有其它的模型。但如果有一件事是明确的，那就是如果我们要理解这场文化革命，我们需要新的概念、新的语言和新的形而上学。配备了这些工具，我们就可以与瑞琪·威尔钦斯（Riki Wilchins）一起思考我们是否“无意识地、最终朝着我们所知道的性别范畴的终结踏去。”96无论是哪种方式，我同意威尔钦斯的观点：“找出答案会很有趣”。97 98
 
-**5\. 参考文献（Bibliography）**
+## 五. 参考文献（Bibliography）
 
-Andler, M. (2017) “Gender Identity and Exclusion: A Reply to Jenkins.” Ethics 127(4):883—895.
+- Andler, M. (2017) “Gender Identity and Exclusion: A Reply to Jenkins.” Ethics 127(4):883—895.
 
-Appiah, K.A. (1994) “Race, Culture, Identity: Misunderstood Connections.” The Tanner Lectures on Human Values, 53—136.
+- Appiah, K.A. (1994) “Race, Culture, Identity: Misunderstood Connections.” The Tanner Lectures on Human Values, 53—136.
 
-Appiah, K.A. (November 9, 2016) “There is No Such Thing as Western Civilisation.” The Guardian.
+- Appiah, K.A. (November 9, 2016) “There is No Such Thing as Western Civilisation.” The Guardian.
 
-Bach, T. (2012) “Gender Is a Natural Kind with a Historical Essence.” Ethics 122(2): 231—272.
+- Bach, T. (2012) “Gender Is a Natural Kind with a Historical Essence.” Ethics 122(2): 231—272.
 
-Barnes, E. (forthcoming) “Gender and Gender Terms” Noûs.
+- Barnes, E. (forthcoming) “Gender and Gender Terms” Noûs.
 
-Bettcher, T. (2009) “Trans Identities and First-Person Authority.” In “You’ve Changed”: Sex Reassignment and Personal Identity, ed. L. Shrage. Oxford University Press.
+- Bettcher, T. (2009) “Trans Identities and First-Person Authority.” In “You’ve Changed”: Sex Reassignment and Personal Identity, ed. L. Shrage. Oxford University Press.
 
-Bettcher, T. (2013) “Trans Women and the Meaning of ‘Woman’.” In Philosophy of Sex: Contemporary Readings, Sixth Edition. Eds. A. Soble, N. Power, & R. Halwani, 233—250. Rowan & Littleﬁeld.
+- Bettcher, T. (2013) “Trans Women and the Meaning of ‘Woman’.” In Philosophy of Sex: Contemporary Readings, Sixth Edition. Eds. A. Soble, N. Power, & R. Halwani, 233—250. Rowan & Littleﬁeld.
 
-Bettcher, T. (2014) “Trapped in the Wrong Theory: Rethinking Trans Oppression and Resistance.” Signs 39(2): 383—406.
+- Bettcher, T. (2014) “Trapped in the Wrong Theory: Rethinking Trans Oppression and Resistance.” Signs 39(2): 383—406.
 
-Bettcher, T. (2016) “Intersexuality, Transgender, and Transsexuality.” In The Oxford Handbook of Feminist Theory. eds. M. Hawkesworth & L. Disch, 407—427. Oxford University Press.
+- Bettcher, T. (2016) “Intersexuality, Transgender, and Transsexuality.” In The Oxford Handbook of Feminist Theory. eds. M. Hawkesworth & L. Disch, 407—427. Oxford University Press.
 
-Bornstein, K. (1994) Gender Outlaw: On Men, Women, and the Rest of Us. Routledge.
+- Bornstein, K. (1994) Gender Outlaw: On Men, Women, and the Rest of Us. Routledge.
 
-Bradford, N., Rider, G., Catalpa, J., Morrow, Q., Berg, D., Spencer, K., & McGuire, J. (2018) “Creating Gender: A Thematic Analysis of Genderqueer Narratives.” International Journal of Transgenderism. 20(2/3): 155—168.
+- Bradford, N., Rider, G., Catalpa, J., Morrow, Q., Berg, D., Spencer, K., & McGuire, J. (2018) “Creating Gender: A Thematic Analysis of Genderqueer Narratives.” International Journal of Transgenderism. 20(2/3): 155—168.
 
-Brehob, E. (June 25, 2018) “Are You Still Queer if People Can’t Always Perceive Your Identity?” Slate.
+- Brehob, E. (June 25, 2018) “Are You Still Queer if People Can’t Always Perceive Your Identity?” Slate.
 
-Briggs, R. & George, B.R. (2016). “Science Fiction Double Feature: Trans Liberation on Twin Earth.” Unpublished.
+- Briggs, R. & George, B.R. (2016). “Science Fiction Double Feature: Trans Liberation on Twin Earth.” Unpublished.
 
-Butler, J. (1990) Gender Trouble. Routledge, 2nd edition.
+- Butler, J. (1990) Gender Trouble. Routledge, 2nd edition.
 
-Chan, V. (September 7, 2017) “Muscle has no kind: a conversation with genderqueer bodybuilder Siufung Law” Still Loud
+- Chan, V. (September 7, 2017) “Muscle has no kind: a conversation with genderqueer bodybuilder Siufung Law” Still Loud
 
-Chase, C. (1998) “Affronting Reason.” in Looking Queer: Body Image and Identity in Lesbian, Bisexual, Gay, and Transgender Communities, ed. D. Atkins. New York, 205—220. Haworth Press.
+- Chase, C. (1998) “Affronting Reason.” in Looking Queer: Body Image and Identity in Lesbian, Bisexual, Gay, and Transgender Communities, ed. D. Atkins. New York, 205—220. Haworth Press.
 
-Clements, C. (October 27, 2017) “What Does It Mean to Identify as Genderqueer?” Healthline.
+- Clements, C. (October 27, 2017) “What Does It Mean to Identify as Genderqueer?” Healthline.
 
-Cohen, C. (2005) “Punks, Bulldaggers, and Welfare Queens: The Radical Potential of Queer Politics.” In Black Queer Studies: A Critical Anthology, ed. P. Johnson and M.G. Henderson, 21—51. Duke University Press.
+- Cohen, C. (2005) “Punks, Bulldaggers, and Welfare Queens: The Radical Potential of Queer Politics.” In Black Queer Studies: A Critical Anthology, ed. P. Johnson and M.G. Henderson, 21—51. Duke University Press.
 
-Davis, M. (1983) Smut: Erotic Reality/Obscene Ideology. University of Chicago Press.
+- Davis, M. (1983) Smut: Erotic Reality/Obscene Ideology. University of Chicago Press.
 
-Dembroff, R. (2016) “What Is Sexual Orientation?” Philosopher’s Imprint 16(3): 1—27.
+- Dembroff, R. (2016) “What Is Sexual Orientation?” Philosopher’s Imprint 16(3): 1—27.
 
-Dembroff, R. (October 30, 2018) “Why Be Nonbinary?” Aeon Magazine.
+- Dembroff, R. (October 30, 2018) “Why Be Nonbinary?” Aeon Magazine.
 
-Dembroff, R. (forthcoming) “Real Talk on the Metaphysics of Gender.” Philosophical Topics.
+- Dembroff, R. (forthcoming) “Real Talk on the Metaphysics of Gender.” Philosophical Topics.
 
-Dembroff, R. & Saint-Croix, C. (2019) “‘Yep, I’m Gay’: Understanding Agential Identity.” Ergo 6(20): 571—599.
+- Dembroff, R. & Saint-Croix, C. (2019) “‘Yep, I’m Gay’: Understanding Agential Identity.” Ergo 6(20): 571—599.
 
-Dembroff, R. & Wodak. D. (2018) “He/She/They/Ze” Ergo 5(14): 371—406.
+- Dembroff, R. & Wodak. D. (2018) “He/She/They/Ze” Ergo 5(14): 371—406.
 
-Diamond, L,M, and Butterworth, M. (2008) “Questioning Gender and Sexual Identity: Dynamic Links Over Time.” Sex Roles 59: 365376.
+- Diamond, L,M, and Butterworth, M. (2008) “Questioning Gender and Sexual Identity: Dynamic Links Over Time.” Sex Roles 59: 365376.
 
-Dowling, A. (February 24, 2017) “Meet TV’s First Non-BinaryGender Character: Asia Kate Dillon of Showtime’s ’Billions’.” Hollywood Reporter.
+- Dowling, A. (February 24, 2017) “Meet TV’s First Non-BinaryGender Character: Asia Kate Dillon of Showtime’s ’Billions’.” Hollywood Reporter.
 
-Epstein, B. (2009) “Ontological Individualism Reconsidered.” Synthese. 166(1): 187—213.
+- Epstein, B. (2009) “Ontological Individualism Reconsidered.” Synthese. 166(1): 187—213.
 
-Ferguson, S. (June 5, 2017) “The Importance of Non-Binary Models in the Fashion Industry.” TeenVogue
+- Ferguson, S. (June 5, 2017) “The Importance of Non-Binary Models in the Fashion Industry.” TeenVogue
 
-Fraser, N. (1998). Social Justice in the Age of Identity Politics: Redistribution, Recognition, and Participation. The Tanner Lectures on Human Values, 3—67.
+- Fraser, N. (1998). Social Justice in the Age of Identity Politics: Redistribution, Recognition, and Participation. The Tanner Lectures on Human Values, 3—67.
 
-Fricker, M. (2007) Epistemic Injustice: Power & the Ethics of Knowing. Oxford University Press.
+- Fricker, M. (2007) Epistemic Injustice: Power & the Ethics of Knowing. Oxford University Press.
 
-Frye, M. (1983) The Politics of Reality: Essays in Feminist Theory. Crossing Press.
+- Frye, M. (1983) The Politics of Reality: Essays in Feminist Theory. Crossing Press.
 
-Galupo, M., Pulice-Farrow, L., & Ramirez, J. (2018) “’Like a Constantly Flowing River’: Gender Identity Flexibility among Non-binary Transgender Individuals.” In Identity Flexibility During Adulthood: Perspectives in Adult Development, ed. J.D. Sinnott, 163—177. Springer.
+- Galupo, M., Pulice-Farrow, L., & Ramirez, J. (2018) “’Like a Constantly Flowing River’: Gender Identity Flexibility among Non-binary Transgender Individuals.” In Identity Flexibility During Adulthood: Perspectives in Adult Development, ed. J.D. Sinnott, 163—177. Springer.
 
-Garber, M. (1992) Vested Interests: Cross-dressing and Cultural Anxiety. Routledge.
+- Garber, M. (1992) Vested Interests: Cross-dressing and Cultural Anxiety. Routledge.
 
-“Genderqueer.” (Accessed June 6, 2018) Merriam-Webster.com.
+- “Genderqueer.” (Accessed June 6, 2018) Merriam-Webster.com.
 
-“Genderqueer”. (Accessed February 28, 2020). Wikipedia, The Free Encyclopedia.
+- “Genderqueer”. (Accessed February 28, 2020). Wikipedia, The Free Encyclopedia.
 
-Green, J. (2004) Becoming a Visible Man. Vanderbilt University Press.
+- Green, J. (2004) Becoming a Visible Man. Vanderbilt University Press.
 
-Greenberg, Z. (Oct. 24, 2017) “When a Student Says, ‘I’m Not a Boy or a Girl’.” The New York Times.
+- Greenberg, Z. (Oct. 24, 2017) “When a Student Says, ‘I’m Not a Boy or a Girl’.” The New York Times.
 
-Halberstam, J. (1998) Female Masculinity. Duke University Press.
+- Halberstam, J. (1998) Female Masculinity. Duke University Press.
 
-Halperin, D. (1995) Saint Foucault: Towards a Gay Hagiography. Oxford: Oxford University Press.
+- Halperin, D. (1995) Saint Foucault: Towards a Gay Hagiography. Oxford: Oxford University Press.
 
-Haslanger, S. (2016) “What is a (Social) Structural Explanation?” Philosophical Studies. 173(1):113—130.
+- Haslanger, S. (2016) “What is a (Social) Structural Explanation?” Philosophical Studies. 173(1):113—130.
 
-Haslanger, S. (2012) “Gender and Race: (What) Are They? (What) Do We Want Them To Be?” In Resisting Reality: Social Construction and Social Critique, ed. S. Haslanger, 221—247. Oxford University Press.
+- Haslanger, S. (2012) “Gender and Race: (What) Are They? (What) Do We Want Them To Be?” In Resisting Reality: Social Construction and Social Critique, ed. S. Haslanger, 221—247. Oxford University Press.
 
-Hesse, M. (September 20, 2014) “When No Gender Fits: A Quest to be Seen as Just a Person.” The Washington Post.
+- Hesse, M. (September 20, 2014) “When No Gender Fits: A Quest to be Seen as Just a Person.” The Washington Post.
 
-Heyes, C. (2003) “Feminist Solidarity after Queer Theory: The Case of Transgender” Signs 48(4): 1093—1120.
+- Heyes, C. (2003) “Feminist Solidarity after Queer Theory: The Case of Transgender” Signs 48(4): 1093—1120.
 
-Hird, M.J. (2002) “For a Sociology of Transsexualism.” Sociology 36(3): 577—595.
+- Hird, M.J. (2002) “For a Sociology of Transsexualism.” Sociology 36(3): 577—595.
 
-Howell, K. (June 26, 2018) “Gender Can Be Both Liberating And Stiﬂing At The Same Time.” \[video\] Hufﬁngton Post
+- Howell, K. (June 26, 2018) “Gender Can Be Both Liberating And Stiﬂing At The Same Time.” \[video\] Hufﬁngton Post
 
-James, S.E., Herman, J.L., Rankin, S., Keisling, M., Mottet, L., & Anaﬁ, M. (2016). “The Report of the 2015 U.S. Transgender Survey.” National Center for Transgender Equality. Retrieved from https://www.transequality.org/sites/default/ﬁles/docs/USTSFull-Report-FINAL.PDF
+- James, S.E., Herman, J.L., Rankin, S., Keisling, M., Mottet, L., & Anaﬁ, M. (2016). “The Report of the 2015 U.S. Transgender Survey.” National Center for Transgender Equality. Retrieved from https://www.transequality.org/sites/default/ﬁles/docs/USTSFull-Report-FINAL.PDF
 
-Jenkins, K. (2016) “Amelioration and Inclusion: Gender Identity and the Concept of Woman.” Ethics 126(2): 394—421.
+- Jenkins, K. (2016) “Amelioration and Inclusion: Gender Identity and the Concept of Woman.” Ethics 126(2): 394—421.
 
-Jenkins, K. (2018) “Toward an Account of Gender Identity.” Ergo 5(27): 713—744.
+- Jenkins, K. (2018) “Toward an Account of Gender Identity.” Ergo 5(27): 713—744.
 
-Kusalik, T. (2010) “Identity, Schmidentity” In Gender Outlaws: The Next Generation. Eds. K. Bornstein and S.B. Bergman. Berkeley: Seal Press.
+- Kusalik, T. (2010) “Identity, Schmidentity” In Gender Outlaws: The Next Generation. Eds. K. Bornstein and S.B. Bergman. Berkeley: Seal Press.
 
-McKitrick, J. (2015) “A Dispositional Account of Gender.” Philosophical Studies 172(10): 2575—2589.
+- McKitrick, J. (2015) “A Dispositional Account of Gender.” Philosophical Studies 172(10): 2575—2589.
 
-Medina, J. (2012) “Hermeneutical Injustice and Polyphonic Contextualism: Social Silences and Shared Hermeneutical Responsibilities.” Social Epistemology 26(2): 201—220.
+- Medina, J. (2012) “Hermeneutical Injustice and Polyphonic Contextualism: Social Silences and Shared Hermeneutical Responsibilities.” Social Epistemology 26(2): 201—220.
 
-Mo Interview (2018). Email correspondence.
+- Mo Interview (2018). Email correspondence.
 
-Nagoshi, J., Brzuzy, S., & Terrell, H. (2012) “Deconstructing the Complex Perceptions of Gender Roles, Gender Identity, and Sexual Orientation Among Transgender Individuals.” Feminism & Psychology 22(4): 405—422.
+- Nagoshi, J., Brzuzy, S., & Terrell, H. (2012) “Deconstructing the Complex Perceptions of Gender Roles, Gender Identity, and Sexual Orientation Among Transgender Individuals.” Feminism & Psychology 22(4): 405—422.
 
-“Nonbinary.” (Accessed June 6, 2018) Merriam-Webster.com. Papisova, V. (February 12, 2016) “Here’s What it Means When You Don’t Identify as a Girl or a Boy.” Teen Vogue.
+- “Nonbinary.” (Accessed June 6, 2018) Merriam-Webster.com. Papisova, V. (February 12, 2016) “Here’s What it Means When You Don’t Identify as a Girl or a Boy.” Teen Vogue.
 
-Paul, L.A. (2012) “Metaphysics as Modeling: the Handmaiden’s Tale.” Philosophical Studies 160(1):1—29.
+- Paul, L.A. (2012) “Metaphysics as Modeling: the Handmaiden’s Tale.” Philosophical Studies 160(1):1—29.
 
-Penny, L. (October 31, 2015) “How to be a Genderqueer Feminist.” BuzzFeed News.
+- Penny, L. (October 31, 2015) “How to be a Genderqueer Feminist.” BuzzFeed News.
 
-Petrow, S. (May 9, 2016) “Don’t Know What ‘Genderqueer’ Is? Meet Someone Who Identiﬁes That Way.” The Washington Post.
+- Petrow, S. (May 9, 2016) “Don’t Know What ‘Genderqueer’ Is? Meet Someone Who Identiﬁes That Way.” The Washington Post.
 
-Rich, A. (1980) “Compulsory Heterosexuality and Lesbian Existence.” Signs 5(4): 631—60.
+- Rich, A. (1980) “Compulsory Heterosexuality and Lesbian Existence.” Signs 5(4): 631—60.
 
-Richards, C., Bouman, W.P., Seal, L., Barker, M.J., Nieder, T.O., & Tsjoen, G. (2016) “Non-binary or Genderqueer Genders.” International Review of Psychiatry 28(1): 95—102.
+- Richards, C., Bouman, W.P., Seal, L., Barker, M.J., Nieder, T.O., & Tsjoen, G. (2016) “Non-binary or Genderqueer Genders.” International Review of Psychiatry 28(1): 95—102.
 
-Rimes, K.A., Goodship, N., Ussher, G., Baker, D., & West, E. (2018) “Non-binary and Binary Transgender Youth: Comparison of Mental Health, Self-harm, Suicidality, Substance Use and Victimization Experiences.” International Journal of Transgenderism.
+- Rimes, K.A., Goodship, N., Ussher, G., Baker, D., & West, E. (2018) “Non-binary and Binary Transgender Youth: Comparison of Mental Health, Self-harm, Suicidality, Substance Use and Victimization Experiences.” International Journal of Transgenderism.
 
-Salamon, G. (2010) Assuming a Body: Transgender and Rhetorics of Materiality. Columbia University Press.
+- Salamon, G. (2010) Assuming a Body: Transgender and Rhetorics of Materiality. Columbia University Press.
 
-Serano, J. (2016) Whipping Girl: A Transsexual Woman on Sexism and the Scapegoating of Femininity (2nd ed.). Seal Press.
+- Serano, J. (2016) Whipping Girl: A Transsexual Woman on Sexism and the Scapegoating of Femininity (2nd ed.). Seal Press.
 
-Singh, A. (2013) “Transgender Youth of Color and Resilience: Negotiating Oppression and Finding Support.” Sex Roles 68(11-12): 690702.
+- Singh, A. (2013) “Transgender Youth of Color and Resilience: Negotiating Oppression and Finding Support.” Sex Roles 68(11-12): 690702.
 
-Sopelsa, B. (March 27, 2017) “AP Stylebook Embraces ‘They’ as Singular, Gender Neutral Pronoun.” NBC News.
+- Sopelsa, B. (March 27, 2017) “AP Stylebook Embraces ‘They’ as Singular, Gender Neutral Pronoun.” NBC News.
 
-Steinmetz, K. (March 16, 2017) “Beyond ‘He? or ‘She?: The Changing Meaning of Gender and Sexuality.” TIME Magazine.
+- Steinmetz, K. (March 16, 2017) “Beyond ‘He? or ‘She?: The Changing Meaning of Gender and Sexuality.” TIME Magazine.
 
-Stoljar, N. (2011) “Different Women. Gender and the RealismNominalism Debate.” In Feminist Metaphysics: Explorations in the Ontology of Sex, Gender and the Self, ed. C. Witt, 27?46. Springer.
+- Stoljar, N. (2011) “Different Women. Gender and the RealismNominalism Debate.” In Feminist Metaphysics: Explorations in the Ontology of Sex, Gender and the Self, ed. C. Witt, 27?46. Springer.
 
-Stryker, S. (1994) “My Words to Victor Frankenstein Above the Village of Chamounix: Performing Transgender Rage.” GLQ 1(3): 237—54.
+- Stryker, S. (1994) “My Words to Victor Frankenstein Above the Village of Chamounix: Performing Transgender Rage.” GLQ 1(3): 237—54.
 
-Sveinsdottír, Á. (2011) “The Metaphysics of Sex and Gender.” In Feminist Metaphysics: Explorations in the Ontology of Sex, Gender and the Self, ed. C. Witt, 47—65. Springer.
+- Sveinsdottír, Á. (2011) “The Metaphysics of Sex and Gender.” In Feminist Metaphysics: Explorations in the Ontology of Sex, Gender and the Self, ed. C. Witt, 47—65. Springer.
 
-Talusan, M. (November 20, 2017) “This is What Gender-Nonbinary People Look Like.” Them.
+- Talusan, M. (November 20, 2017) “This is What Gender-Nonbinary People Look Like.” Them.
 
-Tan, X. (manuscript) “Does Transness Travel? Should it? And How?”
+- Tan, X. (manuscript) “Does Transness Travel? Should it? And How?”
 
-Warren, J.C., Smalley, K.B., & Barefoot, K.N.. (2016) “Psychological Well-being Among Transgender and Genderqueer Individuals.” International Journal of Transgenderism 17(3—4): 114—123.
+- Warren, J.C., Smalley, K.B., & Barefoot, K.N.. (2016) “Psychological Well-being Among Transgender and Genderqueer Individuals.” International Journal of Transgenderism 17(3—4): 114—123.
 
-Watson, L. (2015) “What is a ‘Woman’ Anyway?” Logos Journal 14(2—3).
+- Watson, L. (2015) “What is a ‘Woman’ Anyway?” Logos Journal 14(2—3).
 
-Weiss, S. (February 15, 2018) “9 Things People Get Wrong About Being Non-Binary.” Teen Vogue.
+- Weiss, S. (February 15, 2018) “9 Things People Get Wrong About Being Non-Binary.” Teen Vogue.
 
-White, A.E., Moeller, J., Ivcevis, Z., & Brackett, M.A. (2018) “Gender Identity and Sexual Identity Labels Used by U.S. High School Students: A Co-Occurrence Network Analysis.” Psychology of Sexual Orientation and Gender Diversity 5(2): 243—252.
+- White, A.E., Moeller, J., Ivcevis, Z., & Brackett, M.A. (2018) “Gender Identity and Sexual Identity Labels Used by U.S. High School Students: A Co-Occurrence Network Analysis.” Psychology of Sexual Orientation and Gender Diversity 5(2): 243—252.
 
-Wilchins, R. (2017) Burn the Binary!: Selected Writings on the Politics of Trans, Genderqueer and Nonbinary. Riverdale Avenue Books.
+- Wilchins, R. (2017) Burn the Binary!: Selected Writings on the Politics of Trans, Genderqueer and Nonbinary. Riverdale Avenue Books.
 
-Witt, C. (2011). The Metaphysics of Gender. Oxford University Press.
+- Witt, C. (2011). The Metaphysics of Gender. Oxford University Press.
 
-Wittig, M. (1992) “The Straight Mind.” In Out There: Marginalization and Contemporary Cultures, eds. R. Ferguson, M. Gever, T.T. Minh-ha, C. West, 51—58. The MIT Press.
+- Wittig, M. (1992) “The Straight Mind.” In Out There: Marginalization and Contemporary Cultures, eds. R. Ferguson, M. Gever, T.T. Minh-ha, C. West, 51—58. The MIT Press.
 
-1 许多文化并没有占主导地位的二元性别系统，如印度尼西亚的布吉人（Bugis）和美洲原住民的大平原部落（Native American Great Plains tribes）。
+## 六. 笔记
 
-2 支持这一说法的经验式证据可见怀特等人（2018年，244页）【White et al. (2018, 244)】。
+1. 许多文化并没有占主导地位的二元性别系统，如印度尼西亚的布吉人（Bugis）和美洲原住民的大平原部落（Native American Great Plains tribes）。
 
-3 数据来源：谷歌趋势（www.google.com/trends）。
+2. 支持这一说法的经验式证据可见怀特等人（2018年，244页）【White et al. (2018, 244)】。
 
-4 中文暂无合适译法，尽管“他”确实有包含各种性别的含义但是现在这个字符的文化意义早是霸权式的“男性”。——译者注
+3. 数据来源：谷歌趋势（www.google.com/trends）。
 
-5 “性别酷儿” & “非二元”（2018年），索佩尔萨（2017年），帕皮索瓦（2016年），格林伯格（2017年）【“genderqueer” & “nonbinary” (2018), Sopelsa (2017), Papisova (2016), Greenberg (2017)】。
+4. 中文暂无合适译法，尽管“他”确实有包含各种性别的含义但是现在这个字符的文化意义早是霸权式的“男性”。——译者注
 
-6 截至本文撰写之时，已有十六个州提供了非二元性别标记，另外还有纽约市和哥伦比亚特区。
+5. “性别酷儿” & “非二元”（2018年），索佩尔萨（2017年），帕皮索瓦（2016年），格林伯格（2017年）【“genderqueer” & “nonbinary” (2018), Sopelsa (2017), Papisova (2016), Greenberg (2017)】。
 
-7 引用斯坦梅茨（2017年）【Steinmetz (2017)】。
+6. 截至本文撰写之时，已有十六个州提供了非二元性别标记，另外还有纽约市和哥伦比亚特区。
 
-8 见，例如，哈斯兰格（2012年），詹金斯（2016年），斯文斯多蒂尔（2011年）和巴恩斯（即将出版）。即使是那些标榜包含跨儿（trans）的性别讨论，也通常忽略了性别酷儿身份潜在的经验和概念。例如，贝彻尔（2009年，2013年），詹金斯（2016年），布里格斯和乔治（2016年）和麦特里克（2015年）。这一点尤为突出，鉴于2015年的美国跨性别调查（United States Transgender Survey）中有百分之二十九的受访者自我认同为性别酷儿。可见詹姆斯等人（2016年，44页）。在这种疏忽中，哲学并不是唯一的。可见萨拉蒙（2010年，95页）对女性研究的类似批评。【英文名依次为 Haslanger, Jenkins, Sveinsdottír, Barnes, Bettcher, Jenkins, Briggs & George, McKitrick, James et al., Salamon】。
+7. 引用斯坦梅茨（2017年）【Steinmetz (2017)】。
 
-9 尽管登布罗夫和沃达克（2018年）【Dembroff & Wodak (2018)】。和登布罗夫（2018年）【Dembroff (2018)】为例外。请注意，在本文中，我用斜体来标记社会种类，用单引号来标记术语，例如，_genderqueer_ 和 ‘genderqueer’。——作者注
+8. 见，例如，哈斯兰格（2012年），詹金斯（2016年），斯文斯多蒂尔（2011年）和巴恩斯（即将出版）。即使是那些标榜包含跨儿（trans）的性别讨论，也通常忽略了性别酷儿身份潜在的经验和概念。例如，贝彻尔（2009年，2013年），詹金斯（2016年），布里格斯和乔治（2016年）和麦特里克（2015年）。这一点尤为突出，鉴于2015年的美国跨性别调查（United States Transgender Survey）中有百分之二十九的受访者自我认同为性别酷儿。可见詹姆斯等人（2016年，44页）。在这种疏忽中，哲学并不是唯一的。可见萨拉蒙（2010年，95页）对女性研究的类似批评。【英文名依次为 Haslanger, Jenkins, Sveinsdottír, Barnes, Bettcher, Jenkins, Briggs & George, McKitrick, James et al., Salamon】。
+
+9. 尽管登布罗夫和沃达克（2018年）【Dembroff & Wodak (2018)】。和登布罗夫（2018年）【Dembroff (2018)】为例外。请注意，在本文中，我用斜体来标记社会种类，用单引号来标记术语，例如，_genderqueer_ 和 ‘genderqueer’。——作者注
 
 本文的翻译将会才采用加粗字体来代表原文中的斜体（社会种类），如，**性别酷儿** 对应 _genderqueer_；原文加粗的字体则会采用加粗加下划线的形式，如，**二元论轴心** 对应 **Bianry Axis**；其余标点符号的使用将跟随原文（作为术语使用），如，‘性别酷儿’ 对应 ‘genderqueer’；另外，【 】内容为译者加注。——译者注
 
-10 正如弗里克（2007年, 1页）【Fricker (2007, 1)】所定义的，解释学上的不公正（Hermeneutical injustice）发生在“当集体解释资源的差距使某人在理解其社会经验时处于不公平的劣势时”。梅迪纳（2012年）和阿皮亚（1994年）【Medina (2012) and Appiah (1994)】探讨了更多关于解释学上的不公正的扩展概念，其中包括关于一个被压迫群体的集体解释资源的空白使该被压迫群体的社会劣势永久化的情况（如，白人无知（white ignorance）【所造成的】）。我认为关于非二元种类的空白问题在这两方面都有体现。
+10. 正如弗里克（2007年, 1页）【Fricker (2007, 1)】所定义的，解释学上的不公正（Hermeneutical injustice）发生在“当集体解释资源的差距使某人在理解其社会经验时处于不公平的劣势时”。梅迪纳（2012年）和阿皮亚（1994年）【Medina (2012) and Appiah (1994)】探讨了更多关于解释学上的不公正的扩展概念，其中包括关于一个被压迫群体的集体解释资源的空白使该被压迫群体的社会劣势永久化的情况（如，白人无知（white ignorance）【所造成的】）。我认为关于非二元种类的空白问题在这两方面都有体现。
 
-11用弗雷泽（1998年）【Fraser (1998)】的解释（account），这可以理解为获得参与式平等，或在社会和政治环境中作为同伴与TA人（others）互动所需的条件。
+11. 用弗雷泽（1998年）【Fraser (1998)】的解释（account），这可以理解为获得参与式平等，或在社会和政治环境中作为同伴与TA人（others）互动所需的条件。
 
-12 我特意使用‘模型’这个词。如保罗（2012年）【Paul (2012)】，我赞同一种形而上学的方法，专注于为特定的解释目的建立理论模型，而不是构建（真实的）定义。
+12. 我特意使用‘模型’这个词。如保罗（2012年）【Paul (2012)】，我赞同一种形而上学的方法，专注于为特定的解释目的建立理论模型，而不是构建（真实的）定义。
 
-13 见莱姆丝等人（2019年）、加卢波等人（2018年，5页）、布拉德福德等人（2018年，8页）和沃伦等人（2016年）。按照海耶斯（2003年），参看史赛克（1994年），我用‘跨儿（trans）’一词来指代“被实践者们视为重要的生命计划（life projects）的多种形式的性（sex）以及性别（gender）的跨越和混合”。我用‘跨二元（trans binary）’来指代那些身份认同只处于（identify exclusively within）男性/女性（male/female）二元的跨儿。【英文名依次为 Rimes et al. (2019), Galupo et al. (2018, 5), Bradford et al. (2018, 8), and Warren et al. (2016)；Heyes (2003), cf. Stryker (1994)】。
+13. 见莱姆丝等人（2019年）、加卢波等人（2018年，5页）、布拉德福德等人（2018年，8页）和沃伦等人（2016年）。按照海耶斯（2003年），参看史赛克（1994年），我用‘跨儿（trans）’一词来指代“被实践者们视为重要的生命计划（life projects）的多种形式的性（sex）以及性别（gender）的跨越和混合”。我用‘跨二元（trans binary）’来指代那些身份认同只处于（identify exclusively within）男性/女性（male/female）二元的跨儿。【英文名依次为 Rimes et al. (2019), Galupo et al. (2018, 5), Bradford et al. (2018, 8), and Warren et al. (2016)；Heyes (2003), cf. Stryker (1994)】。
 
-14 威尔钦斯（2017年，80页）【Wilchins (2017, 80)】。
+14. 威尔钦斯（2017年，80页）【Wilchins (2017, 80)】。
 
-15 出处同上（Ibid.）。
+15. 出处同上（Ibid.）。
 
-16 在此，我同情库萨里克（2010年, 56页）【Kusalik（2010, 56)】对“性别酷儿”的语义学缺乏“迷恋”（fascination）。也就是说，我也同意科恩（2005年, 34页）【Cohen (2005, 34)】的观点，即社会身份“对一个人的生存很重要”，并且认为基于这个原因，提供与特定身份标签相关的群体的实质性模型（substantive models）是很重要的。
+16. 在此，我同情库萨里克（2010年, 56页）【Kusalik（2010, 56)】对“性别酷儿”的语义学缺乏“迷恋”（fascination）。也就是说，我也同意科恩（2005年, 34页）【Cohen (2005, 34)】的观点，即社会身份“对一个人的生存很重要”，并且认为基于这个原因，提供与特定身份标签相关的群体的实质性模型（substantive models）是很重要的。
 
-17 常见的翻译为“双性同体的”、“中性化的”、“非男非女的”、“雌雄同体的”，这里偏向使用“性别气质不明显”这一稍微冗长的译法，而前文中的“androgyny”为了“nonbinary”对应，译为双性同体，之后几处会以“双性同体的性别气质不明显的”作为翻译，有些地方只用“双性同体（的）”的译法；另外，纯粹生物意义上“性（sex）”更加不是二元的也不能被简化成外生殖器二元，这点读者可参考 Anne Fausto-Sterling，Iain Morland，Claire Ainsworth 等人或《自然》等科研期刊。——译者注
+17. 常见的翻译为“双性同体的”、“中性化的”、“非男非女的”、“雌雄同体的”，这里偏向使用“性别气质不明显”这一稍微冗长的译法，而前文中的“androgyny”为了“nonbinary”对应，译为双性同体，之后几处会以“双性同体的性别气质不明显的”作为翻译，有些地方只用“双性同体（的）”的译法；另外，纯粹生物意义上“性（sex）”更加不是二元的也不能被简化成外生殖器二元，这点读者可参考 Anne Fausto-Sterling，Iain Morland，Claire Ainsworth 等人或《自然》等科研期刊。——译者注
 
-18 我在此将重点放在建构主义对性别的解释上，而非生物本质主义。即使一个人是生物本质论者，但，很明显这种方法也不足以分析**性别酷儿**。虽然有些间性人（intersex）是性别酷儿，但作为间性人既不是作为性别酷儿的充分条件也不是必要条件。见，例如，魏斯（2018年）【Weiss (2018)】。 
+18. 我在此将重点放在建构主义对性别的解释上，而非生物本质主义。即使一个人是生物本质论者，但，很明显这种方法也不足以分析**性别酷儿**。虽然有些间性人（intersex）是性别酷儿，但作为间性人既不是作为性别酷儿的充分条件也不是必要条件。见，例如，魏斯（2018年）【Weiss (2018)】。 
 
-19 正如巴恩斯（即将出版）【Barnes (forthcoming)】所指出的那样，虽然这些是主要的方法，但有些理论不属于这个分类法的范畴，如斯托利亚尔（2011年），布里格斯和乔治（2016年)，和巴赫（2012年）【Stoljar (2011), Briggs & George (2016), and Bach (2012)】。
+19. 正如巴恩斯（即将出版）【Barnes (forthcoming)】所指出的那样，虽然这些是主要的方法，但有些理论不属于这个分类法的范畴，如斯托利亚尔（2011年），布里格斯和乔治（2016年)，和巴赫（2012年）【Stoljar (2011), Briggs & George (2016), and Bach (2012)】。
 
-20 西奥多·巴赫（2012年）【Theodore Bach (2012)】为一种性别观辩护，认为性别是“具有历史本质的自然种类”——这种观点很难被置于外在论/内在论分类学中。在巴赫看来，作为，例如，一个女人，就是被有意识和无意识的社会机制所塑造成为女人的历史范例（exemplars）的再生产，从而发挥（perform）与女人相对应的社会功能。那么，在巴赫的观点中，某个人可能是跨男（trans man）然而——根据巴赫的分析——却被“建构为一个女人（a woman）”（260页）。此外，鉴于男人和女人是一个人可以被社会化的唯一种类（在西方文化中），所有的性别酷儿者们（被社会化为女人或男人）都不会在巴赫的分析中得到体现。
+20. 西奥多·巴赫（2012年）【Theodore Bach (2012)】为一种性别观辩护，认为性别是“具有历史本质的自然种类”——这种观点很难被置于外在论/内在论分类学中。在巴赫看来，作为，例如，一个女人，就是被有意识和无意识的社会机制所塑造成为女人的历史范例（exemplars）的再生产，从而发挥（perform）与女人相对应的社会功能。那么，在巴赫的观点中，某个人可能是跨男（trans man）然而——根据巴赫的分析——却被“建构为一个女人（a woman）”（260页）。此外，鉴于男人和女人是一个人可以被社会化的唯一种类（在西方文化中），所有的性别酷儿者们（被社会化为女人或男人）都不会在巴赫的分析中得到体现。
 
-21 我在这里标记了一个观察，在大多数关于性别的哲学理论中，一个关于种类构成的问题（例如，什么构成了**女人**种类和**男人**种类？）被假定紧缩为一个关于成员条件的问题（例如，什么是**女人**种类和**男人**种类的成员条件？）。正如我在第四节中所讨论的，我认为这种假定是错误的。
+21. 我在这里标记了一个观察，在大多数关于性别的哲学理论中，一个关于种类构成的问题（例如，什么构成了**女人**种类和**男人**种类？）被假定紧缩为一个关于成员条件的问题（例如，什么是**女人**种类和**男人**种类的成员条件？）。正如我在第四节中所讨论的，我认为这种假定是错误的。
 
-22 见克莱门特（2017年）【Clement (2017)】和维基百科上的“性别酷儿”词条。
+22. 见克莱门特（2017年）【Clement (2017)】和维基百科上的“性别酷儿”词条。
 
-23 见，如，道林（2017年），弗格森（2017年），和彼得罗（2016年）【Dowling (2017), Ferguson (2017), and Petrow (2016)】。
+23. 见，如，道林（2017年），弗格森（2017年），和彼得罗（2016年）【Dowling (2017), Ferguson (2017), and Petrow (2016)】。
 
-24 见照片墙（Instagram）上的标签“这就是非二元的样子（#thisiswhatnblookslike）”。
+24. 见照片墙（Instagram）上的标签“这就是非二元的样子（#thisiswhatnblookslike）”。
 
-25 关于跨儿身份认同（trans identiﬁcations）与违反异性恋霸权常态的（heteronormative）性别期望和角色之间的联系的更多证据，见戴蒙德和巴特沃斯（2008年）和格林（2004年）【Diamond & Butterworth (2008) and Green (2004)】。另见Nagoshi 等人（2012年，405页），在该研究中，参与者们将TA们的（their）性取向与TA们的性别认同“动态式地相关联（dynamically related）”，这表明，对这些人来说，作为非二元往往排除了作为‘直人’或‘同性恋’。
+25. 关于跨儿身份认同（trans identiﬁcations）与违反异性恋霸权常态的（heteronormative）性别期望和角色之间的联系的更多证据，见戴蒙德和巴特沃斯（2008年）和格林（2004年）【Diamond & Butterworth (2008) and Green (2004)】。另见Nagoshi 等人（2012年，405页），在该研究中，参与者们将TA们的（their）性取向与TA们的性别认同“动态式地相关联（dynamically related）”，这表明，对这些人来说，作为非二元往往排除了作为‘直人’或‘同性恋’。
 
-26 这些描述与巴恩斯（即将出版）【Barnes (forthcoming) 】对 ‘性别局外者（gender outlier）’和 ‘性别混淆者（gender confounder）’的描述有相似之处。巴恩斯（Barnes）赞同萨利·哈斯兰格（Sally Haslanger） （2012年）的观点——性别是一个等级制度，根据人们的被认为的特征（perceived features）以不同的方式对人们进行社会定位，巴恩斯将性别局外者和混淆者描述为那些由于被（分别）认为是试图在二元性别角色之间转换的或是双性同体的（androgynous）从而系统性地（systematically）处于从属地位的人。
+26. 这些描述与巴恩斯（即将出版）【Barnes (forthcoming) 】对 ‘性别局外者（gender outlier）’和 ‘性别混淆者（gender confounder）’的描述有相似之处。巴恩斯（Barnes）赞同萨利·哈斯兰格（Sally Haslanger） （2012年）的观点——性别是一个等级制度，根据人们的被认为的特征（perceived features）以不同的方式对人们进行社会定位，巴恩斯将性别局外者和混淆者描述为那些由于被（分别）认为是试图在二元性别角色之间转换的或是双性同体的（androgynous）从而系统性地（systematically）处于从属地位的人。
 
-27 塔鲁桑（2017年）【Talusan (2017)】，着重点为【原作者】所加（emphasis added）。
+27. 塔鲁桑（2017年）【Talusan (2017)】，着重点为【原作者】所加（emphasis added）。
 
-28 塔鲁桑（2017年）【Talusan (2017)】，魏斯（2018年）【Weiss (2018)】。
+28. 塔鲁桑（2017年）【Talusan (2017)】，魏斯（2018年）【Weiss (2018)】。
 
-29 魏斯（2018年）【Weiss (2018)】。
+29. 魏斯（2018年）【Weiss (2018)】。
 
-30 实证讨论见布拉德福德等人（2018年）【Bradford, et al. (2018)】。
+30. 实证讨论见布拉德福德等人（2018年）【Bradford, et al. (2018)】。
 
-31  “Butch”这一词实际上承载的不只是女同性恋（单偶、多偶或其它）关系中较男性化者，更有着女性式男性气质（female masculinity） 的意义。——译者注
+31.  “Butch”这一词实际上承载的不只是女同性恋（单偶、多偶或其它）关系中较男性化者，更有着女性式男性气质（female masculinity） 的意义。——译者注
 
-32 沃森（2015年）【Watson (2015)】。
+32. 沃森（2015年）【Watson (2015)】。
 
-33 一个更进一步的规范式的担忧尤其出现在性别酷儿的双性同体性别气质不明显（androgyny）方面：对于许多身体尺寸和形态，双性同体性别气质不明显（androgyny）即使不是不可能，也是很难达得的。处于这种地位的人们将被直白地禁止通达（access to）**性别酷儿**。
+33. 一个更进一步的规范式的担忧尤其出现在性别酷儿的双性同体性别气质不明显（androgyny）方面：对于许多身体尺寸和形态，双性同体性别气质不明显（androgyny）即使不是不可能，也是很难达得的。处于这种地位的人们将被直白地禁止通达（access to）**性别酷儿**。
 
-34 例如，见魏斯（2018年）【Weiss (2018)】，其写道，对TA来说，成为性别酷儿意味着“拒绝整个关于性别的概念”。
+34. 例如，见魏斯（2018年）【Weiss (2018)】，其写道，对TA来说，成为性别酷儿意味着“拒绝整个关于性别的概念”。
 
-35 例如，魏斯（2018年）【Weiss (2018)】引用凯利·坎特雷尔（Kelley Cantrell）的话说：“我希望人们不会因为我如何呈现（present）而自动使用她/她的（she/her）的代词……TA们需要停止性别化（gendering）人们的呈现方式（presentation）。”正如纳奥米·舍曼（Naomi Scheman）向我指出的那样，结束基于呈现方式的性别化的抗辩呼吁（plea）是重要的，因为它揭示了一种政治立场——无论是否有意——对每个人的性别都有影响（implications）。
+35. 例如，魏斯（2018年）【Weiss (2018)】引用凯利·坎特雷尔（Kelley Cantrell）的话说：“我希望人们不会因为我如何呈现（present）而自动使用她/她的（she/her）的代词……TA们需要停止性别化（gendering）人们的呈现方式（presentation）。”正如纳奥米·舍曼（Naomi Scheman）向我指出的那样，结束基于呈现方式的性别化的抗辩呼吁（plea）是重要的，因为它揭示了一种政治立场——无论是否有意——对每个人的性别都有影响（implications）。
 
-36 海塞（2014年）【Hesse (2014)】, 强调为我所加。
+36. 海塞（2014年）【Hesse (2014)】, 强调为我所加。
 
-37 另见豪厄尔（2018年）【Howell (2018)】的视频“性别既可以是解放的同时也可以是窒息的”（Gender Can Both Be Liberating And Stiﬂing At The Meanwhile），其中一位受访者评论道：“仅仅因为我涂上了口红，并不意味着我是一种东西或另一种东西，因为有人决定一块颜料‘属于’一种性别。”
+37. 另见豪厄尔（2018年）【Howell (2018)】的视频“性别既可以是解放的同时也可以是窒息的”（Gender Can Both Be Liberating And Stiﬂing At The Meanwhile），其中一位受访者评论道：“仅仅因为我涂上了口红，并不意味着我是一种东西或另一种东西，因为有人决定一块颜料‘属于’一种性别。”
 
-38 “性别身份”的语言作为一个人的性别的决定因素（determiner）——尤其是性别酷儿，在跨儿友好的语境中是普遍的（standard）。见魏斯（2018年）【Weiss, (2018)】和塔鲁桑（2017年）【Talusan (2017)】，以及诸如 [http://genderqueer.me](http://genderqueer.me) 或者 [http://beyondthebinary.co.uk](http://beyondthebinary.co.uk) 这样的性别酷儿网络平台。
+38. “性别身份”的语言作为一个人的性别的决定因素（determiner）——尤其是性别酷儿，在跨儿友好的语境中是普遍的（standard）。见魏斯（2018年）【Weiss, (2018)】和塔鲁桑（2017年）【Talusan (2017)】，以及诸如 [http://genderqueer.me](http://genderqueer.me) 或者 [http://beyondthebinary.co.uk](http://beyondthebinary.co.uk) 这样的性别酷儿网络平台。
 
-39 詹金斯（2018年，714页）【Jenkins (2018, 714)】。
+39. 詹金斯（2018年，714页）【Jenkins (2018, 714)】。
 
-40 在贝彻尔（2009年，2013年）【Bettcher (2009, 2013)】看来，一个人的性别是基于存在主义式的（existential）自我认同（self-identiﬁcation），我理解为基于一个人“认为自己是谁，真的是谁（takes themself to be, really）”，并与一个人的“行为原因（reasons for acting）”紧密相连。根据对贝彻尔（Bettcher）观点的解释，它要么是在应用于**性别酷儿**时遇到了许多同样的我对麦特里克（2015年）（McKitrick, 2015）和 詹金斯（2016年）（Jenkins, 2016）的解释（account）所提出的担忧，要么是一种与我在第四节中提出的积极性解释相关联的观点，但更多的是个人主义的且不那么政治性的。
+40. 在贝彻尔（2009年，2013年）【Bettcher (2009, 2013)】看来，一个人的性别是基于存在主义式的（existential）自我认同（self-identiﬁcation），我理解为基于一个人“认为自己是谁，真的是谁（takes themself to be, really）”，并与一个人的“行为原因（reasons for acting）”紧密相连。根据对贝彻尔（Bettcher）观点的解释，它要么是在应用于**性别酷儿**时遇到了许多同样的我对麦特里克（2015年）（McKitrick, 2015）和 詹金斯（2016年）（Jenkins, 2016）的解释（account）所提出的担忧，要么是一种与我在第四节中提出的积极性解释相关联的观点，但更多的是个人主义的且不那么政治性的。
 
-41 见，例如，麦特里克（2015年，2580页）【McKitrick (2015，2580)】对本质主义担忧的明确拒绝。
+41. 见，例如，麦特里克（2015年，2580页）【McKitrick (2015，2580)】对本质主义担忧的明确拒绝。
 
-42 这个概念的精确表述如下：“x 是性别 G 当且仅当 x 有（足够多，足够强）的倾向 D1…Dn 在 S1…Sn 的情况下以 B1…Bn 的方式表现（behave），并且相关的社会群体认为在 S1…Sn 的情况下以 B1…Bn 的方式表现是 G”。（麦特里克 2015年，2581页）【McKitrick (2015, 2581)】。
+42. 这个概念的精确表述如下：“x 是性别 G 当且仅当 x 有（足够多，足够强）的倾向 D1…Dn 在 S1…Sn 的情况下以 B1…Bn 的方式表现（behave），并且相关的社会群体认为在 S1…Sn 的情况下以 B1…Bn 的方式表现是 G”。（麦特里克 2015年，2581页）【McKitrick (2015, 2581)】。
 
-43 詹金斯（2018年）【Jenkins (2018)】。
+43. 詹金斯（2018年）【Jenkins (2018)】。
 
-44 詹金斯（2016年，413页）【Jenkins (2016, 413)】。
+44. 詹金斯（2016年，413页）【Jenkins (2016, 413)】。
 
-45 詹金斯（2016年，412页）【Jenkins (2016, 412)】。詹金斯（Jenkins）在这里跟随哈斯兰格（Haslanger），从外在论的解释（account）理解性别群体。
+45. 詹金斯（2016年，412页）【Jenkins (2016, 412)】。詹金斯（Jenkins）在这里跟随哈斯兰格（Haslanger），从外在论的解释（account）理解性别群体。
 
-46 詹金斯（Jenkins）使用的是‘非二元（nonbinary）’这一术语，而不是性别酷儿，并将这一观点更正式地表述为：“S 有非二元的性别身份，当且仅当 S 的内部‘地图（map）’的形成既不是为了指导（guide）被标记为女人的人了解在该语境下作为一个类别（class）的女性所特有的社会或物质现实，也不是为了指导被归类为男人的人了解在该语境下作为一个类别的男性所特有的社会或物质现实。”（詹金斯 2016年，411页，注脚40）【Jenkins 2016, 411, fn 40】。另见詹金斯（2018年）（Jenkins, 2018）。
+46. 詹金斯（Jenkins）使用的是‘非二元（nonbinary）’这一术语，而不是性别酷儿，并将这一观点更正式地表述为：“S 有非二元的性别身份，当且仅当 S 的内部‘地图（map）’的形成既不是为了指导（guide）被标记为女人的人了解在该语境下作为一个类别（class）的女性所特有的社会或物质现实，也不是为了指导被归类为男人的人了解在该语境下作为一个类别的男性所特有的社会或物质现实。”（詹金斯 2016年，411页，注脚40）【Jenkins 2016, 411, fn 40】。另见詹金斯（2018年）（Jenkins, 2018）。
 
-47 詹金斯（2018年）【Jenkins (2018)】。强调为原文。
+47. 詹金斯（2018年）【Jenkins (2018)】。强调为原文。
 
-48 詹金斯（Jenkins）认为，出于这个原因，在特定的（given）语境下，某人可能拥有不止一种性别身份。
+48. 詹金斯（Jenkins）认为，出于这个原因，在特定的（given）语境下，某人可能拥有不止一种性别身份。
 
-49 安德勒（2017年）【Andler (2017)】对詹金斯（Jenkins）关于性别身份的解释（account）提出了类似的担忧。
+49. 安德勒（2017年）【Andler (2017)】对詹金斯（Jenkins）关于性别身份的解释（account）提出了类似的担忧。
 
-50 魏斯（2018年）【Weiss, (2018)】
+50. 魏斯（2018年）【Weiss, (2018)】
 
-51 出处同上（Ibid.）。
+51. 出处同上（Ibid.）。
 
-52 佩妮（2015年）【Penny (2015)】。
+52. 佩妮（2015年）【Penny (2015)】。
 
-53 回想一下詹金斯（2018年，729页）【Jenkins (2018, 729)】的观点，一个非二元者会独特地感受到有性别标记（gender-marked）的厕所是“充满压力和危险的不舒服的地方”。注意，这同样适用于一个性别不遵从的（gender nonconforming）女人或男人，一个双性同体的性别特征不明显的（androgynous）女人或男人，或者甚至是一个不喜欢待在有性别标记的空间里的性别遵从的（gender conforming）女人或男人。
+53. 回想一下詹金斯（2018年，729页）【Jenkins (2018, 729)】的观点，一个非二元者会独特地感受到有性别标记（gender-marked）的厕所是“充满压力和危险的不舒服的地方”。注意，这同样适用于一个性别不遵从的（gender nonconforming）女人或男人，一个双性同体的性别特征不明显的（androgynous）女人或男人，或者甚至是一个不喜欢待在有性别标记的空间里的性别遵从的（gender conforming）女人或男人。
 
-54 加卢波等人（2018年）【Galupo, et al (2018)】参与者们偏好的性别标签在括号内。
+54. 加卢波等人（2018年）【Galupo, et al (2018)】参与者们偏好的性别标签在括号内。
 
-55 出处同上，18页（Ibid., 18）。
+55. 出处同上，18页（Ibid., 18）。
 
-56 出处同上（Ibid.）。
+56. 出处同上（Ibid.）。
 
-57 这个提议是对麦特里克（2015年）【McKitrick (2015)】的改编， 麦特里克（McKitrick）并不强调跨儿友好（trans-friendly）语境也不讨论性别酷儿者们。如果不强调这一点，出于希望明确的原因，该提案将更加偏离目标：在占据统治地位的语境中，**没有**任何行为会将某人标记为性别酷儿，因为这一范畴（category）在那些语境中是不被承认的。
+57. 这个提议是对麦特里克（2015年）【McKitrick (2015)】的改编， 麦特里克（McKitrick）并不强调跨儿友好（trans-friendly）语境也不讨论性别酷儿者们。如果不强调这一点，出于希望明确的原因，该提案将更加偏离目标：在占据统治地位的语境中，**没有**任何行为会将某人标记为性别酷儿，因为这一范畴（category）在那些语境中是不被承认的。
 
-58 麦特里克（2015年，2581页）【McKitrick (2015，2581)】。
+58. 麦特里克（2015年，2581页）【McKitrick (2015，2581)】。
 
-59 虽然不是以倾向性为设定框架（framed dispositionally），但瑞琪·威尔钦斯（2017年，101）【Riki Wilchins (2017, 101)】也提出了类似的想法：“对于非二元者来说，说自己是‘非二元’的身份认同行为...是身份的核心”。
+59. 虽然不是以倾向性为设定框架（framed dispositionally），但瑞琪·威尔钦斯（2017年，101）【Riki Wilchins (2017, 101)】也提出了类似的想法：“对于非二元者来说，说自己是‘非二元’的身份认同行为...是身份的核心”。
 
-60 这些主张（assertion）还可以通过很多方式出现，包括书写、手语等等。许多非二元年轻人依赖社交媒体，如推特（Twitter）、脸书（Facebook）或油管（YouTube）来传达TA们的性别身份认同（gender identiﬁcation）。见辛格（2013年，698页）【Singh (2013, 698)】。
+60. 这些主张（assertion）还可以通过很多方式出现，包括书写、手语等等。许多非二元年轻人依赖社交媒体，如推特（Twitter）、脸书（Facebook）或油管（YouTube）来传达TA们的性别身份认同（gender identiﬁcation）。见辛格（2013年，698页）【Singh (2013, 698)】。
 
-61 同样的观点也适用于社会成本很低的情况，但在去除所有成本后就更明显了。
+61. 同样的观点也适用于社会成本很低的情况，但在去除所有成本后就更明显了。
 
-62 在这里我不同意霍尔珀林（1995年，62页）【Halperin (1995, 62)】的观点，其认为虽然像‘酷儿’这样的身份在异性恋霸权常态（heteronormativity）之外创造了团结，但它必须是“没有本质的身份”。意识形态不稳定化（ideological destabilization）的集体作用可以（但不需要）为这些身份提供一种本质。
+62. 在这里我不同意霍尔珀林（1995年，62页）【Halperin (1995, 62)】的观点，其认为虽然像‘酷儿’这样的身份在异性恋霸权常态（heteronormativity）之外创造了团结，但它必须是“没有本质的身份”。意识形态不稳定化（ideological destabilization）的集体作用可以（但不需要）为这些身份提供一种本质。
 
-63 这类更普遍的假设经常在更广泛的形而上学中出现。例如，关于人或因果律（causation）的形而上解释（mataphysical account）通常只提供一个关于某物成为一个人的实例（instance）或因果律的实例所需要的解释。在此，我保留对这类假设在其它形而上学领域的优点的判断。
+63. 这类更普遍的假设经常在更广泛的形而上学中出现。例如，关于人或因果律（causation）的形而上解释（mataphysical account）通常只提供一个关于某物成为一个人的实例（instance）或因果律的实例所需要的解释。在此，我保留对这类假设在其它形而上学领域的优点的判断。
 
-64 见，例如，爱泼斯坦（2009年）【Epstein (2009)】和哈斯兰格（2016年）【Haslanger (2016)】。
+64. 见，例如，爱泼斯坦（2009年）【Epstein (2009)】和哈斯兰格（2016年）【Haslanger (2016)】。
 
-65 我所说的‘社会’，大致上是指拥有共同的信念、概念和态度的集群（shared clusters of beliefs, concepts, and attitudes）——其形成了具体的社会实践和社会结构——的人们的共同体（communities）。这些集群促进了社会互动；它们使“阐释和组织信息并协调行动、思想和情感”成为可能（哈斯兰格 2016年，126页）【(Haslanger 2016, 126)】。它们也可以被个体化（individuated）且伴随或多或少的细微调整。我所说的‘占主导地位的性别意识形态’指的是在一个社会中拥有最大社会力量的对于性别的信念、概念和态度，并将（通常是不加思索地）它们共同的认知的、概念的和情感的系统强加给不那么强大的社群（communities）。
+65. 我所说的‘社会’，大致上是指拥有共同的信念、概念和态度的集群（shared clusters of beliefs, concepts, and attitudes）——其形成了具体的社会实践和社会结构——的人们的共同体（communities）。这些集群促进了社会互动；它们使“阐释和组织信息并协调行动、思想和情感”成为可能（哈斯兰格 2016年，126页）【(Haslanger 2016, 126)】。它们也可以被个体化（individuated）且伴随或多或少的细微调整。我所说的‘占主导地位的性别意识形态’指的是在一个社会中拥有最大社会力量的对于性别的信念、概念和态度，并将（通常是不加思索地）它们共同的认知的、概念的和情感的系统强加给不那么强大的社群（communities）。
 
-66 关于这一点的进一步论证可见登布罗夫和沃达克（2018年）【Dembroff & Wodak (2018)】。
+66. 关于这一点的进一步论证可见登布罗夫和沃达克（2018年）【Dembroff & Wodak (2018)】。
 
-67 当然，这与观察到的是一致的，许多这个种类的成员由于感受到的或渴望的具现或角色，也参与了存在性动摇。然而，我在此认真对待许多性别酷儿者们提出的主张——即不存在属于**性别酷儿**的特定具现或社会角色。
+67. 当然，这与观察到的是一致的，许多这个种类的成员由于感受到的或渴望的具现或角色，也参与了存在性动摇。然而，我在此认真对待许多性别酷儿者们提出的主张——即不存在属于**性别酷儿**的特定具现或社会角色。
 
-68 感谢艾丽西娅·福勒（Alicia Fowler）提醒我注意宗教促动的对二元论轴心（the binary axis）的抵抗的可能性。宗教原则激起的非二元范畴诉求（category-claims）的例子是嵌套式批判性性别种类（nested critical gender kinds）的一个很好的例子。
+68. 感谢艾丽西娅·福勒（Alicia Fowler）提醒我注意宗教促动的对二元论轴心（the binary axis）的抵抗的可能性。宗教原则激起的非二元范畴诉求（category-claims）的例子是嵌套式批判性性别种类（nested critical gender kinds）的一个很好的例子。
 
-69 由于这个人的行为也可能是被她自己的性别角色在（例如）鼓励男性式男性气质（male masculinity）方面的信念所激励，她也可能因此参与了对这种观念的存在性再稳固（existential restabilizing）。
+69. 由于这个人的行为也可能是被她自己的性别角色在（例如）鼓励男性式男性气质（male masculinity）方面的信念所激励，她也可能因此参与了对这种观念的存在性再稳固（existential restabilizing）。
 
-70 在本文中，我将‘西方（Western）’作为一种不完善的简略措辞，同时也承认到这个词是有缺陷的——见，例如，阿皮亚（2016年）【Appiah (2016)】。如果读者更喜欢谈论，例如‘全球北方（the Global North）’或‘后殖民社会（postcolonial societies）’，TA们可以用TA们偏好的术语替换。
+70. 在本文中，我将‘西方（Western）’作为一种不完善的简略措辞，同时也承认到这个词是有缺陷的——见，例如，阿皮亚（2016年）【Appiah (2016)】。如果读者更喜欢谈论，例如‘全球北方（the Global North）’或‘后殖民社会（postcolonial societies）’，TA们可以用TA们偏好的术语替换。
 
-71 这幅图画描明显偏离了 Tan（目前为手稿）对“性别的后殖民理解”的描述，但灵感来源于其。
+71. 这幅图画描明显偏离了 Tan（目前为手稿）对“性别的后殖民理解”的描述，但灵感来源于其。
 
-72 二元论轴心提供了一个概念框架，约束和连结了生物轴心和目的论轴心的内容。基于这个原因，认为性别酷儿者们拒绝这一观念——即大多数人具有，比如，阴茎或阴道——是错误的：在拒绝二元论轴心时，TA们是在挑战生物轴心、目的论轴心和等级制轴心背后的概念框架。见登布罗夫（2018年）【Dembroff (2018)】。
+72. 二元论轴心提供了一个概念框架，约束和连结了生物轴心和目的论轴心的内容。基于这个原因，认为性别酷儿者们拒绝这一观念——即大多数人具有，比如，阴茎或阴道——是错误的：在拒绝二元论轴心时，TA们是在挑战生物轴心、目的论轴心和等级制轴心背后的概念框架。见登布罗夫（2018年）【Dembroff (2018)】。
 
-73 在大多数（但不是全部）情况下，生物性被理解为一个由外生殖器决定的或可被简化概括成外生殖器（external genitalia）的特征。值得注意的是，与二元论轴心相结合后，这个轴心抹去了出生时就具有违抗专有分类为男性或女性的生殖器的人【译者注：比如间性人】。这并不是我对这轴心的描述的缺点；相反，我的描述准确地刻画了导致这些人被抹除的普遍的意识形态，以及对出生时带有所谓“模糊生殖器”的儿童进行不必要的医疗干预。见，例如，切斯（1998年） 和贝彻尔（2016年）【Chase (1998) and Bettcher (2016)】。
+73. 在大多数（但不是全部）情况下，生物性被理解为一个由外生殖器决定的或可被简化概括成外生殖器（external genitalia）的特征。值得注意的是，与二元论轴心相结合后，这个轴心抹去了出生时就具有违抗专有分类为男性或女性的生殖器的人【译者注：比如间性人】。这并不是我对这轴心的描述的缺点；相反，我的描述准确地刻画了导致这些人被抹除的普遍的意识形态，以及对出生时带有所谓“模糊生殖器”的儿童进行不必要的医疗干预。见，例如，切斯（1998年） 和贝彻尔（2016年）【Chase (1998) and Bettcher (2016)】。
 
-74 首先，在这里我按照——性别在西方语境下“传统上被认为是基于一种二元论的、强制性的系统，将社会特性（social characteristics）归因于性解剖学，人类从出生起就根据外生殖器被划分为男性与女性。”——的女性主义理论但在其中做出区分 (Nagoshi 等人，2012年，407页, 引用自豪斯曼（2001年））。进一步的讨论见威特（2011年）、弗莱（1983年）和威蒂格（1992年）等很多很多人。塞拉诺（2016年，100页至113页）以“对立的性歧视（oppositional sexism）”和“传统的性歧视（traditional sexism）”为标签进一步发展了男性气质和女性气质是对立的、分等级的这一观点。其次，请注意其它交叉的社会身份——如种族、阶级、性取向和障碍（disability）——往往剥夺或阻止人们获得这些所谓的“自然”特征，使其变得是“非自然的”与贬值的。【英文名依次排列：Nagoshi et al, Hausman, Witt, Frye, Wittig, Serano】
+74. 首先，在这里我按照——性别在西方语境下“传统上被认为是基于一种二元论的、强制性的系统，将社会特性（social characteristics）归因于性解剖学，人类从出生起就根据外生殖器被划分为男性与女性。”——的女性主义理论但在其中做出区分 (Nagoshi 等人，2012年，407页, 引用自豪斯曼（2001年））。进一步的讨论见威特（2011年）、弗莱（1983年）和威蒂格（1992年）等很多很多人。塞拉诺（2016年，100页至113页）以“对立的性歧视（oppositional sexism）”和“传统的性歧视（traditional sexism）”为标签进一步发展了男性气质和女性气质是对立的、分等级的这一观点。其次，请注意其它交叉的社会身份——如种族、阶级、性取向和障碍（disability）——往往剥夺或阻止人们获得这些所谓的“自然”特征，使其变得是“非自然的”与贬值的。【英文名依次排列：Nagoshi et al, Hausman, Witt, Frye, Wittig, Serano】
 
-75 虽然动摇的各种对象是相容的，但有些群体将它们视为专有的。例如，一个反跨活动家的立场是，动摇社会轴心对于动摇生物与二元论轴心是不相容的。
+75. 虽然动摇的各种对象是相容的，但有些群体将它们视为专有的。例如，一个反跨活动家的立场是，动摇社会轴心对于动摇生物与二元论轴心是不相容的。
 
-76 例如，见芮琦（1980年）和霍伯斯坦（1998年）【Rich (1980) and Halberstam (1998)】。
+76. 例如，见芮琦（1980年）和霍伯斯坦（1998年）【Rich (1980) and Halberstam (1998)】。
 
-77 我并不是说所有的性别酷儿者们都在这个理论外表（guise）下抵抗二元论轴心。大多数情况下，TA们只是简单地拒绝——TA们必须被整齐且永久地归类为男人或女人，TA们必须遵守二元的性别分类的——这样的想法。这与我们熟悉的女性主义观点“个人的就是政治性的”相呼应：即使一个性别酷儿者没有（例如）将性别中立代词的使用概念化为在实质上是政治性的，它就是政治性的，正如使用性别特定的（gender-speciﬁc）代词也是如此。
+77. 我并不是说所有的性别酷儿者们都在这个理论外表（guise）下抵抗二元论轴心。大多数情况下，TA们只是简单地拒绝——TA们必须被整齐且永久地归类为男人或女人，TA们必须遵守二元的性别分类的——这样的想法。这与我们熟悉的女性主义观点“个人的就是政治性的”相呼应：即使一个性别酷儿者没有（例如）将性别中立代词的使用概念化为在实质上是政治性的，它就是政治性的，正如使用性别特定的（gender-speciﬁc）代词也是如此。
 
-78 与此相关的是，它表明**性别酷儿**将不会存在于一个对非二元者们极为无知以至于非二元者们不能对二元论轴心构成一种动摇威胁的世界中。正如‘只有两种性别！’已经成为右翼的战斗口号所证明的，那个【前文描述的对非二元者无知的，译者注】世界不是我们的世界。
+78. 与此相关的是，它表明**性别酷儿**将不会存在于一个对非二元者们极为无知以至于非二元者们不能对二元论轴心构成一种动摇威胁的世界中。正如‘只有两种性别！’已经成为右翼的战斗口号所证明的，那个【前文描述的对非二元者无知的，译者注】世界不是我们的世界。
 
-79 塔鲁桑（2017年）【Talusan (2017)】。
+79. 塔鲁桑（2017年）【Talusan (2017)】。
 
-80 虽然我在这里没有空间来探讨这个观点，但这观点表明，对批判性性别种类的讨论与解释学上的不公正（hermeneutical injustice）之间存在着富有成效的交集，正如弗里克（2017年）【Fricker (2007)】所描述的那样。
+80. 虽然我在这里没有空间来探讨这个观点，但这观点表明，对批判性性别种类的讨论与解释学上的不公正（hermeneutical injustice）之间存在着富有成效的交集，正如弗里克（2017年）【Fricker (2007)】所描述的那样。
 
-81 幸亏豪尔赫·梅内塞斯（Jorge Meneses）就这一点向我施加压力。
+81. 幸亏豪尔赫·梅内塞斯（Jorge Meneses）就这一点向我施加压力。
 
-82 我认为这种方法（approach）很好地符合性别酷儿无视和/或打破性别规则的共同感识。正如一位性别酷儿者在豪厄尔（2018年）【Howell (2018)】中评论道：“如果性别规则不真正存在，我就是人们会成为的样子。”
+82. 我认为这种方法（approach）很好地符合性别酷儿无视和/或打破性别规则的共同感识。正如一位性别酷儿者在豪厄尔（2018年）【Howell (2018)】中评论道：“如果性别规则不真正存在，我就是人们会成为的样子。”
 
-83 其它性别中立的语言也是如此——例如，使用‘人类’而不是‘男人’或‘女人’，使用‘养育者（parent）【也可译为“家长”，译者注】’而不是‘母亲’或‘父亲’，或者使用一个选定的、性别模糊的名字而不是自己的出生名。鉴于语言和现有概念之间的密切关系，我认为，生成性别中立的语言在服务于打破二元论轴心方面的重要性是不能低估的。见，例如，威蒂格（1992年，55页）【Wittig (1992, 55)】：“我们必须对这些关键概念，也就是对我们而言具有策略意义的概念进行政治变革。因为存在着另一种物质性的秩序，即语言的秩序，而语言是由这些策略性的概念从内部运作的。”
+83. 其它性别中立的语言也是如此——例如，使用‘人类’而不是‘男人’或‘女人’，使用‘养育者（parent）【也可译为“家长”，译者注】’而不是‘母亲’或‘父亲’，或者使用一个选定的、性别模糊的名字而不是自己的出生名。鉴于语言和现有概念之间的密切关系，我认为，生成性别中立的语言在服务于打破二元论轴心方面的重要性是不能低估的。见，例如，威蒂格（1992年，55页）【Wittig (1992, 55)】：“我们必须对这些关键概念，也就是对我们而言具有策略意义的概念进行政治变革。因为存在着另一种物质性的秩序，即语言的秩序，而语言是由这些策略性的概念从内部运作的。”
 
-84 越轨（transgressive）的性别美学是酷儿化性别（queering gender）的一种悠久传统。例如，玛乔丽·嘉伯（1992年）【Marjorie Garber (1992)】讨论了异装喜好（transvestism）认为它不仅对性别二元论，而且也对性别范畴化的稳定性都制造了危机。另见 Chan (2017年) 关于健身作为一种性别酷儿美学的讨论。
+84. 越轨（transgressive）的性别美学是酷儿化性别（queering gender）的一种悠久传统。例如，玛乔丽·嘉伯（1992年）【Marjorie Garber (1992)】讨论了异装喜好（transvestism）认为它不仅对性别二元论，而且也对性别范畴化的稳定性都制造了危机。另见 Chan (2017年) 关于健身作为一种性别酷儿美学的讨论。
 
-85 Mo，一位被指派生物性别为女性（female-assigned）的性别酷儿者，描述了这种性别酷儿性（genderqueerness）的体现（enactment）。“我对自己性别的感受并不取决于\[我是如何被察觉看待的\]”，TA说，“而是更多地取决于我对TA人的认同（包括男人和女人，以及各个跨儿者们）和我如何与我的家庭（作为丈夫和爸爸）相关联，等等。” can见 Mo 的采访（2018年）。（为了保持匿名，Mo 的姓氏被省略了）。
+85. Mo，一位被指派生物性别为女性（female-assigned）的性别酷儿者，描述了这种性别酷儿性（genderqueerness）的体现（enactment）。“我对自己性别的感受并不取决于\[我是如何被察觉看待的\]”，TA说，“而是更多地取决于我对TA人的认同（包括男人和女人，以及各个跨儿者们）和我如何与我的家庭（作为丈夫和爸爸）相关联，等等。” can见 Mo 的采访（2018年）。（为了保持匿名，Mo 的姓氏被省略了）。
 
-86 性关系的任何酷儿化通常都会受到主流文化最强烈的负面反应。根据玛瑞·戴维斯（1983年）【Murray Davis (1983)】的观点，这是因为这些性别违规（gender violations）直接对TA人根据二元论性规范（binary sexual norms）组织其生活的普遍依赖发起了挑战。引用于伯恩斯坦（1994年，72页）【Bornstein (1994, 72)】。
+86. 性关系的任何酷儿化通常都会受到主流文化最强烈的负面反应。根据玛瑞·戴维斯（1983年）【Murray Davis (1983)】的观点，这是因为这些性别违规（gender violations）直接对TA人根据二元论性规范（binary sexual norms）组织其生活的普遍依赖发起了挑战。引用于伯恩斯坦（1994年，72页）【Bornstein (1994, 72)】。
 
-87 Nagoshi 等人（2012年）提供了关于性别与性身份（gender and sexual identities）之间密切关系的定性实证数据（qualitative empirical data）。在一位性别酷儿参与者 AJ 的报告中，“我身份认同为酷儿，就像我的性身份（sexual identity）一样...我不认为真正存在二元论。所以我甚至不会说双性恋，因为这仍然承认存在一个二元论系统（binary system）。”(417页)。进一步的实证讨论，见布拉德福德等人（2018年，4页）【Bradford et al. (2018, 5)】。关于性别与性身份之间的关系的哲学讨论，也可见登布罗夫（2016年）【Dembroff, (2016)】。
+87. Nagoshi 等人（2012年）提供了关于性别与性身份（gender and sexual identities）之间密切关系的定性实证数据（qualitative empirical data）。在一位性别酷儿参与者 AJ 的报告中，“我身份认同为酷儿，就像我的性身份（sexual identity）一样...我不认为真正存在二元论。所以我甚至不会说双性恋，因为这仍然承认存在一个二元论系统（binary system）。”(417页)。进一步的实证讨论，见布拉德福德等人（2018年，4页）【Bradford et al. (2018, 5)】。关于性别与性身份之间的关系的哲学讨论，也可见登布罗夫（2016年）【Dembroff, (2016)】。
 
-88 与上述所有内容一样，空间转换也是打破二元性别规则的一种方式，也是一种流动地辨识二元性别规则的方式：“\[遍及性别规则的流动性产生了\] 一种能力，可在任何时间长度内，以任何变化，自由地、有意地成为繁多的性别中的一种或多种。性别流动性不承认性别的边界或规则”（伯恩斯坦 1994年，52页）【(Bornstein 1994, 52)】。
+88. 与上述所有内容一样，空间转换也是打破二元性别规则的一种方式，也是一种流动地辨识二元性别规则的方式：“\[遍及性别规则的流动性产生了\] 一种能力，可在任何时间长度内，以任何变化，自由地、有意地成为繁多的性别中的一种或多种。性别流动性不承认性别的边界或规则”（伯恩斯坦 1994年，52页）【(Bornstein 1994, 52)】。
 
-89 关于性别酷儿表达的各种策略的实证数据（empirical data），见理查德等人（2016年）【Richard et al. (2016)】。
+89. 关于性别酷儿表达的各种策略的实证数据（empirical data），见理查德等人（2016年）【Richard et al. (2016)】。
 
-90 在这个意义上，我的提议可能会被认为是本着巴特勒（Butler）（1990年）的‘符号互动论（symbolic interactionism）’的精神，或者这样一个观点，即一个人的性别是被创造的并通过“反射自我作为客体的影像（reﬂecting back images of the self as object）”而维持的（赫德 2002年，585页）【(Hird 2002, 585)】。
+90. 在这个意义上，我的提议可能会被认为是本着巴特勒（Butler）（1990年）的‘符号互动论（symbolic interactionism）’的精神，或者这样一个观点，即一个人的性别是被创造的并通过“反射自我作为客体的影像（reﬂecting back images of the self as object）”而维持的（赫德 2002年，585页）【(Hird 2002, 585)】。
 
-91 豪厄尔（2018年），布雷霍布（2018年）【Howell (2018), Brehob (2018)】。
+91. 豪厄尔（2018年），布雷霍布（2018年）【Howell (2018), Brehob (2018)】。
 
-92 登布罗夫和圣克罗伊（2019年）【Dembroff & Saint-Croix (2019)】将这种内化的和外化的身份之结合称为“主观能动身份（agential identity）”，或者说是自我-知觉与社会-知觉之间的桥梁（the bridge between self- and social-perception）。
+92. 登布罗夫和圣克罗伊（2019年）【Dembroff & Saint-Croix (2019)】将这种内化的和外化的身份之结合称为“主观能动身份（agential identity）”，或者说是自我-知觉与社会-知觉之间的桥梁（the bridge between self- and social-perception）。
 
-93 豪厄尔（2018年）【Howell (2018)】。
+93. 豪厄尔（2018年）【Howell (2018)】。
 
-94 见登布罗夫（即将出版）【Dembroff’s (forthcoming)】对“本体论压迫（ontological oppression）”的讨论。
+94. 见登布罗夫（即将出版）【Dembroff’s (forthcoming)】对“本体论压迫（ontological oppression）”的讨论。
 
-95 布雷霍布（2018年）【Brehob (2018)】。
+95. 布雷霍布（2018年）【Brehob (2018)】。
 
-96 威尔钦斯（2017年，102页）【Wilchins (2017, 102)】。
+96. 威尔钦斯（2017年，102页）【Wilchins (2017, 102)】。
 
-97 出处同上（Ibid.）。
+97. 出处同上（Ibid.）。
 
-98 非常感谢 Matt Andler、Elizabeth Barnes、Joanna Blake-Turner、Michael Della Rocca、Brian Earp、Alicia Fowler、Daniel Greco、Austen Hall、Katharine Jenkins、Sam Lebens、Moya Mapps、Laurie Paul、Cat Saint-Croix、Naomi Scheman、Yuan Yuan、我2018年秋季女性主义哲学课程的学生，以及在麻省理工学院（MIT）、2018年的活动 Minds of Our Own、圣安德鲁斯大学（University of St. Andrews）、塔夫茨大学（Tufts）、伊利诺大学芝加哥分校（University of Illinois at Chicago）、罗格斯大学（Rutgers）、耶鲁大学（Yale）和诺丁汉大学（University of Nottingham）的听众读者们，对本文早期版本极有帮助的反馈。
+98. 非常感谢 Matt Andler、Elizabeth Barnes、Joanna Blake-Turner、Michael Della Rocca、Brian Earp、Alicia Fowler、Daniel Greco、Austen Hall、Katharine Jenkins、Sam Lebens、Moya Mapps、Laurie Paul、Cat Saint-Croix、Naomi Scheman、Yuan Yuan、我2018年秋季女性主义哲学课程的学生，以及在麻省理工学院（MIT）、2018年的活动 Minds of Our Own、圣安德鲁斯大学（University of St. Andrews）、塔夫茨大学（Tufts）、伊利诺大学芝加哥分校（University of Illinois at Chicago）、罗格斯大学（Rutgers）、耶鲁大学（Yale）和诺丁汉大学（University of Nottingham）的听众读者们，对本文早期版本极有帮助的反馈。
