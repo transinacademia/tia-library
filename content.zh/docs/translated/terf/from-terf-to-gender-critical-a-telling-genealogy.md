@@ -1,8 +1,5 @@
 ---
-date: 2023-11-15T23:17:00-05:00
-title: 从 TERF 到性别批判：一个反映情况的系谱？ - Claire Thurlow
-type: docs
-comment: false
+title: 从 TERF 到性别批判：一个反映情况的系谱？
 ---
 
 # 从 TERF 到性别批判：一个反映情况的系谱？
