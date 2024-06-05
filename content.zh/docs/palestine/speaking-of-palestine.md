@@ -3,13 +3,13 @@ title: 讲述巴勒斯坦：团结意识以及对其的言论管控
 ---
 
 
-# Speaking of Palestine: Solidarity and Its Censors
+# 讲述巴勒斯坦：团结意识以及对其的言论管控
 
 Puar, Jasbir. “Speaking of Palestine: Solidarity and Its Censors.” _Jadaliyya_, 16 Mar. 2016, https://www.jadaliyya.com/Details/33095.
 
 ***
 
-作者：加斯比尔·普尔 (Jasbir Puar)
+作者：加斯比尔·普尔 (Jasbir Puar)<br/>
 译者：Ribs Ribs
 
 ***
