@@ -1,10 +1,10 @@
 # 跨性别软件专家对于软件工业职业生涯的建议
 
-DOI ：10.1109/MS.2023.3257743
+**Santos, Ronnie De Souza, et al. “What Do Transgender Software Professionals Say About a Career in the Software Industry?” IEEE Software, vol. 40, no. 5, Sept. 2023, pp. 34–40. DOI.org (Crossref), https://doi.org/10.1109/MS.2023.3257743.**
 
-Author：Ronnie de Souza Santos , Brody Stuart-Verner,  Cleyton Magalhães
-
-Journal：IEEE Software
+***
+作者：Ronnie de Souza Santos, Brody Stuart-Verner, Cleyton Magalhães <br/>
+译者：半生
 
 ## 导语
 
