@@ -101,7 +101,7 @@ title: 跨性别软件专家对于软件工业职业生涯的建议
 
 我们采访了三位自认是跨性别者的软件专业人士。**表1**总结了我们的样本。
 
-![](content.zh/docs/translated/tech/table1_transgender_career_software_industry.png)
+![](https://github.com/one-among-us/tia-library/blob/713ca66af70eb76aa7e0eabf01646bff9a21812c/content.zh/docs/translated/tech/table1_transgender_career_software_industry.png)
 
 在主题分析之后，我们根据跨性别软件专业人员的三个职业方面的叙述来展示我们的发现：
 
