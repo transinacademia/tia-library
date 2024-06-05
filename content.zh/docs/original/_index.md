@@ -5,4 +5,4 @@ bookCollapseSection: true
 weight: 30
 ---
 
-本板块收录了我们翻译的哲学类文章。
+本部分内容即将更新，敬请期待。
