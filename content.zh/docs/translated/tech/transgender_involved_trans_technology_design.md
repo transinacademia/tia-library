@@ -81,7 +81,7 @@ Sasha Costanza-Chockin Design Justice 描述的设计正义方法提供了一种
 
 在本文中，我们在 2021 年和 2022 年对 115 名跨性别技术创造者和设计者进行了 104 次访谈。我们使用标准抽样 [^42]，这种方法选择符合特定预定标准的参与者——在本例中，是创造者、设计者或某种类型的跨性别技术的开发商。其他入选标准包括能够说和理解英语，并且年满 18 岁。为了招募参与者，我们根据多年来对跨性别技术格局的观察，以及系统地搜索应用商店和搜索引擎中的关键术语，包括“跨性别”、“跨性别技术”和“跨性别应用”，创建了一份潜在的跨性别技术列表。 ”我们通过滚雪球抽样的方式继续扩大名单，要求受访者推荐其他跨性别技术或跨性别技术创造者。我们非常广泛地使用“技术”一词。**表 1** 列出了我们数据集中的技术类别以及每个类别的示例。我们通过电子邮件或社交媒体联系参与者，邀请他们参与研究；我们完成访谈的回复率为 43.7%。我们通过 Zoom 进行了半结构化访谈，持续约 60 分钟（平均值 = 63 分钟，标准差 = 14 分钟，范围 = 33-93 分钟）。我们向参与者询问了他们的技术构思和创造的故事、他们的设计过程和参与人员、他们面临的挑战、他们对跨性别技术的概念等等。采用半结构化形式，访谈重点关注参与者最关注的主题。参与者将获得 100 美元的礼品卡或支票作为补偿。这项研究经过密歇根大学机构审查委员会的审查并被视为豁免。
 
-![](https://github.com/one-among-us/tia-library/blob/8a8064a84b954117ebc28c4f1f5f6f031265c6f1/content.zh/docs/translated/tech/table1_transgender_involved_trans_technology_design.png)
+![](https://raw.githubusercontent.com/CascadingCascade/remote-assets-for-tia/main/How_Transgender_People_and_Communities_Were_Involved_inTrans_Technology/pic/table1.png)
 
 ### 3.2 数据分析
 
@@ -95,7 +95,7 @@ Sasha Costanza-Chockin Design Justice 描述的设计正义方法提供了一种
 
 **表 2**详细介绍了参与者的人口和地理特征。
 
-![](https://github.com/one-among-us/tia-library/blob/8a8064a84b954117ebc28c4f1f5f6f031265c6f1/content.zh/docs/translated/tech/table2_transgender_involved_trans_technology_design.png)
+![](https://raw.githubusercontent.com/CascadingCascade/remote-assets-for-tia/main/How_Transgender_People_and_Communities_Were_Involved_inTrans_Technology/pic/table2.png)
 
 ### 3.4 局限性
 
@@ -167,7 +167,7 @@ Wayne Temple是 True Self 浏览器扩展程序的创建者，该扩展程序用
 
 Transcapsule 和 TRACE 等转换跟踪应用程序使用 Testfight 收集测试版用户的反馈，Testfight 是一个测试版测试平台，使用户能够直接通过应用程序提供反馈。正式上线后，TRACE 继续通过名为 Canny 的在线平台收集用户反馈，并发布在应用程序中邀请用户提供反馈（见**图 1**）。在这些帖子中，TRACE 将自己定位为与其他应用程序不同的地方，因为他们听取了社区反馈：“别担心，我们不仅仅是‘一个应用程序’，我们是这个社区的一部分，”强调了该应用程序以社区为中心的本质这意味着以人为本的设计方法相对不常见。
 
-![](https://github.com/one-among-us/tia-library/blob/8a8064a84b954117ebc28c4f1f5f6f031265c6f1/content.zh/docs/translated/tech/figure1_transgender_involved_trans_technology_design.png)
+![](https://raw.githubusercontent.com/CascadingCascade/remote-assets-for-tia/main/How_Transgender_People_and_Communities_Were_Involved_inTrans_Technology/pic/figure1.png)
 
 在开发 Pryde 语音和言语治疗应用程序之前，创建者 Erin Gitelis 收集了其他现有语音应用程序用户的反馈，以确定如何设计她的应用程序：“所以我通读了这些评论，了解人们不喜欢的内容，然后尝试去除这些内容；以及他们想要更多的内容，并尝试在我的内容中添加更多内容”。我们发现**阅读现有技术的用户评论**是一种收集用户反馈的创造性方法，我们预计这些反馈会在更多采访中出现，但令人惊讶的是 Gitelis 是唯一提到这种技术的人。
 
@@ -187,7 +187,7 @@ Transcapsule 和 TRACE 等转换跟踪应用程序使用 Testfight 收集测试�
 
 一些跨性别技术能够让跨性别者以更具创造性的水平参与进来。 Dylan Paré 描述了他们的 Creative Futures 项目（与 Scout Windsor 合作）[49]，其中他们与三名跨性别青年合作，创作用于沉浸式故事讲述的虚拟现实 (VR) 艺术，最终成为两部电影（见**图 2**）：
 
-![](https://github.com/one-among-us/tia-library/blob/8a8064a84b954117ebc28c4f1f5f6f031265c6f1/content.zh/docs/translated/tech/figure2_transgender_involved_trans_technology_design.png)
+![](https://raw.githubusercontent.com/CascadingCascade/remote-assets-for-tia/main/How_Transgender_People_and_Communities_Were_Involved_inTrans_Technology/pic/figure2.png)
 
 > 这部线性电影将讲述这些年轻人如何想出他们想要讲述的故事的想法，以及他们希望人们从他们的项目中学到什么。 360 [flm] 是您实际上可以与他们一起进入艺术的地方，他们会告诉您他们创作的艺术以及这对他们意味着什么。
 
