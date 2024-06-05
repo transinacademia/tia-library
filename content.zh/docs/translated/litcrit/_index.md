@@ -1,4 +1,3 @@
-
 ---
 title: 文学批评
 type: docs
