@@ -10,7 +10,7 @@ title: 讲述巴勒斯坦：团结意识以及对其的言论管控
 ***
 
 作者：加斯比尔·普尔 (Jasbir Puar)<br/>
-译者：Ribs Ribs
+译者：Ribs
 
 ***
 
