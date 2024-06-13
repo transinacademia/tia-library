@@ -9,7 +9,7 @@ comment: false
 **Chu, Andrea Long. “The Right to Change Sex.” Intelligencer, 11 Mar. 2024, https://nymag.com/intelligencer/article/trans-rights-biological-sex-gender-judith-butler.html.**
 
 ***
-作者：朱华敏 Andrea Long Chu<br/>
+作者：朱华敏（Andrea Long Chu）<br/>
 翻译：那由
 ***
 
