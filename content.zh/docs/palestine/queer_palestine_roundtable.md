@@ -6,7 +6,10 @@ title: 关于巴勒斯坦研究与酷儿理论的圆桌讨论
 
 **Naber, Nadine, et al. “On Palestinian Studies and Queer Theory.” Journal of Palestine Studies, vol. 47, no. 3 (187), 2018, pp. 62–71.**
 
-酷儿理论是什么？为什么它很重要？它可以告诉我们有关巴勒斯坦的什么？巴勒斯坦可以在性别研究中添加什么？这些问题是激励这个特别议题的努力的核心。我们向一些巴勒斯坦和阿拉伯学者和活动家发送了这些问题。他们的回答各不相同，有时甚至彼此冲突，这反映了参与者的多元视角和经验。我们将成果展示在这里作为一个讨论的开端，希望能进一步丰富关于巴勒斯坦的学术和政治研究。
+***
+作者：Nadine Naber,  Sa’ed Atshan, Nadia Awad, Maya Mikdashi, Nada Elia <br/>
+翻译：Paul Osaka
+***
 
 ## 纳丁·纳贝尔（NADINE NABER）
 
