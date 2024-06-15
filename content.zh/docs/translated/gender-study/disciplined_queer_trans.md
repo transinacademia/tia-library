@@ -24,6 +24,8 @@ title: 受到规训/得到学科化：现在关于酷儿研究的跨儿*是什�
 
 跨性别（transgender）；跨儿\*研究（trans\* studies）；规训/学科（discipline）；酷儿研究；LGBTQ 研究；女性主义；女人研究（women’s studies）
 
+***
+
 > **连词（_conjunction_）**
 > 
 > 1. 用于介绍与已经提到的内容形成对比的东西
@@ -48,6 +50,8 @@ title: 受到规训/得到学科化：现在关于酷儿研究的跨儿*是什�
 > 跨学科性（Interdisciplinarity）主要在于（consists in）创造一个不属于任何人的新客体（a new object）。
 
 ——巴特，1972年，第三页
+
+***
 
 现在跨儿\*研究（trans\* studies）在酷儿研究（queer studies）中的位置（position）是什么？1十三年前，在《社会文本（_Social Text_）》专门审视酷儿研究这个新兴领域的承诺和障碍的一个特别合刊（double issue）中，大卫·L·英格（David L. Eng）、杰克·霍伯斯坦（Jack Halberstam）和何塞·埃斯特班·穆尼奥斯（José Esteban Muñoz）问道：“现在关于酷儿研究的酷儿是什么（What’s Queer About Queer Studies Now）？”（2005年）。在2005年，酷儿研究已经清楚地意识到它围绕着，将性意识作为一种“适当对象”的调查（the investigation of sexuality as a “proper object”）（Butler，1994年），的僵化进程（its rigidification around）了。为了回应这一新兴的学科轨迹，三位编辑要求了（requested）一种摆脱对，将性意识（sexuality）作为一个“批判性调查的特权站点”，的专注，的酷儿研究（2005年，第4页），呼吁更新的、交叉性的酷儿研究（a renewed, intersectional queer studies），其“根据一种，对酷儿作为一个没有固定指称（a fixed referent）的政治隐喻（a political metaphor），的坚定理解来进行调整（calibrated to）"（第1页）。然而，尽管同一时代的跨性别学者对酷儿研究对性意识（sexuality）的窄化关注（narrowing focus on sexuality）和其对跨儿经验的寓言化（its allegorizations of trans experience）已经提出了强烈的反驳（Namaste, 2000；Prosser, 1998；Stryker, 2004），但“跨性别（transgender）”和“跨性（transsexuality）”在该文章中却令人怀疑地缺席（suspiciously absent）。就《什么是酷儿？》将跨儿\*研究最早的品系（the earliest strains of trans\* studies）归入到（subsumes）某种称为“酷儿研究”的东西的庇护范畴（the aegis）而言，它显然没有注意到跨儿这一差异和其特殊性（the difference and specificity of trans）——“由于怀疑猜想（suspicion）性别（gender）**就是意味着**（_means_）性意识（sexuality），即性别......不仅是性（sex）的掩饰（cover story），也是性意识的掩饰，所以有时会产生的一种混淆（conflation）”（Salamon, 2010年, 第103页）。在这个关于该领域之承诺前景（the field’s promise）的早期和形成性论述过程（this early and formative accounting）中，跨儿\*研究，由于这几位编辑们试图提出解决的东西（seek to address）精确关注于性意识（the precise focus on sexuality），而被遮蔽在关于酷儿研究能够和应该做什么的故事中。
 
