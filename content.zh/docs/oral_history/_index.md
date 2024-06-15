@@ -4,7 +4,8 @@ type: docs
 bookCollapseSection: true
 ---
 
-# 华语跨性别口述史项目项目计划书
+# 项目计划书
+华语跨性别口述史项目<br/>
 Sinophone Trans Oral History Project
 
 ## 简介
