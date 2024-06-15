@@ -39,8 +39,9 @@
 > 
 > 反对某事的论据；反对。
 
-——沙拉亚 Shraya, 《棕色皮肤常常感觉像一种“*但是*”》 “often brown feels like _but_”
-<br>
+——沙拉亚 Shraya, 《棕色皮肤常常感觉像一种“*但是*”》 “often brown feels like _but_”<br>
+
+
 
 > 跨学科性（Interdisciplinarity）主要在于（consists in）创造一个不属于任何人的新客体（a new object）。
 
