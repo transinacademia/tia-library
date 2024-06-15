@@ -1,5 +1,5 @@
 ---
-title: 华语跨性别口述史项目项目计划书
+title: 项目计划书
 ---
 # 华语跨性别口述史项目项目计划书
 Sinophone Trans Oral History Project
