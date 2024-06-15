@@ -74,32 +74,6 @@ Sinophone Trans Oral History Project
 | 对象 | 跨性别者和跨性别社群；地区性跨性别社群，国内跨性别 NGO 及社群，中老年跨性别者 |
 | 内容 | - 跨性别者的生命体验<br>- 跨性别社群史<br>- 跨性别相关概念变迁<br>- 跨性别身体与后-社会主义「现代化」、市场化及城市化进程<br>- 跨性别再生产劳动<br>- HRT 自行用药（DIY）<br>- 社群和建制跨性别医疗系统<br>- 过量用药（OD）<br>- 扭转治疗<br>- 自残 / 自伤<br>- 死亡和纪念<br>- 性工作<br>- 流氓罪和国家暴力 |
 
-### 年代<br/>
-1980 年至今
-
-### 平台<br/>
-Twitter，Telegram，QQ，微信，快手，抖音，微信，QQ，论坛，线下…
-
-### 对象<br/>
-跨性别者和跨性别社群
-地区性跨性别社群，国内跨性别 NGO 及社群，中老年跨性别者
-
-### 内容<br/>
-- 跨性别者的生命体验
-- 跨性别社群史
-- 跨性别相关概念变迁
-- 跨性别身体与后-社会主义「现代化」、市场化及城市化进程
-- 跨性别再生产劳动
-- HRT 自行用药（DIY）
-- 社群和建制跨性别医疗系统
-- 过量用药（OD）
-- 扭转治疗
-- 自残 / 自伤
-- 死亡和纪念
-- 性工作
-- 流氓罪和国家暴力
-……
-
 ## 致谢
-华语跨性别口述史项目受启发于纽约跨性别口述史项目（New York City Trans Oral History Project）、特雷特跨性别口述史项目（Tretter Transgender Oral History Project）、跨性别口述史项目（Transgender Oral History Project）等类似项目，部分材料翻译或整理自纽约跨性别口述史项目（New York City Trans Oral History Project）提供的公开文件，在此鸣谢前辈们的付出。
 
+华语跨性别口述史项目受启发于纽约跨性别口述史项目（New York City Trans Oral History Project）、特雷特跨性别口述史项目（Tretter Transgender Oral History Project）、跨性别口述史项目（Transgender Oral History Project）等类似项目，部分材料翻译或整理自纽约跨性别口述史项目（New York City Trans Oral History Project）提供的公开文件，在此鸣谢前辈们的付出。
