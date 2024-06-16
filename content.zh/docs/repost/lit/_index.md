@@ -1,5 +1,5 @@
 ---
-title: 转载 - 文学
+title: 文学
 type: docs
 bookCollapseSection: true
 weight: 10
