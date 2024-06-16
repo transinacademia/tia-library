@@ -2,7 +2,7 @@
 title: 药娘的天空
 ---
 
-# [药娘的天空](transky.mtf.wiki)
+# [药娘的天空](https://transky.mtf.wiki)
 
 一个 2000 年代的跨性别者的故事。
 
