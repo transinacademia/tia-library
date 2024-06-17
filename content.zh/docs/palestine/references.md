@@ -59,7 +59,7 @@ title: 巴勒斯坦与跨儿解放：文献列表
 23. TERFism, Zionism, and Right-Wing Annihilationism: Toward an Internationalist Genealogy of Extinction Phobia. [https://read.dukeupress.edu/tsq/article-abstract/9/3/334/319374/TERFism-Zionism-and-Right-Wing](https://read.dukeupress.edu/tsq/article-abstract/9/3/334/319374/TERFism-Zionism-and-Right-Wing)
 24. Israel/Palestine and the Queer International. [https://www.jstor.org/stable/10.5406/jcivihumarigh.2019.0139](https://www.jstor.org/stable/10.5406/jcivihumarigh.2019.0139)
 
-## Books
+## 书籍
 
 1. Abdo-Zubi, Nahla. Captive revolution: Palestinian women’s anti-colonial struggle within the Israeli prison system. Pluto Press, 2014.
 2. Abdulhadi, Rabab, Evelyn Alsultany, and Nadine Naber, eds. Arab and Arab American feminisms: gender, violence, and belonging. Syracuse University Press, 2011.
@@ -69,7 +69,7 @@ title: 巴勒斯坦与跨儿解放：文献列表
 6. Butler, Judith. Parting Ways. Columbia University Press, 2013. [https://cup.columbia.edu/book/parting-ways/9780231146104](https://cup.columbia.edu/book/parting-ways/9780231146104)
 7. Mbembe, Achilles. Necropolitics, Duke University Press, 2019. [ISBN](https://www.wikiwand.com/en/ISBN_(identifier)) [978-1-4780-0722-7](https://www.wikiwand.com/en/Special:BookSources/978-1-4780-0722-7), [doi](https://www.wikiwand.com/en/Doi_(identifier)):[10.1215/9781478007227](https://doi.org/10.1215%2F9781478007227)
 
-## Syllabi
+## 书单
 
 1. [Palestinian Justice Syllabus](https://www.poconlineclassroom.com/syllabi/palestinian-justice)
 2. [Palestine is a Queer Migrant Issue!](https://qdep.org/elementor-2260/)
