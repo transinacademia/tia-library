@@ -8,7 +8,7 @@ title: 巴勒斯坦与跨儿解放：文献列表
 
 如果您想参与对以下文章的翻译，请联系 [Amber](https://t.me/carbonara_nocream)。翻译会发布在 TiA! 官网（lib.oau.edu.kg）的「🇵🇸 巴勒斯坦」分区。
 
-## Articles & Essays
+## 文章
 
 1. Queers in Palestine
    - [No Pride with Genocide! – Queers in Palestine](https://queersinpalestine.noblogs.org/post/2023/11/19/no-pride-with-genocide/)
