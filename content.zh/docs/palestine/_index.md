@@ -1,12 +1,8 @@
----
+--
 title:  🇵🇸 巴勒斯坦
 type: docs
 bookCollapseSection: true
 weight: 5
----
-
----
-title: 巴勒斯坦与跨儿解放：文献列表
 ---
 
 # 巴勒斯坦与跨儿解放：文献列表
@@ -22,7 +18,9 @@ title: 巴勒斯坦与跨儿解放：文献列表
 2. Decolonize Palestine
    1. [Purplewashing | Decolonize Palestine](https://decolonizepalestine.com/rainbow-washing/purplewashing/)
    2. [Pinkwashing | Decolonize Palestine](https://decolonizepalestine.com/rainbow-washing/pinkwashing/)
-3. Jasbir Puar
+3. alQaws
+   1. [Reflecting on Queerness in Times of Genocide](https://alqaws.org/news/Reflecting-on-Queerness-in-Times-of-Genocide?category_id=0)
+4. Jasbir Puar
    1. [Mass Debilitation and Algorithmic Governance](https://www.e-flux.com/journal/123/436945/mass-debilitation-and-algorithmic-governance/), with Ezekiel Dixon-Román, e-flux journal, 2021.
    2. [Spatial Debilities: Slow Life and Carceral Capitalism in Palestine,](https://i8v954.p3cdn1.secureserver.net/wp-content/uploads/2022/07/Spatial-Debilities-.pdf) South Atlantic Quarterly, 2021.
    3. [Biospheres of War: A Panel with Francesco Sebregondi, Jasbir Puar, Helga Tawil-Souri, Jehan Bsesio, and Ghassan Abu-Sittah](https://www.jadaliyya.com/Details/40752), Jadaliyya, 2020
@@ -35,36 +33,36 @@ title: 巴勒斯坦与跨儿解放：文献列表
    9. [Citation and Censorship: The Politics of Talking about the Sexual Politics of Israel,](https://i8v954.p3cdn1.secureserver.net/wp-content/uploads/2018/08/JKP-politics-of-citation-and-censorship.pdf) Feminist Legal Studies, 2011
    10. [’The Center Cannot Hold’: The Flourishing of Queer Anti-Occupation Activism,](http://www.huffingtonpost.com/jasbir-k-puar/the-center-cannot-hold-th_b_991572.html) Huffington Post, 2011
    11. [Israel’s Gay Propaganda War,](http://www.guardian.co.uk/commentisfree/2010/jul/01/israels-gay-propaganda-war) The Guardian, 2010.
-4. Judith Butler
+5. Judith Butler
    1. [The Compass of Mourning](https://www.lrb.co.uk/the-paper/v45/n20/judith-butler/the-compass-of-mourning)
    2. [There Can Be No Critique](https://www.bostonreview.net/articles/there-can-be-no-critique/)
    3. “The charge of anti-Semitism: Jews, Israel and the risks of public critique,” in Judith Butler, *Precarious Life: The Powers of Mourning and Violence* (London: Verso 2004), 102.
-5. Sophie Lewis
+6. Sophie Lewis
    - [Some of my best enemies are feminists: on Zionist feminism](https://salvage.zone/some-of-my-best-enemies-are-feminists-on-zionist-feminism/).
-6. Dean Spade
+7. Dean Spade
    - [The Right Wing Is Leveraging Trans Issues to Promote Militarism.](https://truthout.org/articles/the-right-wing-is-leveraging-trans-issues-to-promote-militarism/)
-7. Achille Mbembe
+8. Achille Mbembe
    1. Necropolitics. [https://warwick.ac.uk/fac/arts/english/currentstudents/postgraduate/masters/modules/theoryfromthemargins/mbembe_22necropolitics22.pdf](https://warwick.ac.uk/fac/arts/english/currentstudents/postgraduate/masters/modules/theoryfromthemargins/mbembe_22necropolitics22.pdf)
    2. [The Society of Enmity](https://www.radicalphilosophy.com/article/the-society-of-enmity).
-8. Sarah Shulman
+9. Sarah Shulman
    1. Israel/Palestine and the Queer International. [https://www.jstor.org/stable/10.5406/jcivihumarigh.2019.0139](https://www.jstor.org/stable/10.5406/jcivihumarigh.2019.0139)
    2. “Part III: Supremacy/Trauma and the Justification of Injustice: The Israeli War on Gaza.” *Conflict is Not Abuse*, Arsenal Pulp Press, 2016.
-9. [Why Queer Solidarity With Palestine Is Not “Chickens for KFC”](https://www.them.us/story/lgbtq-solidarity-palestine-saed-atshan).
-10. [The Political Economy of Homonationalism](https://socialtextjournal.org/periscope_article/the-political-economy-of-homonationalism/).
-11. The Right to Exist. [https://www.parapraxismagazine.com/articles/the-right-to-exist](https://www.parapraxismagazine.com/articles/the-right-to-exist)
-12. The Campus Does Not Exist. [https://www.parapraxismagazine.com/articles/the-campus-does-not-exist](https://www.parapraxismagazine.com/articles/the-campus-does-not-exist)
-13. Palestine as a Queer Struggle. [https://uscpr.org/activist-resource/grassroots-advocacy-toolkit/palestine-as-a-queer-struggle/](https://uscpr.org/activist-resource/grassroots-advocacy-toolkit/palestine-as-a-queer-struggle/)
-14. Eight questions Palestinian queers are tired of hearing. [https://electronicintifada.net/content/eight-questions-palestinian-queers-are-tired-hearing/12951](https://electronicintifada.net/content/eight-questions-palestinian-queers-are-tired-hearing/12951)
-15. ‘I’d rather die in the West Bank’: LGBTQ Palestinians find no safety in Israel. [https://www.972mag.com/lgbtq-palestinians-israel-asylum/](https://www.972mag.com/lgbtq-palestinians-israel-asylum/)
-16. Roundtable: [On Palestinian Studies and Queer Theory](https://transreads.org/wp-content/uploads/2023/11/2023-11-15_6554e8189f1b6_OnPalestinianStudiesandQueerTheory-NaberNadineAtshanSaedAwadNadiaMikdashiMaya-JournalofPalestineStudies347pages-10.1525_jps.2018.47.3.62-6402ac672268655b46c683bf4e6aad28-Ann.pdf)
-17. The Road from Antipinkwashing Activism to the Decolonization of Palestine. [https://www.jstor.org/stable/24365011](https://www.jstor.org/stable/24365011)
-18. "Even a Freak Like You Would Be Safe in Tel Aviv": Transgender Subjects, Wounded Attachments, and the Zionist Economy of Gratitude. [https://www.jstor.org/stable/24364930](https://www.jstor.org/stable/24364930)
-19. Introduction: Curiosities of Middle East Studies in Queer Times. [https://www.jstor.org/stable/43302998](https://www.jstor.org/stable/43302998)
-20. Pinkwashing, Homonationalism, and Israel–Palestine: The Conceits of Queer Theory and the Politics of the Ordinary. [https://onlinelibrary.wiley.com/doi/10.1111/anti.12100](https://onlinelibrary.wiley.com/doi/10.1111/anti.12100)
-21. Israeli Gay Tourist Initiatives and the (In)visibility of State Violence. [https://read.dukeupress.edu/glq/article/26/1/160/144371/Israeli-Gay-Tourist-Initiatives-and-the](https://read.dukeupress.edu/glq/article/26/1/160/144371/Israeli-Gay-Tourist-Initiatives-and-the)
-22. Trans-Arab-Jew: A Look beyond the Boundaries of In-Between Identities. [https://read.dukeupress.edu/tsq/article-abstract/6/3/338/139413/Trans-Arab-JewA-Look-beyond-the-Boundaries-of](https://read.dukeupress.edu/tsq/article-abstract/6/3/338/139413/Trans-Arab-JewA-Look-beyond-the-Boundaries-of)
-23. TERFism, Zionism, and Right-Wing Annihilationism: Toward an Internationalist Genealogy of Extinction Phobia. [https://read.dukeupress.edu/tsq/article-abstract/9/3/334/319374/TERFism-Zionism-and-Right-Wing](https://read.dukeupress.edu/tsq/article-abstract/9/3/334/319374/TERFism-Zionism-and-Right-Wing)
-24. Israel/Palestine and the Queer International. [https://www.jstor.org/stable/10.5406/jcivihumarigh.2019.0139](https://www.jstor.org/stable/10.5406/jcivihumarigh.2019.0139)
+10. [Why Queer Solidarity With Palestine Is Not “Chickens for KFC”](https://www.them.us/story/lgbtq-solidarity-palestine-saed-atshan).
+11. [The Political Economy of Homonationalism](https://socialtextjournal.org/periscope_article/the-political-economy-of-homonationalism/).
+12. The Right to Exist. [https://www.parapraxismagazine.com/articles/the-right-to-exist](https://www.parapraxismagazine.com/articles/the-right-to-exist)
+13. The Campus Does Not Exist. [https://www.parapraxismagazine.com/articles/the-campus-does-not-exist](https://www.parapraxismagazine.com/articles/the-campus-does-not-exist)
+14. Palestine as a Queer Struggle. [https://uscpr.org/activist-resource/grassroots-advocacy-toolkit/palestine-as-a-queer-struggle/](https://uscpr.org/activist-resource/grassroots-advocacy-toolkit/palestine-as-a-queer-struggle/)
+15. Eight questions Palestinian queers are tired of hearing. [https://electronicintifada.net/content/eight-questions-palestinian-queers-are-tired-hearing/12951](https://electronicintifada.net/content/eight-questions-palestinian-queers-are-tired-hearing/12951)
+16. ‘I’d rather die in the West Bank’: LGBTQ Palestinians find no safety in Israel. [https://www.972mag.com/lgbtq-palestinians-israel-asylum/](https://www.972mag.com/lgbtq-palestinians-israel-asylum/)
+17. Roundtable: [On Palestinian Studies and Queer Theory](https://transreads.org/wp-content/uploads/2023/11/2023-11-15_6554e8189f1b6_OnPalestinianStudiesandQueerTheory-NaberNadineAtshanSaedAwadNadiaMikdashiMaya-JournalofPalestineStudies347pages-10.1525_jps.2018.47.3.62-6402ac672268655b46c683bf4e6aad28-Ann.pdf)
+18. The Road from Antipinkwashing Activism to the Decolonization of Palestine. [https://www.jstor.org/stable/24365011](https://www.jstor.org/stable/24365011)
+19. "Even a Freak Like You Would Be Safe in Tel Aviv": Transgender Subjects, Wounded Attachments, and the Zionist Economy of Gratitude. [https://www.jstor.org/stable/24364930](https://www.jstor.org/stable/24364930)
+20. Introduction: Curiosities of Middle East Studies in Queer Times. [https://www.jstor.org/stable/43302998](https://www.jstor.org/stable/43302998)
+21. Pinkwashing, Homonationalism, and Israel–Palestine: The Conceits of Queer Theory and the Politics of the Ordinary. [https://onlinelibrary.wiley.com/doi/10.1111/anti.12100](https://onlinelibrary.wiley.com/doi/10.1111/anti.12100)
+22. Israeli Gay Tourist Initiatives and the (In)visibility of State Violence. [https://read.dukeupress.edu/glq/article/26/1/160/144371/Israeli-Gay-Tourist-Initiatives-and-the](https://read.dukeupress.edu/glq/article/26/1/160/144371/Israeli-Gay-Tourist-Initiatives-and-the)
+23. Trans-Arab-Jew: A Look beyond the Boundaries of In-Between Identities. [https://read.dukeupress.edu/tsq/article-abstract/6/3/338/139413/Trans-Arab-JewA-Look-beyond-the-Boundaries-of](https://read.dukeupress.edu/tsq/article-abstract/6/3/338/139413/Trans-Arab-JewA-Look-beyond-the-Boundaries-of)
+24. TERFism, Zionism, and Right-Wing Annihilationism: Toward an Internationalist Genealogy of Extinction Phobia. [https://read.dukeupress.edu/tsq/article-abstract/9/3/334/319374/TERFism-Zionism-and-Right-Wing](https://read.dukeupress.edu/tsq/article-abstract/9/3/334/319374/TERFism-Zionism-and-Right-Wing)
+25. Israel/Palestine and the Queer International. [https://www.jstor.org/stable/10.5406/jcivihumarigh.2019.0139](https://www.jstor.org/stable/10.5406/jcivihumarigh.2019.0139)
 
 ## 书籍
 
