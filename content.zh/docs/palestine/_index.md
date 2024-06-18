@@ -1,4 +1,4 @@
---
+---
 title:  🇵🇸 巴勒斯坦
 type: docs
 bookCollapseSection: true
