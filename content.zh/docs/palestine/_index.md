@@ -14,10 +14,10 @@ weight: 5
 ## 文章
 
 1. Queers in Palestine
-   - [No Pride with Genocide! – Queers in Palestine](https://queersinpalestine.noblogs.org/post/2023/11/19/no-pride-with-genocide/)
+   1. 一份来自巴勒斯坦酷儿的解放诉求 No Pride with Genocide! – Queers in Palestine [（原文）](https://queersinpalestine.noblogs.org/post/2023/11/19/no-pride-with-genocide/)[（中文翻译）](https://github.com/one-among-us/tia-library/edit/main/content.zh/docs/palestine/_index.md)
 2. Decolonize Palestine
-   1. [Purplewashing | Decolonize Palestine](https://decolonizepalestine.com/rainbow-washing/purplewashing/)
-   2. [Pinkwashing | Decolonize Palestine](https://decolonizepalestine.com/rainbow-washing/pinkwashing/)
+   1. 紫色清洗 Purplewashing[（原文）](https://decolonizepalestine.com/rainbow-washing/purplewashing/)
+   2. 粉红清洗 Pinkwashing[（原文）](https://decolonizepalestine.com/rainbow-washing/pinkwashing/)[（中文翻译）](https://lib.oau.edu.kg/docs/palestine/pinkwashing/)
 3. alQaws
    1. [Reflecting on Queerness in Times of Genocide](https://alqaws.org/news/Reflecting-on-Queerness-in-Times-of-Genocide?category_id=0)
 4. Jasbir Puar
