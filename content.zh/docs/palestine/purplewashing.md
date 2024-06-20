@@ -5,7 +5,7 @@ Decolonize Palestine. Purplewashing. 4 Apr. 2021, https://decolonizepalestine.co
 ***
 作者：Decolonize Palestine<br>
 翻译：Claudia Huang<br>
-[原文链接](https://decolonizepalestine.com/rainbow-washing/purplewashing/) 
+原文：[链接](https://decolonizepalestine.com/rainbow-washing/purplewashing/) 
 ***
 
 “紫色清洗”指代以下情形：当某国或某组织借用女性权利和女权主义来粉饰自己，以掩盖他们具有危害性的意图和行动。
