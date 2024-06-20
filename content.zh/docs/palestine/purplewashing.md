@@ -36,7 +36,7 @@ Decolonize Palestine. Purplewashing. 4 Apr. 2021, https://decolonizepalestine.co
 
 锡安主义者视基于交叉性的团结为眼中钉，常常将交叉性作为一个整体来抨击。《犹太杂志》（Jewish Journal）的莫尼卡·奥斯本（Monica Osborne）[声称交叉性是](https://jewishjournal.com/cover_story/302664/how-intersectionality-became-a-sinister-threat-to-american-jewry/)“比‘抵制，撤资，制裁’运动更邪恶的威胁”，而莎伦·纳扎利安（Sharon Nazarian），反诽谤联盟（Anti-Defamation League）的高级副董事，在美国犹太新闻媒体《前锋》（the Forward）上撰文，运用一系列神话和欠成熟的谈话要点，称女权主义是锡安主义的题中之义，表示她对于[交叉性话语里日益可见的反锡安立场](https://www.adl.org/resources/news/rejecting-jews-intersectionality-betrays-itself)感到失望。
 
-漂成紫色的以色列历史
+## 紫色清洗的以色列历史
 
 抹黑交叉性和基于交叉性的团结的努力变得越来越不受欢迎，另一种趋势转而冒头——“紫色清洗”以色列的历史。这种新的尝试聚焦于以色列历史上的人物，尤其是第四任总理果尔达·梅厄（Golda Meir）。锡安主义者鼓吹梅厄是“20世纪女权主义和其他方面的偶像”。她最广为人知的传记标题称她为“中东铁娘子”，以及“西方首位女总理”。这表明了锡安主义者企图将以色列宣传成西方国家中获利，即便他们同时也努力将以色列描绘成中东本土国家。
 
