@@ -1,4 +1,4 @@
-“紫色清洗”
+# 紫色清洗
 
 原文链接：[https://decolonizepalestine.com/rainbow-washing/purplewashing/](https://decolonizepalestine.com/rainbow-washing/purplewashing/) 
 
@@ -10,11 +10,11 @@
 
 正是在这样的背景下，以色列开启了这波政治宣传，主要集中在以色列对女性权利和自由的所谓深切关怀上，其中也包括巴勒斯坦女性。这波宣传动员就是我们要讨论的紫色清洗，主要包括：
 
-“号称致力于性别平等的政治和市场策略，典型代表是西方国家的洗白宣传，不仅没有真正致力于实现男女间的平等，反而处处批评别国的性别不平等，尤其是那些穆斯林人口占据主体的国家。”
+> 号称致力于性别平等的政治和市场策略，典型代表是西方国家的洗白宣传，不仅没有真正致力于实现男女间的平等，反而处处批评别国的性别不平等，尤其是那些穆斯林人口占据主体的国家。
 
 这些策略强化了一种二元对立的叙事，即巴勒斯坦/穆斯林妇女没有人权，而女权主义只存在于西方——即便不是所有巴勒斯坦妇女都是穆斯林。这种意识形态结构，被学者们称为“[殖民女权主义](https://www.opendemocracy.net/en/imperialist-feminism-and-liberalism/)”，它打着妇女权利的幌子，实为帝国主服务；在巴勒斯坦的语境中，这种语言伪饰也被称为“性别化的东方主义”（gendered Orientalism）。巴勒斯坦阿拉伯人/穆斯林被建构成“他者”，在文化上甚至是基因上有厌女倾向。相较之下，以色列西方人顺理成章成了自由和开化的象征。女权主义的这一面，对于以色列来说，终极目标是为了宣传、提高它的国家形象，通过将女性制度性地纳入其暴力的、殖民的和种族主义的系统里，从而将巴勒斯坦人贬低为不配建国，甚至不配为人的存在。而这些系统实际上是如何奴役“他者”的女性，尤其是巴勒斯坦女性的，却鲜有人提及。
 
-虽然带来死亡与毁灭，但是女权的
+## 虽然带来死亡与毁灭，但是女权
 
 锡安主义者将以色列标榜为女权主义的企图，主要围绕着以色列军队展开。以色列军队的官方社交媒体账号，以及亲以色列的组织，例如“[法律战](https://electronicintifada.net/blogs/nora-barrows-friedman/agent-israel-drops-lawsuit-against-national-lawyers-guild)”计划，[称赞以色列军队](https://www.lawfaremedia.org/article/female-service-idf-challenge-integrated-army)是“西方世界少有的以法律形式应召女性入伍的军队”。他们赞美女性也参与了对巴勒斯坦人的种族清洗和1948年灾难日大屠杀，并为越来越多的女性承担战斗角色而欢呼。
 
@@ -24,7 +24,7 @@
 
 对殖民军队的紫色清洗，这支军队除了对本土人口的征服，也是全球最大的无人机出口方，并向当代史上最具压迫性的种族歧视政权提供武器，其中就包括种族隔离时期的南非。这样一支军队，是交叉性女权主义最为唾弃的存在，后者不仅力求瓦解父权，也力求终止针对所有女性的暴力。
 
-视交叉性为最大威胁
+## 视交叉性为最大威胁
 
 在女权主义运动中，对于交叉性这一概念的理论阐述，主要由黑人女权主义作家发明并延展，它雄辩地指出，面对系统性的权力不平等，如果单单挑战它的一个方面，例如父权，而不去质疑白人至上的观念，那么只有上层社会的白人女性和其他特权阶层的女性获益，而所有其他女性都会遭殃。交叉性对女权主义的阐释，即女权主义不仅要聚焦于终结父权，还要为终结种族主义和所有其他压迫性的系统而奋斗，为巴勒斯坦赢得了来自全球的声援，包括“黑人的命也是命”（Black Lives Matter)，尤其是他们点明了[以色列军队和美国警方之间的勾连](https://deadlyexchange.org/)。
 
@@ -42,9 +42,11 @@
 
 现如今，锡安主义团体诸如哈达萨（Hadassah）和锡安联盟（Zioness coalition）越来越多地以女权主义者自居，显示在以色列哈斯卡拉主义者（hasbarist）中间普遍存在的这样一种关切，即在倚重社会公平正义议题的年代，锡安主义需要重新包装。这体现在“在21世纪定义锡安主义”，哈达萨的网络系列发言中，其中包括克洛伊·瓦尔德里（Chloe Valdery），既是锡安联盟的秘书，也是一个福音派锡安主义者，所作的名为“千禧一代的锡安主义”的讲话。该联盟最近最近被揭露是一个由阿曼达·伯曼（Amanda Berman），一个法律战项目的执行人，参与创立的伪草根组织。该组织试图将其自身和其“紫色清洗”议程植入芝加哥的铁T游行（Dyke March）和贱人徒步（Slutwalk Chicago）组织的年度抗议活动，从而引发争议。不难想象，这些尝试受到抗议活动背后激进的组织者们抵制，贱人徒步[发表声明](https://chicagoist.com/2017/08/10/slutwalk_chicago_zioness_movement.php)，表示他们坚定不移地反对锡安联盟借“反对不平等和父权制的抗争”来获取政治目的；他们进一步补充：
 
-“这一天本来是献给那些反对强奸文化的幸存者的，任何组织或团体企图利用并宣传自身民族主义议程的行为，都让我们觉得恶心”，他们继续说道，“我们为了每一个人抗争，这意味着我们和犹太人和巴勒斯坦人站在一起，同时我们坚定反对任何国家和帝国主义的立场，其中必然也包括以色列。”
+> 这一天本来是献给那些反对强奸文化的幸存者的，任何组织或团体企图利用并宣传自身民族主义议程的行为，都让我们觉得恶心。
+> 
+> 我们为了每一个人抗争，这意味着我们和犹太人和巴勒斯坦人站在一起，同时我们坚定反对任何国家和帝国主义的立场，其中必然也包括以色列。
 
-对巴勒斯坦女性的依恋
+## 对巴勒斯坦女性的依恋
 
 锡安主义者对其民族主义议程的紫色清洗，通常表现为对巴勒斯坦女性令人作呕的关切，甚至同时他们还要抹去生活在绿线（1949停战边界）以内的巴勒斯坦女性的身份认同，而称她们为“以色列阿拉伯人”，以便将以色列社会包装成“多元文化的”和宽容的（[点击这里了解更多](https://decolonizepalestine.com/myth/israel-is-a-democracy/)）。以色列的[本土傀儡](https://www.nybooks.com/online/2018/06/07/islams-new-native-informants/)约瑟夫·哈达德（Yoseph Haddad），此人以接受以色列政府资助，而充当其喉舌、扮演“以色列阿拉伯人”为生，他在脸书上发布一张[图片](https://www.facebook.com/177860646167725/photos/p.658787558075029/658787558075029/?type=3)，将其命名为“以色列阿拉伯女性：打破天花板”。在配文里，哈达德列举个体的巴勒斯坦女性从事着诸如教授、警官的职业，或干脆就是赢得一场歌唱比赛，作为否认以色列实行种族隔离的证明。哈达德还写道，“当针对女性的系统性歧视和压迫盛行中东之时，在以色列，阿拉伯女性却可以大胆做自己。”且不说单以受压迫群体里的极个别个体的成功叙事，就排除了系统性种族歧视存在的事实，这样的观念有多侮辱性，其隐含的信息更是明晃晃的歧视：生活在以色列治下的巴勒斯坦女性处境要比在巴勒斯坦的好得多。
 
@@ -54,7 +56,7 @@
 
 甚至在以色列政府的官网上，[有一个网页专门展示“加沙妇女现状”](https://www.idf.il/en/mini-sites/the-hamas-terrorist-organization/the-status-of-women-in-gaza/)，以冷嘲热讽的姿态列举了巴勒斯坦妇女面临的问题，从性别暴力到就业受限，仿佛性别偏见可以彻底归因于30年前哈马斯的成立，又仿佛，加沙地带成为世界上最大的露天监狱，[在每一个层面上都日益变得不适宜居住](https://unctad.org/press-material/gaza-could-become-uninhabitable-less-five-years-wake-2014-conflict-and-ongoing-de)，跟以色列的封锁和轰炸没有关系一样。
 
-锡安主义者的厌女也好不到哪去
+## 锡安主义者的厌女也好不到哪去
 
 上述对巴勒斯坦女性的依恋，实际上模糊了问题焦点，实际情况是，在整个以色列社会中盛行着锡安主义者对巴勒斯坦女性，尤其是巴勒斯坦母亲的非人化看法。这在以色列立法者阿耶莱特·沙凯德（Ayelet Shaked）的仇巴言论里昭然若揭，她[公开呼吁屠杀巴勒斯坦妇女](https://electronicintifada.net/blogs/ali-abunimah/israeli-lawmakers-call-genocide-palestinians-gets-thousands-facebook-likes)，因为是她们生出了“小恶魔”（little snakes）。无独有偶，布雷特·史蒂芬斯也在[一篇穷凶极恶的檄文](https://www.wsj.com/articles/bret-stephens-where-are-the-palestinian-mothers-1404171087)里攻击巴勒斯坦母亲，称巴勒斯坦母亲不像西方母亲，后者担心的是自己的孩子将不妥的图案纹在身上，而前者则鼓励她们的孩子为反抗占领而战死；他接着写道，他还未曾见过哪一个以色列母亲愿意抚养一个杀人犯，仿佛在他看来，以国家名义批准的谋杀——别忘了以色列实行强制兵役制度——或者，[刻意引导孩子们在导弹上涂鸦种族仇恨信息](https://electronicintifada.net/blogs/ali-abunimah/i-picture-dead-arab-disturbing-video-israeli-childrens-words-echo-indoctrination)，然后将这些导弹射向黎巴嫩，这些都算不上杀人。
 
@@ -68,12 +70,32 @@
 
 此外，[联合国针对妇女暴力特别调查员](https://www.ohchr.org/en/2016/09/israel-opt-un-womens-rights-expert-calls-peace-process-full-participation-women?LangID=E&NewsID=20584)杜布劳卡·西蒙诺维奇（Dubravka Šimonović）报告指出，以色列定居者们频频攻击上学路上的巴勒斯坦女孩，这导致一些巴勒斯坦家庭因过于担忧而将孩子停学。虽然这是由非国家行为者发动的，性别化的人权侵犯事件，但实际上[得到了以色列国家的背书](https://www.el-karama.org/wp-content/uploads/2018/11/Palestinian-Women-The-Disproportionate-Impact-of-the-Israeli-Occupation.pdf)，因为他们的持续“失职”，既不对这种侵犯进行调查，也不惩罚侵犯者。西蒙诺维奇还指出，以色列对巴勒斯坦人家的闯入突击搜查和肆意拆毁，造成了创伤性的后果，其中一位妇女作证，随着突袭变成家常便饭，因为担心士兵夜间闯入卧室，她每天将身体盖得严严实实才能入睡。
 
-要团结，不要居高临下
+## 要团结，不要居高临下
 
 巴勒斯坦社会中存在厌女，这是不可否认的。然而，把以色列宣传成拯救巴勒斯坦女性脱离厌女的救世主，而非具象化种族主义和殖民主义的权力系统——正是这种系统强化了厌女的土壤——这样的做法更值得质疑。事实上，如山的铁证表明，不管被削弱的社群结构，不断被扰乱的法律和秩序体系，日益艰难的经济条件，被迫举家移民和难民营中拥挤不堪的居住环境，所有这些巴勒斯坦人在以色列暴行下的经历，都是[导致性暴力和基于性别的暴力风险剧增的因素](http://gsdrc.org/docs/open/hdq1169.pdf)，尤其是针对妇女和女孩的性暴力。另外，将巴勒斯坦分而治之的官僚管理体系，尤其是将西岸划分为A、B和C区，以及将西岸和加沙地带人为分开的做法，实际上加剧了阻止性暴力和追究罪犯法律责任的难度[（点击阅读更多）](https://decolonizepalestine.com/intro/two-intifadas-and-two-states/)。
 
 巴勒斯坦女权学者和组织者们早已对以色列针对所有巴勒斯坦人的暴力行径，尤其是针对巴勒斯坦女性的性别化实践有所研究和抵制。正因如此，我们认为，要实现对巴勒斯坦女性的真正解放，就必须先把所有巴勒斯坦人从以色列定居殖民统治下解放出来。正如巴勒斯坦女权主义者，人权斗士和妇女组织代表在一则[支持抵制、撤资和制裁运动](https://bdsmovement.net/news/support-statement-palestinian-feminists-palestine-and-diaspora)（BDS）的声明里宣告的那样：
 
-“巴勒斯坦女权主义者的斗争，是被剥夺权利的边缘女性群体的斗争，也是生活在一个占领政权治下和种族隔离政策中的本土人民的斗争。我们不能接受，作为一个乖顺的少数派坐在后席，更不能接受被以色列团体的会议和发声代言。我们要为我们自己的权利斗争——民族权利，社会权利和其他各种权利，要和一切压迫做斗争。”
+> 巴勒斯坦女权主义者的斗争，是被剥夺权利的边缘女性群体的斗争，也是生活在一个占领政权治下和种族隔离政策中的本土人民的斗争。我们不能接受，作为一个乖顺的少数派坐在后席，更不能接受被以色列团体的会议和发声代言。我们要为我们自己的权利斗争——民族权利，社会权利和其他各种权利，要和一切压迫做斗争。
 
 巴勒斯坦女性反对一切意在将以色列对我们，以及所有巴勒斯坦人的暴力最小化的“紫色清洗”行径，这种行为，对巴勒斯坦人权有百害，却仅对以色列的国际形象有利。巴勒斯坦女性深知，她们是在为所有巴勒斯坦人的权利和尊严斗争，并且，这种“不能将种族、民族压迫和性别压迫的交叉纳入考量的女权主义，不过是[白人至上的变种](https://mondoweiss.net/2017/06/intersectional-feminism-palestinians/)”。我们希望，你能加入我们，为解放所有巴勒斯坦人而努力；当你再次看到，某个亲以色列的组织厚颜无耻地利用女权主义来粉饰殖民主义，你会明白，紫色绝不是以色列的颜色。
+
+## 拓展阅读
+
+Shalhoub-Kevorkian, Nadera. Militarization and violence against women in conflict zones in the Middle East: A Palestinian case-study. Cambridge University Press, 2009.
+
+Shalhoub-Kevorkian, Nadera et al. Sexual Violence, Women’s Bodies, and Israeli Settler Colonialism. Jadaliyya. November 17th, 2014. [https://www.jadaliyya.com/Details/31481](https://www.jadaliyya.com/Details/31481)
+
+Farris, Sara R. In the name of women’s rights: The rise of femonationalism. Duke University Press, 2017.
+
+Jad, Islah. Palestinian Women’s Activism: Nationalism, Secularism, Islamism. Syracuse University Press, 2018.
+
+Abdulhadi, Rabab. “Israeli Settler Colonialism in Context: Celebrating (Palestinian) Death and Normalizing Gender and Sexual Violence.” Feminist Studies 45.2-3, 2019: 541-573.
+
+Elia, Nada. “Justice is indivisible: Palestine as a feminist issue.” Decolonization: Indigeneity, Education & Society 6.1, 2017.
+
+Sharoni, Simona, et al. “Transnational Feminist Solidarity in Times of Crisis: The Boycott, Divestment and Sanctions (BDS) Movement and Justice in/for Palestine.” International Feminist Journal of Politics 17.4, 2015: 654-670.
+
+Abdulhadi, Rabab, Evelyn Alsultany, and Nadine Naber, eds. Arab and Arab American feminisms: gender, violence, and belonging. Syracuse University Press, 2011.
+
+Abu-Lughod, Lila. Do Muslim women need saving?. Vol. 15. No. 5. Sage UK: London, England: SAGE Publications, 2015.
