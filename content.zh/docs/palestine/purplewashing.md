@@ -1,3 +1,7 @@
+---
+title: 紫色清洗
+---
+
 # 紫色清洗
 
 Decolonize Palestine. Purplewashing. 4 Apr. 2021, https://decolonizepalestine.com/rainbow-washing/purplewashing/.
