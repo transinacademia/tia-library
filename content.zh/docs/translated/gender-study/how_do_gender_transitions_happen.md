@@ -1,6 +1,6 @@
 # 性别过渡是如何发生的？
 
-**https://www.bostonreview.net/articles/how-do-gender-transitions-happen/)，节选（有删改）自：Gleeson, J.J. (2021) ‘How Do Gender Transitions Happen?’, in J.J. Gleeson, E. O’Rourke, and J. Rosenberg (eds) *Transgender Marxism*. London: Pluto Press.**
+**Gleeson, J.J. (2021) ‘How Do Gender Transitions Happen?’, in J.J. Gleeson, E. O’Rourke, and J. Rosenberg (eds) *Transgender Marxism*. London: Pluto Press. https://www.bostonreview.net/articles/how-do-gender-transitions-happen/**
 
 > 这个问题比一直问“*为什么*”好多了。
 
