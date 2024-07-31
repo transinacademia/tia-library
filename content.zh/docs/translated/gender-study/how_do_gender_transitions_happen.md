@@ -1,15 +1,19 @@
-# **性别过渡是如何发生的？**
+# 性别过渡是如何发生的？
 
-这个问题比一直问“*为什么*”好多了。
+**https://www.bostonreview.net/articles/how-do-gender-transitions-happen/)，节选（有删改）自：Gleeson, J.J. (2021) ‘How Do Gender Transitions Happen?’, in J.J. Gleeson, E. O’Rourke, and J. Rosenberg (eds) *Transgender Marxism*. London: Pluto Press.**
 
-作者：朱尔斯·乔安妮·格里森（Jules Joanne Gleeson）
-翻译：[跨性别相关放送][^QQ]
-译校：amber
-原文：[How Do Gender Transitions Happen? - Boston Review](https://www.bostonreview.net/articles/how-do-gender-transitions-happen/)，节选（有删改）自：Gleeson, J.J. (2021) ‘How Do Gender Transitions Happen?’, in J.J. Gleeson, E. O’Rourke, and J. Rosenberg (eds) *Transgender Marxism*. London: Pluto Press.
+> 这个问题比一直问“*为什么*”好多了。
+
+***
+
+作者：朱尔斯·乔安妮·格里森（Jules Joanne Gleeson）<br>
+日期：2021年6月4日<br>
+翻译：[跨性别相关放送][^QQ] <br>
+译校：amber<br>
 
 译注：性别对应 gender，跨性别对应 trans/transgender，性别过渡对应 gender transition，社群对应 community，亲密（力）对应affinity。全篇 DeepL 辅助速通。译注以脚注出现。因原文发表平台原因，全篇没有引用文献，引用文献可在节选来源书本的对应章节寻。
 
-2021年6月4日
+***
 
 今年是全世界跨性别者经受考验的一年：在美国，联邦层面在 2020 年取得了一些进展，但随后在州层面遭到反击，[<u>三十三个州政府提出了一百多项 “示范法案”</u>](“https://edition.cnn.com/2021/04/15/politics/anti-transgender-legislation-2021/index.html”)，剥夺了跨性别者（尤其是跨性别儿童和青少年）获得医疗保健和支持性学校教育环境的权利。上个月，在[<u>德国</u>](“https://www.dw.com/en/trans-germany/a-56031861”)和[<u>西班牙</u>](“https://www.hrw.org/news/2021/05/20/spain-missed-opportunity-gender-recognition”)，在当地社会民主党懦弱地投了弃权票后，实现性别自我确认[^1]（self-identification）的动议被否决了。在英国，改革错综复杂的《性别认定法》的类似努力在2018年也遭到了失败，今年，由美国基督教右翼资助的恐跨女权主义者提出了一个又一个诉讼，试图削弱跨性别权利。而在匈牙利，维克托·欧尔班抓住了 COVID-19 的机会，因而有效地取缔了跨性别者对其生活性别的任何主张。
 
@@ -31,7 +35,7 @@
 
 第二种对过渡的观点关注跨性别社群，以及社群个人间如何完成相互承认（reciprocal recognition）这一核心工作。这种观点将身份认同界定为产生于这些纽带中的形成性（formative）关系和过程。这些松散的集体为新的语言、生活方式的发展和文化提供了表达的环境或空间。这种观点强调了跨性别身份往往产生于圈子（circles），而只有这种基于亲缘关系（affinity-based）的社群才能提供支持和资源。
 
-### ****观点 1：性别过渡作为对遭遇的掌控****
+## 观点 1：性别过渡作为对遭遇的掌控
 
 关于性别过渡的第一种观点是分析性的观点：它认为性别认可是一个在社会上展开的过程，跨性别者必须尽其所能，利用激素、手术、姿势或言语训练、衣着以及身份文件的正式变更来掌控这一过程。它关注的是跨性别者在考虑自己、准备自己以及与更广阔的世界遭遇时所经历的评价性时刻。
 
@@ -64,7 +68,7 @@
 
 **“性别过渡作为对与世界遭遇时的准备”最终同时成为了最有用也最不在理论上令人满意的解读，因为它坚定不移地关注个人和个人周边的人。这种思路的最大风险在于把性别过渡归结为在原子化的整体环境下发生的一个简单过程。** 社会影响仅仅在分析的角度上作为一种需要个人化应对的简单性别过渡的阻碍或限制存在。要认识到社会关系所起的作用要广泛得多，就需要采取不同的理论方法。这就为我们带来了另一种关于性别过渡的观点：当第一种观点认为这种过渡主体性（transitioning subjectivity）不是社会造成，而是既定内容的时候，第二章观点的核心恰恰在于跨性别社群在培养过渡主体性方面所发挥的作用。
 
-### 观点 2：社群行为中的性别过渡
+## 观点 2：社群行为中的性别过渡
 
 谈到跨性别社群（community），我首先要澄清的是，我心目中的跨性别社群并不是任何一个被称为“跨性别社群”的实体。一个统一社群的概念对职业政客来说很有吸引力，他们喜欢幻想通过带一个代表出去吃午餐，就能与整个潜在选民层进行互动。在现实生活中，跨性别者与任何其他群体一样被强制分离并相互疏远：阶级、种族、民族和性别地位的差异仍然使得，即使是同在一个城市的一对跨性别者，也可能因为各种原因而不可能见面。(尽管如此，长期失业和被家庭抛弃的可能性使跨性别者的生活经历更有可能趋于一致，而严重的心理健康问题在任何人口统计内的跨性别者中都普遍存在）。  
 
