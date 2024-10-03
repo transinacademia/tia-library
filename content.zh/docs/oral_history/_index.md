@@ -9,7 +9,7 @@ bookCollapseSection: true
 Sinophone Trans Oral History Project
 
 ## 简介
-华语跨性别口述史项目（Sinophone Trans Oral History Project）由下属于 One Among Us（简称 OAU）的跨性别学术小组（Trans in Academia!，简称 TiA!）于 2024 年初发起，旨在记录、保存并分享来自中国跨性别者对自身经历、经验和历史的叙述。中国跨性别口述史项目的方针、研究内容、安保等管理与其他 OAU / TiA! 项目独立。
+华语跨性别口述史项目（Sinophone Trans Oral History Project）由跨性别学术小组（Trans in Academia!，简称 TiA!）于 2024 年初发起，旨在记录、保存并分享来自中国跨性别者对自身经历、经验和历史的叙述。中国跨性别口述史项目的方针、研究内容、安保等管理与其他 TiA! 项目独立。
 
 ### 什么是口述史
 
