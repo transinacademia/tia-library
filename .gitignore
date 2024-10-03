@@ -1,2 +1,4 @@
 resources/_gen
 public
+.idea/
+.vscode/
