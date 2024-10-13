@@ -1,0 +1,35 @@
+name: Update Hugo theme submodule
+
+on:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write  # enable write permission for the workflow
+
+jobs:
+  update-submodule:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          submodules: true  # auto-update submodules
+
+      - name: Update Hugo theme submodule
+        run: |
+          git submodule update --remote --merge
+
+      - name: Commit submodule updates if there are changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add themes/book
+          # Only commit if there are changes
+          if ! git diff --cached --quiet; then
+            git commit -m "CI: Update Hugo theme submodule to latest"
+            git push origin main
+          else
+            echo "No changes to commit"
+          fi
