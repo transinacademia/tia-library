@@ -6,7 +6,7 @@ on:
       - main
 
 permissions:
-  contents: write  # enable write permission for the workflow
+  contents: write # enable write permission for the workflow
 
 jobs:
   update-submodule:
@@ -15,7 +15,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          submodules: true  # auto-update submodules
+          submodules: true
 
       - name: Update Hugo theme submodule
         run: |
