@@ -4,7 +4,7 @@ title: 对数字化时代基于“生理女性”范畴之身份政治的批判�
 
 # 跨性别主体性与性差异逻辑
 
-**Carlson, Shanna T. Transgender Subjectivity and the Logic of Sexual Difference. differences: A Journal of Feminist Cultural Studies (2010), 21(2), pp. 46–72. https://doi.org/10.1215/10407391-2010-003 .**
+**Lee, Hyun-Jae. Hyun-Jae. Journal of Asian Sociology (2020), 49(4), pp. 425-448. https://www.jstor.org/stable/10.2307/26979894 .**
 
 ***
 
