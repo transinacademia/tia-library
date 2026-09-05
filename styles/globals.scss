@@ -39,7 +39,8 @@ a:hover { color: var(--accent-hover); }
   background: color-mix(in srgb, var(--bg) 94%, transparent); border-bottom: 1px solid var(--border);
   backdrop-filter: blur(10px);
 }
-.brand { color: var(--text); font-weight: 700; font-size: 1.15rem; letter-spacing: .01em; text-decoration: none; }
+.brand { display: inline-flex; align-items: center; gap: .55rem; color: var(--text); font-weight: 700; font-size: 1.15rem; letter-spacing: .01em; text-decoration: none; }
+.brand-logo { width: 2.25rem; height: 2.25rem; object-fit: contain; }
 .brand span { color: var(--accent); font-weight: 400; }
 .site-body { display: flex; width: 100%; max-width: 1440px; margin: 0 auto; flex: 1; }
 .site-sidebar { width: 240px; flex: 0 0 240px; padding: 2.5rem 1.5rem; border-right: 1px solid var(--border); }
@@ -82,6 +83,7 @@ a:hover { color: var(--accent-hover); }
 .search-empty { padding: .45rem .65rem; color: var(--muted); }
 .mobile-nav-toggle, .mobile-sidebar, .mobile-nav-backdrop { display: none; }
 .landing { max-width: 800px; margin: 0 auto; padding: clamp(2rem, 8vw, 7rem) 0; }
+.landing-logo { display: block; width: clamp(7rem, 20vw, 10rem); height: auto; margin: 0 0 1rem; }
 .eyebrow { color: var(--accent); font-size: .8rem; font-weight: 700; letter-spacing: .15em; }
 .lead { max-width: 42rem; color: var(--muted); font-size: 1.2rem; }
 .landing-actions { display: flex; flex-wrap: wrap; gap: .75rem; margin: 2rem 0 4rem; }

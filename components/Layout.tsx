@@ -44,7 +44,10 @@ export default function Layout({ children }: { children: React.ReactNode }) {
   return (
     <div className="site-root">
       <header className="site-header">
-        <Link className="brand" href="/">Trans in Academia! <span>Library</span></Link>
+        <Link className="brand" href="/">
+          <img className="brand-logo" src="/logo.webp" alt="Trans in Academia!" />
+          <span>Library</span>
+        </Link>
         <button
           className="mobile-nav-toggle"
           type="button"
