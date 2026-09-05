@@ -21,7 +21,7 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: Convert Hugo shortcodes to MDX (PowerShell)
+      - name: Convert document shortcodes to MDX (PowerShell)
         shell: pwsh
         run: |
           pwsh ./scripts/convert-shortcodes.ps1 -source 'content.zh' -target 'content'
