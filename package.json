@@ -4,7 +4,7 @@
   "version": "0.1.0",
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
+    "build": "node ./scripts/prepare-content.js && next build",
     "start": "next start",
     "lint": "next lint",
     "content:build": "contentlayer build",
