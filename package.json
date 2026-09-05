@@ -13,7 +13,6 @@
   "dependencies": {
     "@contentlayer/source-files": "0.3.4",
     "@mdx-js/react": "3.1.1",
-<<<<<<< HEAD
     "contentlayer": "0.3.4",
     "flexsearch": "^0.7.0",
     "next": "14.2.30",
