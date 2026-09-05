@@ -9,7 +9,7 @@ Copy-Item -Recurse -Path $source -Destination $target
 
 # Replace Hugo katex shortcodes with MDX component
 Get-ChildItem -Path $target -Include *.md -Recurse | ForEach-Object {
-  (Get-Content -Raw -Path $_.FullName) -replace '\{\{<\s*katex\s*>\}}', '<Katex>' -replace '\{\{<\s*/katex\s*>\}}', '</Katex>' | Set-Content -Path $_.FullName -Force
+  (Get-Content -Raw -Path $_.FullName) -replace '(?m)^type:\s*docs\s*\r?\n', '' -replace '\{\{<\s*katex\s*>\}}', '<Katex>' -replace '\{\{<\s*/katex\s*>\}}', '</Katex>' | Set-Content -Path $_.FullName -Force
 }
 
 # Replace youtube shortcodes like {{< youtube id >}} -> <YouTubeEmbed id="id" />
@@ -27,7 +27,7 @@ Get-ChildItem -Path $target -Include *.md -Recurse | ForEach-Object {
     # naive attr parse: src="..." caption="..."
     $src = ([System.Text.RegularExpressions.Regex]::Match($attrs, 'src\s*=\s*"([^"]+)"')).Groups[1].Value
     $caption = ([System.Text.RegularExpressions.Regex]::Match($attrs, 'caption\s*=\s*"([^"]+)"')).Groups[1].Value
-    return "<Figure src=\"$src\" caption=\"$caption\" />"
+    return ('<Figure src="{0}" caption="{1}" />' -f $src, $caption)
   })
   Set-Content -Path $_.FullName -Value $text -Force
 }

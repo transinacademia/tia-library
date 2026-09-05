@@ -6,7 +6,7 @@ export default async function DocPage({ params }: Props) {
   const slug = params.slug?.join('/') || ''
 
   try {
-    const gen = await import('contentlayer/generated')
+    const gen = await import('../../../../.contentlayer/generated')
     const allDocs = (gen as any).allDoc || (gen as any).allDocs || []
     const doc = allDocs.find((d: any) => d.slug === slug || d._raw?.flattenedPath === slug)
     if (!doc) {

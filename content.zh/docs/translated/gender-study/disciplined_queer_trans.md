@@ -6,7 +6,7 @@ title: 受到规训/得到学科化：现在关于酷儿研究的跨儿*是什�
 **Keegan, C.M. (2018). Getting Disciplined: What’s Trans\* about Queer Studies Now? Journal of Homosexuality, 67(3), pp.1–14. [doi.org/10.1080/00918369.2018.1530885](http://doi.org/10.1080/00918369.2018.1530885).**
 
 ***
-作者：凯尔·M·基根（Cáel M. Keegan）<br>
+作者：凯尔·M·基根（Cáel M. Keegan）<br />
 译者：許顓頊（they/them/祂/佢/TA）
 ***
 
@@ -44,7 +44,7 @@ title: 受到规训/得到学科化：现在关于酷儿研究的跨儿*是什�
 > 
 > 反对某事的论据；反对。
 
-——沙拉亚 Shraya, 《棕色皮肤常常感觉像一种“*但是*”》 “often brown feels like _but_”<br>
+——沙拉亚 Shraya, 《棕色皮肤常常感觉像一种“*但是*”》 “often brown feels like _but_”<br />
 
 
 > 跨学科性（Interdisciplinarity）主要在于（consists in）创造一个不属于任何人的新客体（a new object）。

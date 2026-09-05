@@ -1,8 +1,10 @@
 (async () => {
   try {
     // Try to import contentlayer generated data
-    const gen = await import('contentlayer/generated')
-    const allDocs = gen.allDoc || gen.allDocs || gen.all || []
+    const fs = await import('fs')
+    const path = await import('path')
+    const generatedPath = path.join(process.cwd(), '.contentlayer', 'generated', 'Doc', '_index.json')
+    const allDocs = JSON.parse(fs.readFileSync(generatedPath, 'utf8'))
 
     const docs = (allDocs || []).map(d => ({
       slug: d.slug || (d._raw && d._raw.flattenedPath) || d._id || '',
@@ -10,8 +12,6 @@
       body: d.body || d.excerpt || ''
     }))
 
-    const fs = await import('fs')
-    const path = await import('path')
     const outDir = path.join(process.cwd(), 'public')
     if (!fs.existsSync(outDir)) fs.mkdirSync(outDir, { recursive: true })
     const outPath = path.join(outDir, 'search-index.json')

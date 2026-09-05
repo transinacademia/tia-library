@@ -13,10 +13,10 @@ comment: false
 
 ***
 
-作者：朱尔斯·乔安妮·格里森（Jules Joanne Gleeson）<br>
-日期：2021年6月4日<br>
-翻译：[跨性别相关放送][^QQ] <br>
-译校：amber<br>
+作者：朱尔斯·乔安妮·格里森（Jules Joanne Gleeson）<br />
+日期：2021年6月4日<br />
+翻译：[跨性别相关放送][^QQ] <br />
+译校：amber<br />
 
 译注：性别对应 gender，跨性别对应 trans/transgender，性别过渡对应 gender transition，社群对应 community，亲密（力）对应affinity。全篇 DeepL 辅助速通。译注以脚注出现。因原文发表平台原因，全篇没有引用文献，引用文献可在节选来源书本的对应章节寻。
 
