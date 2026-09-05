@@ -1,4 +1,5 @@
 import React from 'react'
+import * as jsxRuntime from 'react/jsx-runtime'
 
 import Katex from './Katex'
 import YouTubeEmbed from './YouTubeEmbed'
@@ -38,7 +39,7 @@ export function headingsFromMarkdown(markdown: string) {
 
 export default function DocRenderer({ code }: { code: string }) {
   // Content is compiled during the trusted build by Contentlayer.
-  const module = new Function('React', `${code}`)(React)
+  const module = new Function('React', '_jsx_runtime', `${code}`)(React, jsxRuntime)
   const Component = (module.default || module) as React.ComponentType<any>
   return <Component components={components} />
 }
