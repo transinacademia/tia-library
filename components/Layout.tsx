@@ -45,6 +45,7 @@ export default function Layout({ children }: { children: React.ReactNode }) {
     <div className="site-root">
       <header className="site-header">
         <Link className="brand" href="/">
+          <img className="brand-logo" src="/logo.webp" alt="Trans in Academia!" />
           <span>Library</span>
         </Link>
         <button
