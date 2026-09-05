@@ -1,38 +1,31 @@
-import React from 'react'
+import { notFound } from 'next/navigation'
+import { allDocs } from 'contentlayer/generated'
+import DocRenderer, { headingsFromMarkdown } from '../../../../components/DocRenderer'
+import TOC from '../../../../components/TOC'
+import EditThisPageLink from '../../../../components/EditThisPageLink'
 
 type Props = { params: { lang: string; slug: string[] } }
 
-export default async function DocPage({ params }: Props) {
-  const slug = params.slug?.join('/') || ''
+export function generateStaticParams() {
+  return allDocs
+    .filter((doc) => doc.slug.startsWith('docs/'))
+    .map((doc) => ({ lang: 'zh', slug: doc.slug.slice('docs/'.length).split('/') }))
+}
 
-  try {
-    const gen = await import('../../../../.contentlayer/generated')
-    const allDocs = (gen as any).allDoc || (gen as any).allDocs || []
-    const doc = allDocs.find((d: any) => d.slug === slug || d._raw?.flattenedPath === slug)
-    if (!doc) {
-      return (
-        <main style={{padding: '2rem'}}>
-          <h1>文档未找到</h1>
-          <p>无法在构建时找到与路径匹配的文档: {slug}</p>
-        </main>
-      )
-    }
-    return (
-      <main style={{padding: '2rem'}}>
+export default function DocPage({ params }: Props) {
+  const slug = params.slug?.join('/') || ''
+  const doc = allDocs.find((candidate) => candidate.slug === `docs/${slug}`)
+  if (!doc) notFound()
+
+  const headings = headingsFromMarkdown(doc.body.raw)
+  return (
+    <main className="doc-page">
+      <div className="doc-content">
         <h1>{doc.title}</h1>
-        <div>
-          {/* Contentlayer MDX rendering will be wired during migration. */}
-          <pre style={{whiteSpace: 'pre-wrap'}}>{(doc.body as any) || doc._raw?.sourceFilePath}</pre>
-        </div>
-      </main>
-    )
-  } catch (e) {
-    return (
-      <main style={{padding: '2rem'}}>
-        <h1>文档预览</h1>
-        <p>Contentlayer 未生成。请在本地或 CI 中安装依赖并运行构建以生成内容。</p>
-        <p>Requested slug: {slug}</p>
-      </main>
-    )
-  }
+        <DocRenderer code={doc.body.code} />
+        <EditThisPageLink filePath={`content.zh/${doc._raw.sourceFilePath}`} />
+      </div>
+      <TOC items={headings} />
+    </main>
+  )
 }

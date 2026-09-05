@@ -1,17 +1,18 @@
 import React from 'react'
 import '../styles/globals.scss'
+import Sidebar from './Sidebar'
+import Search from './Search'
 
 export default function Layout({ children }: { children: React.ReactNode }) {
   return (
     <div className="site-root">
-      <header style={{padding: '1rem 2rem', borderBottom: '1px solid #eee'}}>
-        <a href="/">Trans in Academia! Library</a>
+      <header className="site-header">
+        <a href="/zh/docs/">Trans in Academia! Library</a>
+        <Search />
       </header>
-      <div style={{display: 'flex'}}>
-        <aside style={{width: 280, padding: '1rem 1rem', borderRight: '1px solid #f0f0f0'}}>
-          {/* Sidebar / navigation will go here */}
-        </aside>
-        <article style={{flex: 1, padding: '1rem 2rem'}}>{children}</article>
+      <div className="site-body">
+        <aside className="site-sidebar"><Sidebar /></aside>
+        <article className="site-main">{children}</article>
       </div>
       <footer style={{padding: '1rem 2rem', borderTop: '1px solid #eee'}}>
         © Trans in Academia!
