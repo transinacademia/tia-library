@@ -5,7 +5,7 @@ export default function Home() {
     <main className="landing">
       <img className="landing-logo theme-logo-light" src="/LOGO.webp" alt="Trans in Academia!" />
       <img className="landing-logo theme-logo-dark" src="/LOGO_Dark.webp" alt="" aria-hidden="true" />
-      <p className="eyebrow">TRANS IN ACADEMIA!</p>
+      <p className="eyebrow">Trans in Academia!</p>
       <h1>跨性别学术小组资料库</h1>
       <p className="lead">这里收录跨性别学术小组的写作、翻译与研究资料，欢迎阅读、引用和分享。</p>
       <div className="landing-actions">
