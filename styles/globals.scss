@@ -41,6 +41,9 @@ a:hover { color: var(--accent-hover); }
 .site-sidebar li { margin: .25rem 0; }
 .site-sidebar a { display: block; padding: .35rem .65rem; border-radius: .35rem; text-decoration: none; }
 .site-sidebar a:hover { background: var(--surface); }
+.site-sidebar .sidebar-folder > summary { padding: .35rem .65rem; border-radius: .35rem; cursor: pointer; }
+.site-sidebar .sidebar-folder > summary:hover { background: var(--surface); }
+.site-sidebar .sidebar-folder > ul { padding-left: 1rem; }
 .site-main { flex: 1; min-width: 0; padding: clamp(2rem, 5vw, 5rem) clamp(1.25rem, 5vw, 5rem); }
 .doc-page { display: flex; gap: clamp(2rem, 5vw, 5rem); max-width: 1100px; margin: 0 auto; }
 .doc-content { flex: 1; min-width: 0; }
