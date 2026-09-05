@@ -1,6 +1,7 @@
 'use client'
 
 import React, { useEffect, useState } from 'react'
+import Link from 'next/link'
 
 type Doc = { slug: string; title: string; body: string }
 
@@ -26,12 +27,13 @@ export default function Search() {
   return (
     <div className="search" role="search">
       <label htmlFor="site-search" className="sr-only">搜索文档</label>
-      <input id="site-search" placeholder="搜索" value={query} onChange={e => setQuery(e.target.value)} />
-      <ul>
-        {results.map(r => (
-          <li key={r.slug}><a href={`/zh/${r.slug.replace(/^docs\//, 'docs/')}`}>{r.title}</a></li>
-        ))}
-      </ul>
+      <input id="site-search" type="search" placeholder="搜索资料库" value={query} onChange={e => setQuery(e.target.value)} />
+      {query && <ul className="search-results" aria-label="搜索结果">
+        {results.length ? results.map(r => {
+          const path = r.slug.replace(/^docs\//, '').replace(/\/_index$/, '').replace(/^_index$/, '')
+          return <li key={r.slug}><Link href={`/zh/docs${path ? `/${path}` : ''}`}>{r.title}</Link></li>
+        }) : <li className="search-empty">没有找到匹配内容</li>}
+      </ul>}
     </div>
   )
 }
