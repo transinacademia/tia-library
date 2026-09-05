@@ -3,7 +3,7 @@ import Layout from '../components/Layout'
 
 export const metadata = {
   title: 'Trans in Academia! Library',
-  description: 'TIA library migrated to Next.js'
+  description: '跨儿学术小组资料库'
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
