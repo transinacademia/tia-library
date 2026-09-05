@@ -7,8 +7,29 @@ import Search from './Search'
 import Link from 'next/link'
 import { useEffect, useState } from 'react'
 
+type Theme = 'light' | 'dark'
+const THEME_STORAGE_KEY = 'tia-library-theme'
+
 export default function Layout({ children }: { children: React.ReactNode }) {
   const [isMobileNavOpen, setMobileNavOpen] = useState(false)
+  const [theme, setTheme] = useState<Theme | null>(null)
+
+  useEffect(() => {
+    const storedTheme = window.localStorage.getItem(THEME_STORAGE_KEY)
+    const preferredTheme: Theme = storedTheme === 'light' || storedTheme === 'dark'
+      ? storedTheme
+      : window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+
+    document.documentElement.dataset.theme = preferredTheme
+    setTheme(preferredTheme)
+  }, [])
+
+  const toggleTheme = () => {
+    const nextTheme = theme === 'dark' ? 'light' : 'dark'
+    document.documentElement.dataset.theme = nextTheme
+    window.localStorage.setItem(THEME_STORAGE_KEY, nextTheme)
+    setTheme(nextTheme)
+  }
 
   useEffect(() => {
     if (!isMobileNavOpen) return
@@ -35,6 +56,16 @@ export default function Layout({ children }: { children: React.ReactNode }) {
           <span aria-hidden="true">☰</span>
         </button>
         <Search />
+        <button
+          className="theme-toggle"
+          type="button"
+          aria-label="切换颜色主题"
+          aria-pressed={theme === 'dark'}
+          onClick={toggleTheme}
+        >
+          <span aria-hidden="true">{theme === 'dark' ? '☀' : '☾'}</span>
+          <span>{theme === 'dark' ? '浅色模式' : '深色模式'}</span>
+        </button>
       </header>
       <div className="site-body">
         <aside className="site-sidebar"><Sidebar /></aside>
