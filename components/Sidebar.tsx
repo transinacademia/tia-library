@@ -54,10 +54,10 @@ function buildSidebarTree(docs: (typeof allDocs)[number][]) {
     .sort((a, b) => a.key.localeCompare(b.key))
 }
 
-function renderNodes(nodes: SidebarNode[]): React.ReactNode {
+function renderNodes(nodes: SidebarNode[], onNavigate?: () => void): React.ReactNode {
   return nodes.map((node) => {
     const content = node.doc ? (
-      <Link href={hrefForDoc(node.doc.slug)}>{node.doc.title}</Link>
+      <Link href={hrefForDoc(node.doc.slug)} onClick={onNavigate}>{node.doc.title}</Link>
     ) : (
       node.key.split('/').pop()
     )
@@ -68,7 +68,7 @@ function renderNodes(nodes: SidebarNode[]): React.ReactNode {
         {children.length > 0 ? (
           <details className="sidebar-folder">
             <summary>{content}</summary>
-            <ul>{renderNodes(children)}</ul>
+            <ul>{renderNodes(children, onNavigate)}</ul>
           </details>
         ) : (
           content
@@ -78,7 +78,7 @@ function renderNodes(nodes: SidebarNode[]): React.ReactNode {
   })
 }
 
-export default function Sidebar() {
+export default function Sidebar({ onNavigate }: { onNavigate?: () => void }) {
   const docs = allDocs
     .filter((doc) => doc.slug.startsWith('docs/') && doc.slug !== 'docs/_index')
   const tree = buildSidebarTree(docs)
@@ -87,8 +87,8 @@ export default function Sidebar() {
     <nav aria-label="主导航">
       <h2>资料库</h2>
       <ul>
-        <li><Link href="/zh/docs">首页</Link></li>
-        {renderNodes(tree)}
+        <li><Link href="/zh/docs" onClick={onNavigate}>首页</Link></li>
+        {renderNodes(tree, onNavigate)}
       </ul>
     </nav>
   )
