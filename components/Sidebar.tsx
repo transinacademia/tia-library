@@ -1,95 +1,43 @@
 import React from 'react'
-import Link from 'next/link'
 import { allDocs } from 'contentlayer/generated'
+import SidebarTree, { type NavNode } from './SidebarTree'
 
-type SidebarNode = {
-  key: string
-  doc?: (typeof allDocs)[number]
-  children: SidebarNode[]
-}
+// Server component: the only file that touches allDocs (7.5 MB with compiled bodies).
+// It hands the client tree a few KB of { title, href, children } and nothing else.
 
-function hrefForDoc(slug: string) {
-  const path = slug
-    .replace(/^docs\//, '')
-    .replace(/\/_index$/, '')
-    .replace(/^_index$/, '')
-  return `/zh/docs${path ? `/${path}` : ''}`
-}
+type Doc = (typeof allDocs)[number]
+type Draft = { key: string; doc?: Doc; children: Map<string, Draft> }
 
-function buildSidebarTree(docs: (typeof allDocs)[number][]) {
-  const nodes = new Map<string, SidebarNode>()
-  const getNode = (key: string) => {
-    let node = nodes.get(key)
-    if (!node) {
-      node = { key, children: [] }
-      nodes.set(key, node)
-    }
-    return node
-  }
+const keyOf = (slug: string) => slug.replace(/^docs\//, '').replace(/\/_index$/, '')
+const hrefOf = (key: string) => `/zh/docs${key ? `/${key}` : ''}`
 
-  for (const doc of docs) {
-    const relativeSlug = doc.slug.replace(/^docs\//, '')
-    const isFolder = relativeSlug.endsWith('/_index')
-    const key = isFolder
-      ? relativeSlug.replace(/\/_index$/, '')
-      : relativeSlug
-    const node = getNode(key)
-    node.doc = doc
+function buildTree(docs: Doc[]): NavNode[] {
+  const root: Draft = { key: '', children: new Map() }
+  const draftFor = (key: string) =>
+    key.split('/').reduce((parent, _part, i, parts) => {
+      const k = parts.slice(0, i + 1).join('/')
+      let node = parent.children.get(k)
+      if (!node) {
+        node = { key: k, children: new Map() }
+        parent.children.set(k, node)
+      }
+      return node
+    }, root)
+  for (const doc of docs) draftFor(keyOf(doc.slug)).doc = doc
 
-    const parts = key.split('/')
-    for (let i = 1; i < parts.length; i += 1) {
-      getNode(parts.slice(0, i).join('/'))
-    }
-  }
-
-  for (const node of nodes.values()) {
-    const parentKey = node.key.includes('/')
-      ? node.key.slice(0, node.key.lastIndexOf('/'))
-      : ''
-    if (parentKey) getNode(parentKey).children.push(node)
-  }
-
-  return [...nodes.values()]
-    .filter((node) => !node.key.includes('/'))
-    .sort((a, b) => a.key.localeCompare(b.key))
-}
-
-function renderNodes(nodes: SidebarNode[], onNavigate?: () => void): React.ReactNode {
-  return nodes.map((node) => {
-    const content = node.doc ? (
-      <Link href={hrefForDoc(node.doc.slug)} onClick={onNavigate}>{node.doc.title}</Link>
-    ) : (
-      node.key.split('/').pop()
-    )
-
-    const children = [...node.children].sort((a, b) => a.key.localeCompare(b.key))
-    return (
-      <li key={node.key}>
-        {children.length > 0 ? (
-          <details className="sidebar-folder">
-            <summary>{content}</summary>
-            <ul>{renderNodes(children, onNavigate)}</ul>
-          </details>
-        ) : (
-          content
-        )}
-      </li>
-    )
+  // Hugo `weight` first (the order the editors wrote for), then slug.
+  const weight = (d: Draft) => (typeof d.doc?.weight === 'number' ? d.doc.weight : Number.POSITIVE_INFINITY)
+  const toNode = (d: Draft): NavNode => ({
+    title: (d.doc?.title ?? d.key.split('/').pop() ?? '').trim(),
+    href: hrefOf(d.key),
+    children: [...d.children.values()]
+      .sort((a, b) => weight(a) - weight(b) || a.key.localeCompare(b.key))
+      .map(toNode),
   })
+  return toNode(root).children
 }
 
-export default function Sidebar({ onNavigate }: { onNavigate?: () => void }) {
-  const docs = allDocs
-    .filter((doc) => doc.slug.startsWith('docs/') && doc.slug !== 'docs/_index')
-  const tree = buildSidebarTree(docs)
-
-  return (
-    <nav aria-label="主导航">
-      <h2>资料库</h2>
-      <ul>
-        <li><Link href="/zh/docs" onClick={onNavigate}>首页</Link></li>
-        {renderNodes(tree, onNavigate)}
-      </ul>
-    </nav>
-  )
+export default function Sidebar() {
+  const docs = allDocs.filter((doc) => doc.slug.startsWith('docs/') && doc.slug !== 'docs/_index')
+  return <SidebarTree tree={buildTree(docs)} />
 }

@@ -1,5 +1,6 @@
 import '../styles/globals.scss';
 import Layout from '../components/Layout'
+import Sidebar from '../components/Sidebar'
 
 export const metadata = {
   title: 'Trans in Academia! Library',
@@ -10,11 +11,21 @@ export const metadata = {
   },
 };
 
+// Runs before first paint. Only an explicit choice is stamped; with nothing stored the
+// prefers-color-scheme rules in globals.scss decide, with no JS involved.
+const themeInit =
+  "try{var t=localStorage.getItem('tia-library-theme');if(t==='light'||t==='dark'){document.documentElement.dataset.theme=t}}catch(e){}"
+
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
-    <html lang="zh-CN">
+    <html lang="zh-CN" suppressHydrationWarning>
+      <head>
+        <script dangerouslySetInnerHTML={{ __html: themeInit }} />
+      </head>
       <body>
-        <Layout>{children}</Layout>
+        {/* Sidebar is rendered here, in a server component, so its allDocs import never
+            crosses into the client bundle. Layout receives the finished element. */}
+        <Layout sidebar={<Sidebar />}>{children}</Layout>
       </body>
     </html>
   );

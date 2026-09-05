@@ -1,39 +1,34 @@
 'use client'
 
-import React from 'react'
-import '../styles/globals.scss'
-import Sidebar from './Sidebar'
-import Search from './Search'
+import React, { useEffect, useRef, useState } from 'react'
 import Link from 'next/link'
-import { useEffect, useState } from 'react'
+import { usePathname } from 'next/navigation'
+import Search from './Search'
+import ThemeToggle from './ThemeToggle'
 
-type Theme = 'light' | 'dark'
-const THEME_STORAGE_KEY = 'tia-library-theme'
-
-export default function Layout({ children }: { children: React.ReactNode }) {
+export default function Layout({ children, sidebar }: { children: React.ReactNode; sidebar: React.ReactNode }) {
+  const pathname = usePathname()
   const [isMobileNavOpen, setMobileNavOpen] = useState(false)
-  const [theme, setTheme] = useState<Theme | null>(null)
+  const toggleRef = useRef<HTMLButtonElement>(null)
+  const drawerRef = useRef<HTMLElement>(null)
+  const restoreFocus = useRef(false)
 
+  // Opening moves focus into the drawer; closing by Escape or the backdrop hands it back to ☰.
   useEffect(() => {
-    const storedTheme = window.localStorage.getItem(THEME_STORAGE_KEY)
-    const preferredTheme: Theme = storedTheme === 'light' || storedTheme === 'dark'
-      ? storedTheme
-      : window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+    if (isMobileNavOpen) {
+      restoreFocus.current = true
+      drawerRef.current?.querySelector<HTMLElement>('a, button')?.focus()
+    } else if (restoreFocus.current) {
+      restoreFocus.current = false
+      toggleRef.current?.focus()
+    }
+  }, [isMobileNavOpen])
 
-    document.documentElement.dataset.theme = preferredTheme
-    setTheme(preferredTheme)
-  }, [])
-
-  const toggleTheme = () => {
-    const nextTheme = theme === 'dark' ? 'light' : 'dark'
-    document.documentElement.dataset.theme = nextTheme
-    window.localStorage.setItem(THEME_STORAGE_KEY, nextTheme)
-    setTheme(nextTheme)
-  }
+  // The drawer closes on any navigation; focus stays where the new page put it.
+  useEffect(() => { restoreFocus.current = false; setMobileNavOpen(false) }, [pathname])
 
   useEffect(() => {
     if (!isMobileNavOpen) return
-
     const closeOnEscape = (event: KeyboardEvent) => {
       if (event.key === 'Escape') setMobileNavOpen(false)
     }
@@ -49,30 +44,26 @@ export default function Layout({ children }: { children: React.ReactNode }) {
           <img className="brand-logo theme-logo-dark" src="/LOGO_Dark.webp" alt="" aria-hidden="true" />
           <span>Library</span>
         </Link>
-        <button
-          className="mobile-nav-toggle"
-          type="button"
-          aria-expanded={isMobileNavOpen}
-          aria-controls="mobile-sidebar"
-          onClick={() => setMobileNavOpen((open) => !open)}
-        >
-          <span className="sr-only">{isMobileNavOpen ? '关闭' : '打开'}导航</span>
-          <span aria-hidden="true">☰</span>
-        </button>
-        <Search />
-        <button
-          className="theme-toggle"
-          type="button"
-          aria-label="切换颜色主题"
-          aria-pressed={theme === 'dark'}
-          onClick={toggleTheme}
-        >
-          <span aria-hidden="true">{theme === 'dark' ? '☀' : '☾'}</span>
-          <span>{theme === 'dark' ? '浅色模式' : '深色模式'}</span>
-        </button>
+        <div className="site-tools">
+          <Search />
+          <ThemeToggle />
+          <button
+            ref={toggleRef}
+            className="mobile-nav-toggle"
+            type="button"
+            aria-expanded={isMobileNavOpen}
+            aria-controls="mobile-sidebar"
+            onClick={() => setMobileNavOpen((open) => !open)}
+          >
+            <span className="sr-only">{isMobileNavOpen ? '关闭' : '打开'}导航</span>
+            <svg aria-hidden="true" width="18" height="18" viewBox="0 0 18 18" fill="none">
+              <path d="M1 5.5h16M1 12.5h16" stroke="currentColor" strokeWidth="1.25" />
+            </svg>
+          </button>
+        </div>
       </header>
       <div className="site-body">
-        <aside className="site-sidebar"><Sidebar /></aside>
+        <aside className="site-sidebar">{sidebar}</aside>
         <div className="site-main">{children}</div>
       </div>
       {isMobileNavOpen && (
@@ -83,8 +74,8 @@ export default function Layout({ children }: { children: React.ReactNode }) {
             aria-label="关闭导航"
             onClick={() => setMobileNavOpen(false)}
           />
-          <aside id="mobile-sidebar" className="mobile-sidebar" aria-label="移动端主导航">
-            <Sidebar onNavigate={() => setMobileNavOpen(false)} />
+          <aside ref={drawerRef} id="mobile-sidebar" className="mobile-sidebar" aria-label="移动端主导航">
+            {sidebar}
           </aside>
         </>
       )}
