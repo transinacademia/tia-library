@@ -7,7 +7,7 @@ Param(
 if (Test-Path $target) { Write-Host "Target $target already exists. Exiting to avoid overwrite."; exit 1 }
 Copy-Item -Recurse -Path $source -Destination $target
 
-# Replace Hugo katex shortcodes with MDX component
+# Replace KaTeX shortcodes with MDX component
 Get-ChildItem -Path $target -Include *.md -Recurse | ForEach-Object {
   (Get-Content -Raw -Path $_.FullName) -replace '(?m)^type:\s*docs\s*\r?\n', '' -replace '\{\{<\s*katex\s*>\}}', '<Katex>' -replace '\{\{<\s*/katex\s*>\}}', '</Katex>' | Set-Content -Path $_.FullName -Force
 }
