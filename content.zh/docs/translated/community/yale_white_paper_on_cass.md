@@ -25,13 +25,13 @@ Ayden Scheim, PhD, Assistant Professor of Epidemiology, Dornsife School of Publi
 
 Jack Turban, MD, MHS, Assistant Professor of Psychiatry & Behavioral Sciences and Affiliate Faculty at the Philip R. Lee Institute for Health Policy Studies, University of California, San Francisco
 
-Anne Alstott, JD, Professor of Law, Yale Law School </br>
+Anne Alstott, JD, Professor of Law, Yale Law School <br />
 
 我们想要感谢 Richard Body, MB ChB, MRCSEd (A&E), FRCEM, PhD 和 Annelou de Vries, MD, PhD 对这份报告的初稿提供的反馈。 我们同样对 Jay Taimish，Paola Vidal-Espinoza，与Schuylar Bailar做出的杰出研究贡献表示感激。
 
-译者：Cybermonika Catgpt, Amber, Ro!, 咖喱拉面, Kagami Izumo, Nora Neko</br>
+译者：Cybermonika Catgpt, Amber, Ro!, 咖喱拉面, Kagami Izumo, Nora Neko<br />
 
-校对：Ro!, 咖喱拉面 </br>
+校对：Ro!, 咖喱拉面 <br />
 
 ***
 
@@ -56,7 +56,7 @@ Anne Alstott, JD, Professor of Law, Yale Law School </br>
 
 ## 索引
 
-<b>第一节：《卡斯评估》就性别肯定医疗作出了与世界跨性别健康专业协会（WPATH）及内分泌学会一致的声明。《卡斯评估》不支持禁止性别肯定医疗。
+**第一节：《卡斯评估》就性别肯定医疗作出了与世界跨性别健康专业协会（WPATH）及内分泌学会一致的声明。《卡斯评估》不支持禁止性别肯定医疗。
 
 第二节：《卡斯评估》未遵循评判证据及其质量的通用标准。
 
@@ -68,7 +68,7 @@ Anne Alstott, JD, Professor of Law, Yale Law School </br>
 
 第六节：《卡斯评估》所依据的系统综述存在严重的方法论缺陷，包括忽略现有文献的重点发现。
 
-第七节：《卡斯评估》对约克大学系统综述的关联及运用有悖于循证医学中制定临床建议的规范流程。</b>
+第七节：《卡斯评估》对约克大学系统综述的关联及运用有悖于循证医学中制定临床建议的规范流程。**
 
 
 ## 第一节：《卡斯评估》就性别肯定医疗作出了与世界跨性别健康专业协会（WPATH）及内分泌学会一致的声明。《卡斯评估》不支持禁止性别肯定医疗。

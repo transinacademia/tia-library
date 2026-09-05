@@ -7,9 +7,9 @@ title: 跨性别女权主义宣言
 **Koyama, Emi. “The Transfeminist Manifesto.” _Catching a Wave: Reclaiming Feminism for the 21st Century_, edited by Rory Dicker and Alison Piepmeier, Northeastern University Press, 2003, pp. 244–59.**
 
 ***
-作者：小山惠美（Emi Koyama）<br>
-翻译：Cory<br>
-校对：許顓頊<br>
+作者：小山惠美（Emi Koyama）<br />
+翻译：Cory<br />
+校对：許顓頊<br />
 原载豆瓣（已失效），版权归作者和译者所有
 ***
 

@@ -7,7 +7,7 @@ title: 齐泽克的敌对和跨性 / 别肯定的拉康精神分析之未来
 **Coffman, Chris. “Žižek’s Antagonism and the Futures of Trans-Affirmative Lacanian Psychoanalysis.” *TSQ: Transgender Studies Quarterly*, vol. 4, no. 3–4, Nov. 2017, pp. 472–96. Silverchair, https://doi.org/10.1215/23289252-4189929.**
 
 ***
-作者：克里斯·科夫曼（Chris Coffman）</br>
+作者：克里斯·科夫曼（Chris Coffman）<br />
 译者：許顓頊（代词 they/them/祂/佢/TA）
 ***
 
@@ -258,4 +258,4 @@ Whittle, Stephen. 2006. Foreword to The Transgender Studies Reader, edited by 
 
 <sup>9</sup> 参见 Chiesa 2007, Coffman 2013, Pluth 2007, Stavrakakis 1999，和 Žižek 1989 ，关于，**圣状**（the *sinthome*）以及拉康关于穿越根本幻想之论点，的不同论述。
 
-<sup>10</sup> 现名为《蕾丝边和基研究期刊》 （*A Journal of Lesbian and Gay Studies*）见 <https://read.dukeupress.edu/glq> 。*——*译注
+<sup>10</sup> 现名为《蕾丝边和基研究期刊》 （*A Journal of Lesbian and Gay Studies*）见 [https://read.dukeupress.edu/glq](https://read.dukeupress.edu/glq) 。*——*译注

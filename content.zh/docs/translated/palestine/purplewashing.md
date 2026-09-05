@@ -7,8 +7,8 @@ title: 紫色清洗
 Decolonize Palestine. Purplewashing. 4 Apr. 2021, https://decolonizepalestine.com/rainbow-washing/purplewashing/.
 
 ***
-作者：Decolonize Palestine<br>
-翻译：Claudia Huang<br>
+作者：Decolonize Palestine<br />
+翻译：Claudia Huang<br />
 原文：[链接](https://decolonizepalestine.com/rainbow-washing/purplewashing/) 
 ***
 

@@ -7,7 +7,10 @@ export const Doc = defineDocumentType(() => ({
   fields: {
     title: { type: 'string', required: true },
     date: { type: 'date', required: false },
-    type: { type: 'string', required: false }
+    type: { type: 'string', required: false },
+    comment: { type: 'json', required: false },
+    bookCollapseSection: { type: 'json', required: false },
+    weight: { type: 'json', required: false }
   },
   computedFields: {
     slug: {

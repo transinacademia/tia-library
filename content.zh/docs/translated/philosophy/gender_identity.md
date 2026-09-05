@@ -6,9 +6,9 @@ title: 什么是性别认同？
 **Jenkins, Katharine. “Toward an Account of Gender Identity.” _Ergo, an Open Access Journal of Philosophy_, vol. 5, no. 20201214, Sept. 2018. DOI.org (Crossref), https://doi.org/10.3998/ergo.12405314.0005.027.**
 
 ***
-作者：凯瑟琳·詹金斯（Katharine Jenkins）<br>
-翻译：百无一用，塗塗狐<br>
-翻译出处：[第一部分](https://mp.weixin.qq.com/s/FCQH0AIG4tFSykjRIHUcJA)，[第二部分](https://mp.weixin.qq.com/s/HffOUNOghLbFUezj4uq5eA)<br>
+作者：凯瑟琳·詹金斯（Katharine Jenkins）<br />
+翻译：百无一用，塗塗狐<br />
+翻译出处：[第一部分](https://mp.weixin.qq.com/s/FCQH0AIG4tFSykjRIHUcJA)，[第二部分](https://mp.weixin.qq.com/s/HffOUNOghLbFUezj4uq5eA)<br />
 ***
 
 虽然性别认同这一概念在跨性别运动中有着显著的地位，它却没有被充分理解，而一般的定义则面临着循环定义的问题。以跨性别运动尝试运用这一概念的方式为出发点，本篇文章将会对性别认同这一概念进行改良型的探究。首先，我陈述了六个性别认同的目标概念需要满足的要求。接下来我考虑了三种对于性别认同的解释：倾向论解释，自我认同解释，和规范相关解释。我将论证只有规范相关解释可以满足全部六个期望条件。最后，我在三种反驳前捍卫了规范关联解释：它是以顺性别为标准的；它关于跨性别女性存在着有问题的暗示；它意味着一些人并不具有其自以为具有的性别认同。
