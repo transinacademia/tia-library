@@ -1,3 +1,5 @@
+'use client'
+
 import React, { useEffect, useState } from 'react'
 
 type Doc = { slug: string; title: string; body: string }
@@ -22,11 +24,12 @@ export default function Search() {
   }, [query, index])
 
   return (
-    <div>
-      <input placeholder="搜索" value={query} onChange={e => setQuery(e.target.value)} />
+    <div className="search" role="search">
+      <label htmlFor="site-search" className="sr-only">搜索文档</label>
+      <input id="site-search" placeholder="搜索" value={query} onChange={e => setQuery(e.target.value)} />
       <ul>
         {results.map(r => (
-          <li key={r.slug}><a href={`/${r.slug}`}>{r.title}</a></li>
+          <li key={r.slug}><a href={`/zh/${r.slug.replace(/^docs\//, 'docs/')}`}>{r.title}</a></li>
         ))}
       </ul>
     </div>

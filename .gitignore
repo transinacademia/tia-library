@@ -22,6 +22,7 @@ hugo.linux
 # Node / Next.js
 node_modules/
 .next/
+.contentlayer/
 .env
 
 # Generated content during migration

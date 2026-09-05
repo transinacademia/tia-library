@@ -9,8 +9,8 @@
     const docs = (allDocs || []).map(d => ({
       slug: d.slug || (d._raw && d._raw.flattenedPath) || d._id || '',
       title: d.title || '',
-      body: d.body || d.excerpt || ''
-    }))
+      body: d.body?.raw || d.excerpt || ''
+    })).filter(d => d.slug.startsWith('docs/'))
 
     const outDir = path.join(process.cwd(), 'public')
     if (!fs.existsSync(outDir)) fs.mkdirSync(outDir, { recursive: true })
