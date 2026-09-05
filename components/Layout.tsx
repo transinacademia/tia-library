@@ -2,20 +2,22 @@ import React from 'react'
 import '../styles/globals.scss'
 import Sidebar from './Sidebar'
 import Search from './Search'
+import Link from 'next/link'
 
 export default function Layout({ children }: { children: React.ReactNode }) {
   return (
     <div className="site-root">
       <header className="site-header">
-        <a href="/zh/docs/">Trans in Academia! Library</a>
+        <Link className="brand" href="/">Trans in Academia! <span>Library</span></Link>
         <Search />
       </header>
       <div className="site-body">
         <aside className="site-sidebar"><Sidebar /></aside>
-        <article className="site-main">{children}</article>
+        <div className="site-main">{children}</div>
       </div>
-      <footer style={{padding: '1rem 2rem', borderTop: '1px solid #eee'}}>
-        © Trans in Academia!
+      <footer className="site-footer">
+        <span>© Trans in Academia!</span>
+        <a href="https://github.com/transinacademia/tia-library" target="_blank" rel="noreferrer">GitHub</a>
       </footer>
     </div>
   )

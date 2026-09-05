@@ -8,13 +8,18 @@ type Props = { params: { lang: string; slug: string[] } }
 
 export function generateStaticParams() {
   return allDocs
-    .filter((doc) => doc.slug.startsWith('docs/'))
-    .map((doc) => ({ lang: 'zh', slug: doc.slug.slice('docs/'.length).split('/') }))
+    .filter((doc) => doc.slug.startsWith('docs/') && doc.slug !== 'docs/_index')
+    .map((doc) => {
+      const path = doc.slug.slice('docs/'.length)
+      return { lang: 'zh', slug: path.endsWith('/_index') ? path.slice(0, -('/_index'.length)).split('/') : path.split('/') }
+    })
 }
 
 export default function DocPage({ params }: Props) {
   const slug = params.slug?.join('/') || ''
-  const doc = allDocs.find((candidate) => candidate.slug === `docs/${slug}`)
+  const doc = allDocs.find((candidate) =>
+    candidate.slug === `docs/${slug}` || candidate.slug === `docs/${slug}/_index`
+  )
   if (!doc) notFound()
 
   const headings = headingsFromMarkdown(doc.body.raw)
