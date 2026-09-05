@@ -2,6 +2,12 @@
 @import "./_custom.scss";
 
 :root {
+  // Sarasa Gothic is intentionally used as a local/system font: no font files
+  // or third-party font requests are added to the site. See docs/fonts.md.
+  --font-sans: "Sarasa Gothic SC", "Sarasa Gothic", "Noto Sans SC", "PingFang SC",
+    -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  --font-mono: "Sarasa Mono SC", "Sarasa Mono", "SFMono-Regular", Consolas,
+    "Liberation Mono", monospace;
   --bg: #ffffff;
   --surface: #fff1f7;
   --surface-strong: #e8f5ff;
@@ -20,9 +26,10 @@ body {
   margin: 0;
   background: var(--bg);
   color: var(--text);
-  font-family: "Noto Sans SC", "PingFang SC", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-family: var(--font-sans);
   line-height: 1.75;
 }
+button, input, textarea, select { font: inherit; }
 a { color: var(--accent); text-decoration-thickness: .08em; text-underline-offset: .16em; }
 a:hover { color: var(--accent-hover); }
 .site-root { min-height: 100vh; display: flex; flex-direction: column; }
@@ -51,8 +58,8 @@ a:hover { color: var(--accent-hover); }
 .doc-content h2 { margin-top: 2.75rem; }
 .doc-content h3 { margin-top: 2rem; }
 .doc-content img { display: block; max-width: 100%; height: auto; margin: 1.5rem auto; border-radius: .3rem; }
-.doc-content pre { overflow-x: auto; padding: 1rem 1.25rem; background: var(--code); border: 1px solid var(--border); border-radius: .4rem; }
-.doc-content code { padding: .12em .3em; background: var(--code); border-radius: .2rem; font-size: .9em; }
+.doc-content pre { overflow-x: auto; padding: 1rem 1.25rem; background: var(--code); border: 1px solid var(--border); border-radius: .4rem; font-family: var(--font-mono); }
+.doc-content code { padding: .12em .3em; background: var(--code); border-radius: .2rem; font-family: var(--font-mono); font-size: .9em; }
 .doc-content pre code { padding: 0; background: none; }
 .doc-content blockquote { margin: 1.5rem 0; padding: .5rem 1.25rem; color: var(--muted); border-left: 3px solid var(--accent); background: var(--surface); }
 .doc-content table { display: block; overflow-x: auto; border-collapse: collapse; margin: 1.5rem 0; }
