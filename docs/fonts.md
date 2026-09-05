@@ -1,8 +1,14 @@
 # Site fonts
 
-The site prefers [Sarasa Gothic](https://github.com/be5invis/sarasa-gothic) through
-the CSS font stack in `styles/globals.scss`. Font files are not bundled and the
-site does not contact a font CDN, so visitors who want the preferred typeface
-must install Sarasa Gothic locally (the Simplified Chinese family is
-`Sarasa Gothic SC`, with `Sarasa Mono SC` used for code). Browsers automatically
-use the listed system fallbacks when it is unavailable.
+The site embeds a small, self-hosted subset of
+[Sarasa Gothic](https://github.com/be5invis/sarasa-gothic) release `v1.0.41`
+in `public/fonts/`. It includes the Simplified Chinese regular and bold
+proportional faces and the regular monospaced face used by code blocks. The
+files are the upstream unhinted TrueType files; no font CDN or hotlink is used.
+`font-display: swap` and the system fallbacks keep text usable while the files
+load or if a browser cannot use them.
+
+The upstream project and its component fonts are licensed under the SIL Open
+Font License 1.1. The complete license and copyright notice is preserved in
+[`Sarasa-Gothic-LICENSE.txt`](./Sarasa-Gothic-LICENSE.txt). Sarasa Gothic is
+embedded without modification, and the files must not be sold by themselves.
