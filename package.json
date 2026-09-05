@@ -13,13 +13,12 @@
   "dependencies": {
     "@contentlayer/source-files": "0.3.4",
     "@mdx-js/react": "3.1.1",
-    "approve": "^0.0.12",
+<<<<<<< HEAD
     "contentlayer": "0.3.4",
     "flexsearch": "^0.7.0",
     "next": "14.2.30",
-    "react": "19.2.8",
-    "react-dom": "19.2.8",
-    "sass": "^1.66.0",
-    "scripts": "^0.1.0"
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "sass": "^1.66.0"
   }
 }

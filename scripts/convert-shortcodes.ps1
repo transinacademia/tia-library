@@ -27,7 +27,7 @@ Get-ChildItem -Path $target -Include *.md -Recurse | ForEach-Object {
     # naive attr parse: src="..." caption="..."
     $src = ([System.Text.RegularExpressions.Regex]::Match($attrs, 'src\s*=\s*"([^"]+)"')).Groups[1].Value
     $caption = ([System.Text.RegularExpressions.Regex]::Match($attrs, 'caption\s*=\s*"([^"]+)"')).Groups[1].Value
-    return "<Figure src=\"$src\" caption=\"$caption\" />"
+    return ('<Figure src="{0}" caption="{1}" />' -f $src, $caption)
   })
   Set-Content -Path $_.FullName -Value $text -Force
 }
